@@ -1,0 +1,120 @@
+{
+  "_publishedAt": "2026-07-06T01:28:47.926Z",
+  "fundamentals": {
+    "_updated": "2026-06-26T02:20:06.706Z",
+    "tickers": {
+      "NVDA": {
+        "ticker": "NVDA",
+        "quarterly": "Q1 FY2027",
+        "dcRevenueQoQ": 21,
+        "grossMargin": 74.9,
+        "epsBeat": 6.25,
+        "netDebtDirection": null,
+        "capexGuidance": null,
+        "epsBasis": "surprise",
+        "gmBasis": "gaap",
+        "asOf": "2026-05-20"
+      },
+      "AVGO": {
+        "ticker": "AVGO",
+        "quarterly": "Q2 FY2026",
+        "dcRevenueQoQ": 28.57,
+        "grossMargin": 77.1,
+        "epsBeat": 5.17,
+        "netDebtDirection": "down",
+        "capexGuidance": null,
+        "epsBasis": "surprise",
+        "gmBasis": "unknown",
+        "asOf": "2026-06-03"
+      },
+      "TSM": {
+        "ticker": "TSM",
+        "quarterly": "Q1 FY2026",
+        "dcRevenueQoQ": 28,
+        "grossMargin": 66.2,
+        "epsBeat": 5.44,
+        "netDebtDirection": null,
+        "capexGuidance": "raise",
+        "epsBasis": "surprise",
+        "gmBasis": "gaap",
+        "asOf": "2026-04-16"
+      },
+      "MU": {
+        "ticker": "MU",
+        "quarterly": "Q3 FY2026",
+        "dcRevenueQoQ": 103,
+        "grossMargin": 84.6,
+        "epsBeat": 24,
+        "netDebtDirection": "down",
+        "capexGuidance": "raise",
+        "epsBasis": "surprise",
+        "gmBasis": "gaap",
+        "asOf": "2026-06-24"
+      },
+      "MSFT": {
+        "ticker": "MSFT",
+        "quarterly": "Q3 FY2026",
+        "grossMargin": 68,
+        "epsBeat": 4.91,
+        "epsBasis": "surprise",
+        "gmBasis": "unknown",
+        "asOf": "2026-04-29",
+        "capexGuidance": null
+      },
+      "GOOGL": {
+        "ticker": "GOOGL",
+        "quarterly": "Q1 FY2026",
+        "dcRevenueQoQ": 13,
+        "grossMargin": 62.42,
+        "epsBeat": 95.03,
+        "netDebtDirection": "up",
+        "capexGuidance": "raise",
+        "epsBasis": "surprise",
+        "gmBasis": "unknown",
+        "asOf": "2026-04-29"
+      },
+      "AMZN": {
+        "ticker": "AMZN",
+        "quarterly": "Q1 FY2026",
+        "dcRevenueQoQ": 5.62,
+        "grossMargin": 51.82,
+        "epsBeat": 69.51,
+        "netDebtDirection": "up",
+        "capexGuidance": "raise",
+        "epsBasis": "surprise",
+        "gmBasis": "gaap",
+        "asOf": "2026-04-29"
+      },
+      "ORCL": {
+        "ticker": "ORCL",
+        "quarterly": "Q4 FY2026",
+        "dcRevenueQoQ": null,
+        "grossMargin": null,
+        "epsBeat": 7.61,
+        "netDebtDirection": null,
+        "capexGuidance": "raise",
+        "epsBasis": "surprise",
+        "gmBasis": "unknown",
+        "asOf": "2026-06-10"
+      },
+      "META": {
+        "ticker": "META",
+        "quarterly": "Q1 FY2026",
+        "dcRevenueQoQ": null,
+        "grossMargin": 81.9,
+        "epsBeat": 9.6,
+        "netDebtDirection": "flat",
+        "capexGuidance": "raise",
+        "epsBasis": "surprise",
+        "gmBasis": "gaap",
+        "asOf": "2026-04-29"
+      }
+    }
+  },
+  "fundamentalsAsOf": "2026-06-26",
+  "gex": {
+    "netGEX": 21686909.535555318,
+    "flipPoint": 7463,
+    "asOf": "2026-07-01"
+  }
+}

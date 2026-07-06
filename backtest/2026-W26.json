@@ -1,0 +1,28 @@
+{
+  "week": "2026-W26",
+  "dates": [
+    "2026-06-25"
+  ],
+  "generatedAt": "2026-06-26T16:44:12.529Z",
+  "r1": {
+    "triggeredDays": 1,
+    "avgSoxx1d": -4.7,
+    "avgSoxx3d": null,
+    "avgSoxx5d": null
+  },
+  "r3": {
+    "triggeredDays": 0,
+    "avgSoxx1d": null,
+    "avgSoxx3d": null,
+    "avgSoxx5d": null
+  },
+  "summary": {
+    "totalDays": 1,
+    "conditionScores": [
+      2
+    ],
+    "adhesionLabels": [
+      "Chop"
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2026-06-25",
+    "signal": "R1+R2",
+    "conditionScore": 2,
+    "adhesionScore": 0,
+    "adhesionLabel": "Chop",
+    "soxx_1d": -5.64,
+    "soxx_3d": 2.49,
+    "soxx_5d": -7.24,
+    "adhesionSide": "none",
+    "state": "S0"
+  },
+  {
+    "date": "2026-06-26",
+    "signal": "R1+R2",
+    "conditionScore": 1,
+    "adhesionScore": 0,
+    "adhesionLabel": "Chop",
+    "soxx_1d": 4.14,
+    "soxx_3d": 1.65,
+    "soxx_5d": null,
+    "adhesionSide": "none",
+    "state": "S0"
+  },
+  {
+    "date": "2026-06-29",
+    "signal": "R1+R2",
+    "conditionScore": 4,
+    "adhesionScore": 0,
+    "adhesionLabel": "Chop",
+    "soxx_1d": 4.3,
+    "soxx_3d": -5.6,
+    "soxx_5d": null,
+    "adhesionSide": "none",
+    "state": "S1"
+  },
+  {
+    "date": "2026-06-30",
+    "signal": "R1+R2",
+    "conditionScore": 4,
+    "adhesionScore": 0,
+    "adhesionLabel": "Chop",
+    "soxx_1d": -6.41,
+    "soxx_3d": null,
+    "soxx_5d": null,
+    "adhesionSide": "none",
+    "state": "S1"
+  },
+  {
+    "date": "2026-07-01",
+    "signal": "R1+R2",
+    "conditionScore": 5,
+    "adhesionScore": 0,
+    "adhesionLabel": "Chop",
+    "soxx_1d": -3.29,
+    "soxx_3d": null,
+    "soxx_5d": null,
+    "adhesionSide": "none",
+    "state": "S1"
+  },
+  {
+    "date": "2026-07-02",
+    "signal": "R1+R2",
+    "conditionScore": 5,
+    "adhesionScore": 0,
+    "adhesionLabel": "Chop",
+    "soxx_1d": null,
+    "soxx_3d": null,
+    "soxx_5d": null,
+    "adhesionSide": "none",
+    "state": "S1"
+  }
+]
