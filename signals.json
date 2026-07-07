@@ -19,7 +19,7 @@
     "adhesionLabel": "Chop",
     "soxx_1d": 4.14,
     "soxx_3d": 1.65,
-    "soxx_5d": null,
+    "soxx_5d": -1.43,
     "adhesionSide": "none",
     "state": "S0"
   },
@@ -42,7 +42,7 @@
     "adhesionScore": 0,
     "adhesionLabel": "Chop",
     "soxx_1d": -6.41,
-    "soxx_3d": null,
+    "soxx_3d": -9.25,
     "soxx_5d": null,
     "adhesionSide": "none",
     "state": "S1"
@@ -65,10 +65,22 @@
     "conditionScore": 5,
     "adhesionScore": 0,
     "adhesionLabel": "Chop",
-    "soxx_1d": null,
+    "soxx_1d": 2.68,
     "soxx_3d": null,
     "soxx_5d": null,
     "adhesionSide": "none",
     "state": "S1"
+  },
+  {
+    "date": "2026-07-06",
+    "signal": "R1+R2",
+    "state": "S1",
+    "conditionScore": 5,
+    "adhesionScore": 0,
+    "adhesionSide": "none",
+    "adhesionLabel": "Chop",
+    "soxx_1d": null,
+    "soxx_3d": null,
+    "soxx_5d": null
   }
 ]
