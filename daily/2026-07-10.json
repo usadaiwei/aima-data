@@ -1,0 +1,33 @@
+{
+  "date": "2026-07-10",
+  "timestamp": "2026-07-10T08:00:00.000Z",
+  "spy": {
+    "close": 754.9500122070312,
+    "open": 752.0499877929688,
+    "high": 755.4199829101562,
+    "low": 748.0999755859375
+  },
+  "soxx": {
+    "close": 581.3400268554688,
+    "open": 571.989990234375,
+    "high": 585.7899780273438,
+    "low": 566.6699829101562
+  },
+  "computed": {
+    "conditionScore": 8,
+    "adhesionScore": 2,
+    "adhesionSide": "bull",
+    "adhesionLabel": "Above EMA21",
+    "adhesionMaState": "bull_stack",
+    "adhesionStraddleDays": 0,
+    "state": "S3",
+    "vix": 15.029999732971191,
+    "vixMa20": 17.178999948501588,
+    "spy1m": 2.7
+  },
+  "signals": {
+    "r1": false,
+    "r2": false,
+    "r3": true
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "_publishedAt": "2026-07-10T13:49:09.559Z",
+  "_publishedAt": "2026-07-11T16:23:24.182Z",
   "fundamentals": {
     "_updated": "2026-06-26T02:20:06.706Z",
     "tickers": {
@@ -113,8 +113,8 @@
   },
   "fundamentalsAsOf": "2026-06-26",
   "gex": {
-    "netGEX": 299396096.3268123,
-    "flipPoint": 7437,
+    "netGEX": 85510110.95132011,
+    "flipPoint": 7541,
     "asOf": "2026-07-10"
   }
 }
