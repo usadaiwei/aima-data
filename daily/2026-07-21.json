@@ -1,0 +1,36 @@
+{
+  "date": "2026-07-21",
+  "timestamp": "2026-07-21T08:00:00.000Z",
+  "spy": {
+    "close": 748.280029296875,
+    "open": 746.2899780273438,
+    "high": 749.0399780273438,
+    "low": 744.1799926757812
+  },
+  "soxx": {
+    "close": 552.6900024414062,
+    "open": 549.0999755859375,
+    "high": 555.1599731445312,
+    "low": 540.1500244140625
+  },
+  "computed": {
+    "conditionScore": 6,
+    "adhesionScore": 0,
+    "adhesionSide": "none",
+    "adhesionLabel": "Chop",
+    "adhesionMaState": "bull_stack",
+    "adhesionStraddleDays": 0,
+    "state": "S1",
+    "vix": 17.049999237060547,
+    "vixMa20": 17.112999773025514,
+    "spy1m": 0.2,
+    "volRatio": 0.95,
+    "ndxVolRatio": 0.84,
+    "ndxVolPeak": false
+  },
+  "signals": {
+    "r1": true,
+    "r2": true,
+    "r3": false
+  }
+}
