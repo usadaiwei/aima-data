@@ -1,0 +1,67 @@
+{
+  "week": "2026-W30",
+  "dates": [
+    "2026-07-20",
+    "2026-07-21",
+    "2026-07-22",
+    "2026-07-23",
+    "2026-07-24"
+  ],
+  "generatedAt": "2026-07-27T13:00:39.462Z",
+  "states": {
+    "S3": {
+      "triggeredDays": 0,
+      "avgSoxx1d": null,
+      "avgSoxx3d": null,
+      "avgSoxx5d": null
+    },
+    "S2": {
+      "triggeredDays": 0,
+      "avgSoxx1d": null,
+      "avgSoxx3d": null,
+      "avgSoxx5d": null
+    },
+    "S1": {
+      "triggeredDays": 2,
+      "avgSoxx1d": -0.13,
+      "avgSoxx3d": -4.65,
+      "avgSoxx5d": null
+    },
+    "S0": {
+      "triggeredDays": 3,
+      "avgSoxx1d": -0.26,
+      "avgSoxx3d": 5.17,
+      "avgSoxx5d": null
+    },
+    "S-1": {
+      "triggeredDays": 0,
+      "avgSoxx1d": null,
+      "avgSoxx3d": null,
+      "avgSoxx5d": null
+    }
+  },
+  "summary": {
+    "totalDays": 5,
+    "conditionScores": [
+      3,
+      6,
+      6,
+      3,
+      3
+    ],
+    "adhesionLabels": [
+      "Chop",
+      "Chop",
+      "Chop",
+      "Chop",
+      "Chop"
+    ],
+    "statesByDay": [
+      "S0",
+      "S1",
+      "S1",
+      "S0",
+      "S0"
+    ]
+  }
+}
