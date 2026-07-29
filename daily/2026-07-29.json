@@ -1,0 +1,117 @@
+{
+  "date": "2026-07-29",
+  "timestamp": "2026-07-29T08:00:00.000Z",
+  "spy": {
+    "close": 729.4600219726562,
+    "open": 739.969970703125,
+    "high": 742.6699829101562,
+    "low": 729.0999755859375
+  },
+  "soxx": {
+    "close": 465,
+    "open": 488.6499938964844,
+    "high": 496.04998779296875,
+    "low": 464.0799865722656
+  },
+  "computed": {
+    "conditionScore": 1,
+    "adhesionScore": 0,
+    "adhesionSide": "none",
+    "adhesionLabel": "Straddle",
+    "adhesionMaState": "mixed",
+    "adhesionStraddleDays": 2,
+    "state": "S0",
+    "vix": 20.65999984741211,
+    "vixMa20": 17.209999799728394,
+    "spy1m": -1.6,
+    "volRatio": 0.78,
+    "ndxVolRatio": 0.2,
+    "ndxVolPeak": false
+  },
+  "signals": {
+    "r1": true,
+    "r2": true,
+    "r3": false
+  },
+  "iv": {
+    "asOf": "2026-07-29",
+    "target": 7,
+    "pools": {
+      "Compute": {
+        "med": 95.6,
+        "n": 14,
+        "nDef": 14
+      },
+      "Interconnect": {
+        "med": 110.4,
+        "n": 10,
+        "nDef": 11
+      },
+      "Test": {
+        "med": 105.3,
+        "n": 4,
+        "nDef": 4
+      },
+      "Energy": {
+        "med": 67.5,
+        "n": 5,
+        "nDef": 6
+      },
+      "AI_POOL": {
+        "med": 97.6,
+        "n": 44,
+        "nDef": 46
+      }
+    },
+    "ref": {
+      "QQQ": 28.8,
+      "SMH": 62
+    },
+    "tickers": {
+      "NVDA": 46.4,
+      "AMD": 95.6,
+      "ORCL": 65.8,
+      "CRWV": 109.1,
+      "NBIS": 158.1,
+      "ARM": 123.6,
+      "QCOM": 81.4,
+      "MSFT": 62,
+      "GOOG": 37,
+      "META": 74.2,
+      "AMZN": 63.7,
+      "CORZ": 97.6,
+      "APLD": 114.9,
+      "IREN": 142,
+      "MRVL": 99,
+      "AVGO": 55,
+      "ALAB": 152.9,
+      "CRDO": 128,
+      "LITE": 110.4,
+      "COHR": 112.4,
+      "ANET": 95.3,
+      "CIEN": 97.5,
+      "CBRS": 116,
+      "GLW": 90.5,
+      "AMAT": 95,
+      "LRCX": 105.3,
+      "TER": 107.2,
+      "ASML": 61,
+      "OKLO": 110.8,
+      "CCJ": 63,
+      "CEG": 67.5,
+      "BE": 154.4,
+      "GEV": 62.1,
+      "MU": 105.1,
+      "SNDK": 166.3,
+      "WDC": 126.8,
+      "TSM": 54.4,
+      "INTC": 87.8,
+      "STM": 79.7,
+      "TSEM": 123.5,
+      "ADI": 55.6,
+      "TXN": 58.6,
+      "ON": 106.3,
+      "NVTS": 121.4
+    }
+  }
+}
