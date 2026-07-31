@@ -237,7 +237,7 @@
     "adhesionLabel": "Chop",
     "soxx_1d": -4.4,
     "soxx_3d": -10.84,
-    "soxx_5d": null
+    "soxx_5d": -8.47
   },
   {
     "date": "2026-07-24",
@@ -260,7 +260,7 @@
     "adhesionSide": "none",
     "adhesionLabel": "Chop",
     "soxx_1d": -4.8,
-    "soxx_3d": null,
+    "soxx_3d": -2.27,
     "soxx_5d": null
   },
   {
@@ -280,6 +280,18 @@
     "signal": "R1+R2",
     "state": "S0",
     "conditionScore": 1,
+    "adhesionScore": 0,
+    "adhesionSide": "none",
+    "adhesionLabel": "Straddle",
+    "soxx_1d": 8.5,
+    "soxx_3d": null,
+    "soxx_5d": null
+  },
+  {
+    "date": "2026-07-30",
+    "signal": "R1+R2",
+    "state": "S0",
+    "conditionScore": 3,
     "adhesionScore": 0,
     "adhesionSide": "none",
     "adhesionLabel": "Straddle",
