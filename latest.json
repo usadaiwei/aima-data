@@ -1,5 +1,5 @@
 {
-  "_publishedAt": "2026-07-31T12:55:54.838Z",
+  "_publishedAt": "2026-07-31T23:10:04.102Z",
   "fundamentals": {
     "_updated": "2026-06-26T02:20:06.706Z",
     "tickers": {
@@ -113,8 +113,136 @@
   },
   "fundamentalsAsOf": "2026-06-26",
   "gex": {
-    "netGEX": -46629154.684506096,
-    "flipPoint": 7478,
+    "netGEX": 28642891.52759852,
+    "flipPoint": 7472,
     "asOf": "2026-07-31"
+  },
+  "iv": {
+    "asOf": "2026-07-31",
+    "aiPoolMed": 89.4,
+    "aiPoolSkew": 2.3,
+    "aiPoolSkewN": 18,
+    "delta": {
+      "aiPool": -8.2,
+      "priorDate": "2026-07-29",
+      "gapDays": 2
+    },
+    "corr": {
+      "smh": {
+        "rho": 0.47,
+        "n": 17,
+        "nDef": 17
+      },
+      "qqq": {
+        "rho": 0.011,
+        "n": 14,
+        "nDef": 14
+      }
+    }
+  },
+  "cta": {
+    "asOf": "2026-07-31",
+    "asset": "SPY",
+    "volDelever": 0.431,
+    "trendDist": {
+      "ma20": 0.18,
+      "ma50": 0.38,
+      "ma100": 4.14,
+      "ma200": 7.12
+    }
+  },
+  "overnight": {
+    "asOf": "2026-07-31",
+    "soxx": {
+      "share20": 0.5801,
+      "baseline": 0.0823,
+      "baselineMedian": 0.4978,
+      "baselineDepth": 252,
+      "baselineTarget": 252
+    },
+    "smh": {
+      "share20": 0.5828,
+      "baseline": 0.0868,
+      "baselineMedian": 0.496,
+      "baselineDepth": 252,
+      "baselineTarget": 252
+    }
+  },
+  "leadership": {
+    "asOf": "2026-07-31",
+    "universe": [
+      "SMH",
+      "SOXX",
+      "XLV",
+      "XLP",
+      "XLU",
+      "XLE",
+      "XLK"
+    ],
+    "nDef": 7,
+    "n6m": 7,
+    "n12m": 7,
+    "order6m": [
+      "SOXX",
+      "SMH",
+      "XLK",
+      "XLE",
+      "XLV",
+      "XLP",
+      "XLU"
+    ],
+    "order12m": [
+      "SOXX",
+      "SMH",
+      "XLE",
+      "XLK",
+      "XLV",
+      "XLP",
+      "XLU"
+    ],
+    "assets": {
+      "SMH": {
+        "return6m": 29.46,
+        "return12m": 83.02,
+        "rank6m": 2,
+        "rank12m": 2
+      },
+      "SOXX": {
+        "return6m": 39.96,
+        "return12m": 104.58,
+        "rank6m": 1,
+        "rank12m": 1
+      },
+      "XLV": {
+        "return6m": 6.58,
+        "return12m": 23.25,
+        "rank6m": 5,
+        "rank12m": 5
+      },
+      "XLP": {
+        "return6m": 4.86,
+        "return12m": 8.62,
+        "rank6m": 6,
+        "rank12m": 6
+      },
+      "XLU": {
+        "return6m": 3.73,
+        "return12m": 7,
+        "rank6m": 7,
+        "rank12m": 7
+      },
+      "XLE": {
+        "return6m": 19.52,
+        "return12m": 40.07,
+        "rank6m": 4,
+        "rank12m": 3
+      },
+      "XLK": {
+        "return6m": 19.68,
+        "return12m": 33.19,
+        "rank6m": 3,
+        "rank12m": 4
+      }
+    }
   }
 }
