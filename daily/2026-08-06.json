@@ -1,0 +1,225 @@
+{
+  "date": "2026-08-06",
+  "timestamp": "2026-08-06T08:00:00.000Z",
+  "spy": {
+    "close": 768.5599975585938,
+    "open": 770.2100219726562,
+    "high": 771.8200073242188,
+    "low": 767.4600219726562
+  },
+  "soxx": {
+    "close": 532.52001953125,
+    "open": 522.6599731445312,
+    "high": 542.5499877929688,
+    "low": 516.4099731445312
+  },
+  "smh": {
+    "close": 571.47998046875,
+    "open": 565.4749755859375,
+    "high": 580.4299926757812,
+    "low": 559.5599975585938
+  },
+  "overnight": {
+    "asOf": "2026-08-06",
+    "soxx": {
+      "share20": 0.5393,
+      "baseline": 0.0415,
+      "baselineMedian": 0.4978,
+      "baselineDepth": 252,
+      "baselineTarget": 252
+    },
+    "smh": {
+      "share20": 0.5453,
+      "baseline": 0.0493,
+      "baselineMedian": 0.496,
+      "baselineDepth": 252,
+      "baselineTarget": 252
+    }
+  },
+  "leadership": {
+    "asOf": "2026-08-06",
+    "universe": [
+      "SMH",
+      "SOXX",
+      "XLV",
+      "XLP",
+      "XLU",
+      "XLE",
+      "XLK"
+    ],
+    "nDef": 7,
+    "n6m": 7,
+    "n12m": 7,
+    "order6m": [
+      "SOXX",
+      "SMH",
+      "XLK",
+      "XLE",
+      "XLV",
+      "XLU",
+      "XLP"
+    ],
+    "order12m": [
+      "SOXX",
+      "SMH",
+      "XLK",
+      "XLE",
+      "XLV",
+      "XLP",
+      "XLU"
+    ],
+    "assets": {
+      "SMH": {
+        "return6m": 49.59,
+        "return12m": 99.67,
+        "rank6m": 2,
+        "rank12m": 2
+      },
+      "SOXX": {
+        "return6m": 61.36,
+        "return12m": 124.1,
+        "rank6m": 1,
+        "rank12m": 1
+      },
+      "XLV": {
+        "return6m": 6.3,
+        "return12m": 26.28,
+        "rank6m": 5,
+        "rank12m": 5
+      },
+      "XLP": {
+        "return6m": -0.93,
+        "return12m": 8.7,
+        "rank6m": 7,
+        "rank12m": 6
+      },
+      "XLU": {
+        "return6m": 2.07,
+        "return12m": 3.25,
+        "rank6m": 6,
+        "rank12m": 7
+      },
+      "XLE": {
+        "return6m": 11.61,
+        "return12m": 40.27,
+        "rank6m": 4,
+        "rank12m": 4
+      },
+      "XLK": {
+        "return6m": 34.51,
+        "return12m": 43.24,
+        "rank6m": 3,
+        "rank12m": 3
+      }
+    }
+  },
+  "computed": {
+    "conditionScore": 7,
+    "adhesionScore": 2,
+    "adhesionSide": "bull",
+    "adhesionLabel": "Above EMA21",
+    "adhesionMaState": "bull_stack",
+    "adhesionStraddleDays": 0,
+    "state": "S3",
+    "vix": 15.149999618530273,
+    "vixMa20": 17.17099986076355,
+    "spy1m": 3.1,
+    "volRatio": 0.98,
+    "ndxVolRatio": 0.17,
+    "ndxVolPeak": false,
+    "cta": {
+      "asset": "SPY",
+      "volDelever": 0.1218,
+      "trendDist": {
+        "ma20": 2.58,
+        "ma50": 3.01,
+        "ma100": 6.55,
+        "ma200": 9.86
+      }
+    }
+  },
+  "signals": {
+    "r1": false,
+    "r2": false,
+    "r3": true
+  },
+  "iv": {
+    "asOf": "2026-08-06",
+    "target": 7,
+    "pools": {
+      "Compute": {
+        "med": 35.5,
+        "n": 5,
+        "nDef": 14,
+        "skew": -1.1,
+        "skewN": 2
+      },
+      "Interconnect": {
+        "med": 47,
+        "n": 1,
+        "nDef": 11,
+        "skew": 0.9,
+        "skewN": 1
+      },
+      "Test": {
+        "med": null,
+        "n": 0,
+        "nDef": 4,
+        "skew": null,
+        "skewN": 0
+      },
+      "Energy": {
+        "med": null,
+        "n": 0,
+        "nDef": 6,
+        "skew": null,
+        "skewN": 0
+      },
+      "AI_POOL": {
+        "med": 47,
+        "n": 8,
+        "nDef": 46,
+        "skew": -0.6,
+        "skewN": 5
+      }
+    },
+    "ref": {
+      "QQQ": 19.4,
+      "SMH": 46.6
+    },
+    "corr": {
+      "smh": {
+        "rho": 0.507,
+        "n": 5,
+        "nDef": 17
+      },
+      "qqq": {
+        "rho": 0.021,
+        "n": 5,
+        "nDef": 14
+      }
+    },
+    "tickers": {
+      "NVDA": 35.5,
+      "AMD": 64.7,
+      "MSFT": 31,
+      "META": 37,
+      "AMZN": 31,
+      "AVGO": 47,
+      "MU": 75,
+      "INTC": 73.9
+    },
+    "skewTickers": {
+      "AMD": -1.4,
+      "META": -1.1,
+      "AVGO": 0.9,
+      "MU": -0.6,
+      "INTC": -0.6
+    },
+    "delta": {
+      "aiPool": -40.5,
+      "priorDate": "2026-08-05",
+      "gapDays": 1
+    }
+  }
+}

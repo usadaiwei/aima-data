@@ -1,14 +1,17 @@
 {
-  "week": "2026-W26",
+  "week": "2026-W32",
   "dates": [
-    "2026-06-25",
-    "2026-06-26"
+    "2026-08-03",
+    "2026-08-04",
+    "2026-08-05",
+    "2026-08-06",
+    "2026-08-07"
   ],
-  "generatedAt": "2026-08-01T22:04:51.410Z",
+  "generatedAt": "2026-08-08T22:00:01.541Z",
   "states": {
     "S3": {
-      "triggeredDays": 0,
-      "avgSoxx1d": null,
+      "triggeredDays": 2,
+      "avgSoxx1d": 2.02,
       "avgSoxx3d": null,
       "avgSoxx5d": null
     },
@@ -19,16 +22,16 @@
       "avgSoxx5d": null
     },
     "S1": {
+      "triggeredDays": 3,
+      "avgSoxx1d": 1.67,
+      "avgSoxx3d": 2.55,
+      "avgSoxx5d": null
+    },
+    "S0": {
       "triggeredDays": 0,
       "avgSoxx1d": null,
       "avgSoxx3d": null,
       "avgSoxx5d": null
-    },
-    "S0": {
-      "triggeredDays": 2,
-      "avgSoxx1d": -0.75,
-      "avgSoxx3d": 2.07,
-      "avgSoxx5d": -4.33
     },
     "S-1": {
       "triggeredDays": 0,
@@ -38,18 +41,27 @@
     }
   },
   "summary": {
-    "totalDays": 2,
+    "totalDays": 5,
     "conditionScores": [
-      2,
-      1
+      5,
+      6,
+      6,
+      7,
+      8
     ],
     "adhesionLabels": [
+      "Straddle",
+      "Straddle",
       "Chop",
-      "Chop"
+      "Above EMA21",
+      "Above EMA21"
     ],
     "statesByDay": [
-      "S0",
-      "S0"
+      "S1",
+      "S1",
+      "S1",
+      "S3",
+      "S3"
     ]
   }
 }
