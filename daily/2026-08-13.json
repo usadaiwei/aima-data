@@ -328,28 +328,8 @@
         "nDef": 46
       }
     },
-    "delta": {
-      "aiPool": -28.2,
-      "priorDate": "2026-08-12",
-      "gapDays": 1
-    },
-    "persistence": {
-      "current": -0.3,
-      "observations": 10,
-      "firstDate": "2026-07-31",
-      "sameSignObs": 2,
-      "positiveShare": 0.4,
-      "median5": -0.3,
-      "median20": -0.1,
-      "lag1Corr": 0.392
-    },
-    "skew25Delta": {
-      "basis": "matched-members",
-      "skew": -0.4,
-      "call25IV": -1,
-      "nMatched": 8,
-      "priorDate": "2026-08-12",
-      "gapDays": 1
-    }
+    "delta": null,
+    "persistence": null,
+    "skew25Delta": null
   }
 }
