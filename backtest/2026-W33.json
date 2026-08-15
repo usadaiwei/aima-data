@@ -1,0 +1,67 @@
+{
+  "week": "2026-W33",
+  "dates": [
+    "2026-08-10",
+    "2026-08-11",
+    "2026-08-12",
+    "2026-08-13",
+    "2026-08-14"
+  ],
+  "generatedAt": "2026-08-15T22:00:01.639Z",
+  "states": {
+    "S3": {
+      "triggeredDays": 5,
+      "avgSoxx1d": 0.98,
+      "avgSoxx3d": 3.54,
+      "avgSoxx5d": null
+    },
+    "S2": {
+      "triggeredDays": 0,
+      "avgSoxx1d": null,
+      "avgSoxx3d": null,
+      "avgSoxx5d": null
+    },
+    "S1": {
+      "triggeredDays": 0,
+      "avgSoxx1d": null,
+      "avgSoxx3d": null,
+      "avgSoxx5d": null
+    },
+    "S0": {
+      "triggeredDays": 0,
+      "avgSoxx1d": null,
+      "avgSoxx3d": null,
+      "avgSoxx5d": null
+    },
+    "S-1": {
+      "triggeredDays": 0,
+      "avgSoxx1d": null,
+      "avgSoxx3d": null,
+      "avgSoxx5d": null
+    }
+  },
+  "summary": {
+    "totalDays": 5,
+    "conditionScores": [
+      8,
+      8,
+      8,
+      8,
+      8
+    ],
+    "adhesionLabels": [
+      "Above EMA21",
+      "Above EMA21",
+      "Above EMA21",
+      "Above EMA21",
+      "Above EMA21"
+    ],
+    "statesByDay": [
+      "S3",
+      "S3",
+      "S3",
+      "S3",
+      "S3"
+    ]
+  }
+}
