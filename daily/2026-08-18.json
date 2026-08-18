@@ -1,263 +1,178 @@
 {
-  "_publishedAt": "2026-08-18T20:31:25.735Z",
-  "fundamentals": {
-    "_updated": "2026-08-01T17:12:33.720Z",
-    "tickers": {
-      "NVDA": {
-        "ticker": "NVDA",
-        "quarterly": "Q1 FY2027",
-        "dcRevenueQoQ": 21,
-        "grossMargin": 74.9,
-        "epsBeat": 6.25,
-        "netDebtDirection": null,
-        "capexGuidance": null,
-        "epsBasis": "surprise",
-        "gmBasis": "gaap",
-        "asOf": "2026-05-20"
+  "date": "2026-08-18",
+  "timestamp": "2026-08-18T08:00:00.000Z",
+  "spy": {
+    "close": 767.4500122070312,
+    "open": 768.7000122070312,
+    "high": 769.5,
+    "low": 766.9199829101562
+  },
+  "soxx": {
+    "close": 531.3900146484375,
+    "open": 537.4199829101562,
+    "high": 541.6799926757812,
+    "low": 523.030029296875
+  },
+  "smh": {
+    "close": 569.77001953125,
+    "open": 574.35498046875,
+    "high": 577.760009765625,
+    "low": 562.6400146484375
+  },
+  "overnight": {
+    "asOf": "2026-08-18",
+    "soxx": {
+      "share20": 0.5299,
+      "baseline": 0.0321,
+      "baselineMedian": 0.4978,
+      "baselineDepth": 252,
+      "baselineTarget": 252
+    },
+    "smh": {
+      "share20": 0.5412,
+      "baseline": 0.0406,
+      "baselineMedian": 0.5006,
+      "baselineDepth": 252,
+      "baselineTarget": 252
+    }
+  },
+  "leadership": {
+    "asOf": "2026-08-18",
+    "universe": [
+      "SMH",
+      "SOXX",
+      "XLV",
+      "XLP",
+      "XLU",
+      "XLE",
+      "XLK"
+    ],
+    "nDef": 7,
+    "n6m": 7,
+    "n12m": 7,
+    "order6m": [
+      "SOXX",
+      "SMH",
+      "XLK",
+      "XLE",
+      "XLV",
+      "XLP",
+      "XLU"
+    ],
+    "order12m": [
+      "SOXX",
+      "SMH",
+      "XLE",
+      "XLK",
+      "XLV",
+      "XLP",
+      "XLU"
+    ],
+    "assets": {
+      "SMH": {
+        "return6m": 39.82,
+        "return12m": 93.32,
+        "rank6m": 2,
+        "rank12m": 2
       },
-      "AVGO": {
-        "ticker": "AVGO",
-        "quarterly": "Q2 FY2026",
-        "dcRevenueQoQ": 28.57,
-        "grossMargin": 77.1,
-        "epsBeat": 5.17,
-        "netDebtDirection": "down",
-        "capexGuidance": null,
-        "epsBasis": "surprise",
-        "gmBasis": "unknown",
-        "asOf": "2026-06-03"
+      "SOXX": {
+        "return6m": 50.23,
+        "return12m": 114.99,
+        "rank6m": 1,
+        "rank12m": 1
       },
-      "TSM": {
-        "ticker": "TSM",
-        "quarterly": "Q1 FY2026",
-        "dcRevenueQoQ": 28,
-        "grossMargin": 66.2,
-        "epsBeat": 5.44,
-        "netDebtDirection": null,
-        "capexGuidance": "raise",
-        "epsBasis": "surprise",
-        "gmBasis": "gaap",
-        "asOf": "2026-04-16"
+      "XLV": {
+        "return6m": 8.78,
+        "return12m": 26.79,
+        "rank6m": 5,
+        "rank12m": 5
       },
-      "MU": {
-        "ticker": "MU",
-        "quarterly": "Q3 FY2026",
-        "dcRevenueQoQ": 103,
-        "grossMargin": 84.6,
-        "epsBeat": 24,
-        "netDebtDirection": "down",
-        "capexGuidance": "raise",
-        "epsBasis": "surprise",
-        "gmBasis": "gaap",
-        "asOf": "2026-06-24"
+      "XLP": {
+        "return6m": -1.75,
+        "return12m": 7.23,
+        "rank6m": 6,
+        "rank12m": 6
       },
-      "MSFT": {
-        "ticker": "MSFT",
-        "quarterly": "Q3 FY2026",
-        "grossMargin": 68,
-        "epsBeat": 4.91,
-        "epsBasis": "surprise",
-        "gmBasis": "unknown",
-        "asOf": "2026-04-29",
-        "capexGuidance": null
+      "XLU": {
+        "return6m": -3.81,
+        "return12m": 5.69,
+        "rank6m": 7,
+        "rank12m": 7
       },
-      "GOOGL": {
-        "ticker": "GOOGL",
-        "quarterly": "Q1 FY2026",
-        "dcRevenueQoQ": 13,
-        "grossMargin": 62.42,
-        "epsBeat": 95.03,
-        "netDebtDirection": "up",
-        "capexGuidance": "raise",
-        "epsBasis": "surprise",
-        "gmBasis": "unknown",
-        "asOf": "2026-04-29"
+      "XLE": {
+        "return6m": 20.11,
+        "return12m": 53.49,
+        "rank6m": 4,
+        "rank12m": 3
       },
-      "AMZN": {
-        "ticker": "AMZN",
-        "quarterly": "Q1 FY2026",
-        "dcRevenueQoQ": 5.62,
-        "grossMargin": 51.82,
-        "epsBeat": 69.51,
-        "netDebtDirection": "up",
-        "capexGuidance": "raise",
-        "epsBasis": "surprise",
-        "gmBasis": "gaap",
-        "asOf": "2026-04-29"
-      },
-      "ORCL": {
-        "ticker": "ORCL",
-        "quarterly": "Q4 FY2026",
-        "dcRevenueQoQ": null,
-        "grossMargin": null,
-        "epsBeat": 7.61,
-        "netDebtDirection": null,
-        "capexGuidance": "raise",
-        "epsBasis": "surprise",
-        "gmBasis": "unknown",
-        "asOf": "2026-06-10"
-      },
-      "META": {
-        "ticker": "META",
-        "quarterly": "Q1 FY2026",
-        "dcRevenueQoQ": null,
-        "grossMargin": 81.9,
-        "epsBeat": 9.6,
-        "netDebtDirection": "flat",
-        "capexGuidance": "raise",
-        "epsBasis": "surprise",
-        "gmBasis": "gaap",
-        "asOf": "2026-04-29"
-      },
-      "MRVL": {
-        "ticker": "MRVL",
-        "quarterly": "Q1 FY2027",
-        "dcRevenueQoQ": 11,
-        "grossMargin": 52.1,
-        "epsBeat": 1.27,
-        "netDebtDirection": null,
-        "capexGuidance": null,
-        "capexCashDirection": "unknown",
-        "capexTreatment": "unknown",
-        "epsBasis": "surprise",
-        "gmBasis": "gaap",
-        "nextEarningsDate": null,
-        "asOf": "2026-05-27"
-      },
-      "INTC": {
-        "ticker": "INTC",
-        "quarterly": "Q2 FY2026",
-        "dcRevenueQoQ": 24,
-        "grossMargin": 40.4,
-        "epsBeat": 121.05,
-        "netDebtDirection": null,
-        "capexGuidance": "raise",
-        "capexCashDirection": "raise",
-        "capexTreatment": "comparable",
-        "epsBasis": "surprise",
-        "gmBasis": "gaap",
-        "nextEarningsDate": "2026-10-22",
-        "asOf": "2026-07-23"
-      },
-      "GEV": {
-        "ticker": "GEV",
-        "quarterly": "Q2 FY2026",
-        "dcRevenueQoQ": null,
-        "grossMargin": null,
-        "epsBeat": -22.08,
-        "netDebtDirection": null,
-        "capexGuidance": "raise",
-        "capexCashDirection": "raise",
-        "capexTreatment": "unknown",
-        "epsBasis": "surprise",
-        "gmBasis": "unknown",
-        "nextEarningsDate": "2026-10-21",
-        "asOf": "2026-07-22"
-      },
-      "KLAC": {
-        "ticker": "KLAC",
-        "quarterly": "Q4 FY2026",
-        "dcRevenueQoQ": null,
-        "grossMargin": 61.4,
-        "epsBeat": 5,
-        "netDebtDirection": null,
-        "capexGuidance": null,
-        "capexCashDirection": "unknown",
-        "capexTreatment": "unknown",
-        "epsBasis": "surprise",
-        "gmBasis": "gaap",
-        "nextEarningsDate": "2026-10-30",
-        "asOf": "2026-07-28"
-      },
-      "ANET": {
-        "ticker": "ANET",
-        "quarterly": "Q1 FY2026",
-        "dcRevenueQoQ": null,
-        "grossMargin": 62,
-        "epsBeat": 7.41,
-        "netDebtDirection": "down",
-        "capexGuidance": null,
-        "capexCashDirection": "unknown",
-        "capexTreatment": "unknown",
-        "epsBasis": "surprise",
-        "gmBasis": "gaap",
-        "nextEarningsDate": "2026-08-04",
-        "asOf": "2026-05-05"
-      },
-      "AEHR": {
-        "ticker": "AEHR",
-        "quarterly": "Q4 FY2026",
-        "dcRevenueQoQ": null,
-        "grossMargin": 42.7,
-        "epsBeat": 650,
-        "netDebtDirection": "down",
-        "capexGuidance": null,
-        "capexCashDirection": "unknown",
-        "capexTreatment": "unknown",
-        "epsBasis": "surprise",
-        "gmBasis": "gaap",
-        "nextEarningsDate": "2026-10-05",
-        "asOf": "2026-07-14"
-      },
-      "WOLF": {
-        "ticker": "WOLF",
-        "quarterly": "Q3 FY2026",
-        "dcRevenueQoQ": 30,
-        "grossMargin": -27,
-        "epsBeat": 17.26,
-        "netDebtDirection": "down",
-        "capexGuidance": null,
-        "capexCashDirection": "unknown",
-        "capexTreatment": "unknown",
-        "epsBasis": "surprise",
-        "gmBasis": "gaap",
-        "nextEarningsDate": null,
-        "asOf": "2026-05-05"
+      "XLK": {
+        "return6m": 33.4,
+        "return12m": 40.45,
+        "rank6m": 3,
+        "rank12m": 4
       }
     }
   },
-  "fundamentalsAsOf": "2026-08-01",
-  "gex": {
-    "netGEX": -56783991.28295861,
-    "flipPoint": 7768,
-    "asOf": "2026-08-18"
+  "leveragedEtf": {
+    "asOf": "2026-08-18",
+    "instrument": "TQQQ",
+    "underlying": "QQQ",
+    "targetLeverage": 3,
+    "purpose": "cumulative_path_not_positioning",
+    "horizons": {
+      "d5": {
+        "sessions": 5,
+        "underlyingPct": -0.13,
+        "actualPct": -0.73,
+        "dailyResetModelPct": -0.54,
+        "compoundingVsSimplePct": -0.14,
+        "trackingGapPct": -0.19
+      },
+      "d20": {
+        "sessions": 20,
+        "underlyingPct": 1.2,
+        "actualPct": 1.63,
+        "dailyResetModelPct": 2.36,
+        "compoundingVsSimplePct": -1.26,
+        "trackingGapPct": -0.73
+      }
+    }
+  },
+  "computed": {
+    "conditionScore": 7,
+    "adhesionScore": 2,
+    "adhesionSide": "bull",
+    "adhesionLabel": "Above EMA21",
+    "adhesionMaState": "bull_stack",
+    "adhesionStraddleDays": 0,
+    "state": "S3",
+    "vix": 15.84000015258789,
+    "vixMa20": 16.637499952316283,
+    "spy1m": 3.4,
+    "volRatio": 0.81,
+    "ndxVolRatio": 0.15,
+    "ndxVolPeak": false,
+    "cta": {
+      "asset": "SPY",
+      "volDelever": -0.1202,
+      "trendDist": {
+        "ma20": 1.16,
+        "ma50": 2.39,
+        "ma100": 5.04,
+        "ma200": 9.07
+      }
+    }
+  },
+  "signals": {
+    "r1": false,
+    "r2": false,
+    "r3": true
   },
   "iv": {
     "asOf": "2026-08-18",
     "methodVersion": "yahoo-expiry-1600-et-v2",
     "snapshotTime": "2026-08-18T20:30:11.039Z",
-    "aiPoolMed": 66.9,
-    "aiPoolSkew": 0.4,
-    "aiPoolSkewN": 25,
-    "delta": {
-      "basis": "matched-members",
-      "aiPool": -0.1,
-      "nMatched": 46,
-      "priorDate": "2026-08-17",
-      "gapDays": 1
-    },
-    "persistence": {
-      "current": 0.4,
-      "observations": 3,
-      "firstDate": "2026-08-14",
-      "sameSignObs": 1,
-      "positiveShare": 0.333,
-      "median5": -0.3,
-      "median20": -0.3,
-      "lag1Corr": null
-    },
-    "corr": {
-      "smh": {
-        "rho": 0.469,
-        "n": 17,
-        "nDef": 17
-      },
-      "qqq": {
-        "rho": -0.012,
-        "n": 14,
-        "nDef": 14
-      }
-    },
+    "target": 7,
     "pools": {
       "Compute": {
         "med": 52.5,
@@ -298,6 +213,18 @@
     "ref": {
       "QQQ": 15.6,
       "SMH": 39.1
+    },
+    "corr": {
+      "smh": {
+        "rho": 0.469,
+        "n": 17,
+        "nDef": 17
+      },
+      "qqq": {
+        "rho": -0.012,
+        "n": 14,
+        "nDef": 14
+      }
     },
     "tickers": {
       "NVDA": 36.4,
@@ -346,6 +273,33 @@
       "TXN": 44.1,
       "ON": 54.2,
       "NVTS": 88.9
+    },
+    "skewTickers": {
+      "AMD": 0.6,
+      "CRWV": -0.3,
+      "NBIS": -1.6,
+      "META": -0.8,
+      "MRVL": 0,
+      "AVGO": 4.9,
+      "CRDO": 0.1,
+      "LITE": 0,
+      "COHR": -6.6,
+      "AXTI": -9.1,
+      "ANET": 0.1,
+      "CIEN": 5.3,
+      "AMAT": 2.6,
+      "LRCX": 2.3,
+      "ASML": 1.8,
+      "CCJ": 4.4,
+      "CEG": -8,
+      "GEV": 0.4,
+      "MU": 0.8,
+      "SNDK": -1.5,
+      "WDC": -3.4,
+      "TSM": 3.3,
+      "INTC": 1.9,
+      "TXN": 4.1,
+      "ON": 3.2
     },
     "skew25": {
       "convention": "put-minus-call",
@@ -693,6 +647,23 @@
         "nDef": 46
       }
     },
+    "delta": {
+      "basis": "matched-members",
+      "aiPool": -0.1,
+      "nMatched": 46,
+      "priorDate": "2026-08-17",
+      "gapDays": 1
+    },
+    "persistence": {
+      "current": 0.4,
+      "observations": 3,
+      "firstDate": "2026-08-14",
+      "sameSignObs": 1,
+      "positiveShare": 0.333,
+      "median5": -0.3,
+      "median20": -0.3,
+      "lag1Corr": null
+    },
     "skew25Delta": {
       "basis": "matched-members",
       "skew": 1,
@@ -701,136 +672,6 @@
       "nRolledExcluded": 0,
       "priorDate": "2026-08-17",
       "gapDays": 1
-    }
-  },
-  "cta": {
-    "asOf": "2026-08-18",
-    "asset": "SPY",
-    "volDelever": -0.1202,
-    "trendDist": {
-      "ma20": 1.16,
-      "ma50": 2.39,
-      "ma100": 5.04,
-      "ma200": 9.07
-    }
-  },
-  "leveragedEtf": {
-    "asOf": "2026-08-18",
-    "instrument": "TQQQ",
-    "underlying": "QQQ",
-    "targetLeverage": 3,
-    "purpose": "cumulative_path_not_positioning",
-    "horizons": {
-      "d5": {
-        "sessions": 5,
-        "underlyingPct": -0.13,
-        "actualPct": -0.73,
-        "dailyResetModelPct": -0.54,
-        "compoundingVsSimplePct": -0.14,
-        "trackingGapPct": -0.19
-      },
-      "d20": {
-        "sessions": 20,
-        "underlyingPct": 1.2,
-        "actualPct": 1.63,
-        "dailyResetModelPct": 2.36,
-        "compoundingVsSimplePct": -1.26,
-        "trackingGapPct": -0.73
-      }
-    }
-  },
-  "overnight": {
-    "asOf": "2026-08-18",
-    "soxx": {
-      "share20": 0.5299,
-      "baseline": 0.0321,
-      "baselineMedian": 0.4978,
-      "baselineDepth": 252,
-      "baselineTarget": 252
-    },
-    "smh": {
-      "share20": 0.5412,
-      "baseline": 0.0406,
-      "baselineMedian": 0.5006,
-      "baselineDepth": 252,
-      "baselineTarget": 252
-    }
-  },
-  "leadership": {
-    "asOf": "2026-08-18",
-    "universe": [
-      "SMH",
-      "SOXX",
-      "XLV",
-      "XLP",
-      "XLU",
-      "XLE",
-      "XLK"
-    ],
-    "nDef": 7,
-    "n6m": 7,
-    "n12m": 7,
-    "order6m": [
-      "SOXX",
-      "SMH",
-      "XLK",
-      "XLE",
-      "XLV",
-      "XLP",
-      "XLU"
-    ],
-    "order12m": [
-      "SOXX",
-      "SMH",
-      "XLE",
-      "XLK",
-      "XLV",
-      "XLP",
-      "XLU"
-    ],
-    "assets": {
-      "SMH": {
-        "return6m": 39.82,
-        "return12m": 93.32,
-        "rank6m": 2,
-        "rank12m": 2
-      },
-      "SOXX": {
-        "return6m": 50.23,
-        "return12m": 114.99,
-        "rank6m": 1,
-        "rank12m": 1
-      },
-      "XLV": {
-        "return6m": 8.78,
-        "return12m": 26.79,
-        "rank6m": 5,
-        "rank12m": 5
-      },
-      "XLP": {
-        "return6m": -1.75,
-        "return12m": 7.23,
-        "rank6m": 6,
-        "rank12m": 6
-      },
-      "XLU": {
-        "return6m": -3.81,
-        "return12m": 5.69,
-        "rank6m": 7,
-        "rank12m": 7
-      },
-      "XLE": {
-        "return6m": 20.11,
-        "return12m": 53.49,
-        "rank6m": 4,
-        "rank12m": 3
-      },
-      "XLK": {
-        "return6m": 33.4,
-        "return12m": 40.45,
-        "rank6m": 3,
-        "rank12m": 4
-      }
     }
   }
 }
