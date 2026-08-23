@@ -4,37 +4,52 @@
     "2026-06-25",
     "2026-06-26"
   ],
-  "generatedAt": "2026-08-01T22:04:51.410Z",
+  "generatedAt": "2026-08-23T19:51:56.843Z",
   "states": {
     "S3": {
       "triggeredDays": 0,
       "avgSoxx1d": null,
+      "nSoxx1d": 0,
       "avgSoxx3d": null,
-      "avgSoxx5d": null
+      "nSoxx3d": 0,
+      "avgSoxx5d": null,
+      "nSoxx5d": 0
     },
     "S2": {
       "triggeredDays": 0,
       "avgSoxx1d": null,
+      "nSoxx1d": 0,
       "avgSoxx3d": null,
-      "avgSoxx5d": null
+      "nSoxx3d": 0,
+      "avgSoxx5d": null,
+      "nSoxx5d": 0
     },
     "S1": {
       "triggeredDays": 0,
       "avgSoxx1d": null,
+      "nSoxx1d": 0,
       "avgSoxx3d": null,
-      "avgSoxx5d": null
+      "nSoxx3d": 0,
+      "avgSoxx5d": null,
+      "nSoxx5d": 0
     },
     "S0": {
       "triggeredDays": 2,
       "avgSoxx1d": -0.75,
+      "nSoxx1d": 2,
       "avgSoxx3d": 2.07,
-      "avgSoxx5d": -4.33
+      "nSoxx3d": 2,
+      "avgSoxx5d": -4.33,
+      "nSoxx5d": 2
     },
     "S-1": {
       "triggeredDays": 0,
       "avgSoxx1d": null,
+      "nSoxx1d": 0,
       "avgSoxx3d": null,
-      "avgSoxx5d": null
+      "nSoxx3d": 0,
+      "avgSoxx5d": null,
+      "nSoxx5d": 0
     }
   },
   "summary": {
