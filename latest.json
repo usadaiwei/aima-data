@@ -1,19 +1,23 @@
 {
-  "_publishedAt": "2026-08-26T22:00:02.353Z",
+  "_publishedAt": "2026-08-27T12:09:07.419Z",
   "fundamentals": {
-    "_updated": "2026-08-20T22:53:02.098Z",
+    "_updated": "2026-08-27T12:07:22.773Z",
     "tickers": {
       "NVDA": {
         "ticker": "NVDA",
-        "quarterly": "Q1 FY2027",
-        "dcRevenueQoQ": 21,
-        "grossMargin": 74.9,
-        "epsBeat": 6.25,
-        "netDebtDirection": null,
-        "capexGuidance": null,
+        "quarterly": "Q2 FY2027",
+        "dcRevenueQoQ": 18,
+        "grossMargin": 75,
+        "epsBeat": 6.22,
+        "netDebtDirection": "up",
+        "capexGuidance": "raise",
+        "capexCashDirection": "raise",
+        "capexTreatment": "comparable",
         "epsBasis": "surprise",
         "gmBasis": "gaap",
-        "asOf": "2026-05-20"
+        "nextEarningsDate": "2026-11-18",
+        "asOf": "2026-08-26",
+        "asOfEvidence": "schedule-only"
       },
       "AVGO": {
         "ticker": "AVGO",
@@ -230,11 +234,11 @@
       }
     }
   },
-  "fundamentalsAsOf": "2026-08-20",
+  "fundamentalsAsOf": "2026-08-27",
   "gex": {
-    "netGEX": -31506487.87122248,
-    "flipPoint": 7719,
-    "asOf": "2026-08-26"
+    "netGEX": -20818154.00854842,
+    "flipPoint": 7706,
+    "asOf": "2026-08-27"
   },
   "iv": {
     "asOf": "2026-08-26",
