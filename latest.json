@@ -1,7 +1,7 @@
 {
-  "_publishedAt": "2026-09-02T23:21:39.922Z",
+  "_publishedAt": "2026-09-03T13:13:52.644Z",
   "fundamentals": {
-    "_updated": "2026-08-28T12:30:40.675Z",
+    "_updated": "2026-09-03T13:12:08.340Z",
     "tickers": {
       "NVDA": {
         "ticker": "NVDA",
@@ -21,15 +21,19 @@
       },
       "AVGO": {
         "ticker": "AVGO",
-        "quarterly": "Q2 FY2026",
-        "dcRevenueQoQ": 28.57,
-        "grossMargin": 77.1,
-        "epsBeat": 5.17,
+        "quarterly": "Q3 FY2026",
+        "dcRevenueQoQ": 54,
+        "grossMargin": 75,
+        "epsBeat": 5.06,
         "netDebtDirection": "down",
-        "capexGuidance": null,
+        "capexGuidance": "raise",
+        "capexCashDirection": "unknown",
+        "capexTreatment": "unknown",
         "epsBasis": "surprise",
         "gmBasis": "unknown",
-        "asOf": "2026-06-03"
+        "nextEarningsDate": "2026-12-10",
+        "asOf": "2026-09-02",
+        "asOfEvidence": "filing"
       },
       "TSM": {
         "ticker": "TSM",
@@ -235,11 +239,11 @@
       }
     }
   },
-  "fundamentalsAsOf": "2026-08-28",
+  "fundamentalsAsOf": "2026-09-03",
   "gex": {
-    "netGEX": -51911944.60407242,
-    "flipPoint": 7695,
-    "asOf": "2026-09-02"
+    "netGEX": -95585010.447933,
+    "flipPoint": 7708,
+    "asOf": "2026-09-03"
   },
   "iv": {
     "asOf": "2026-09-02",
