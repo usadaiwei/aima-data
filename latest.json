@@ -1,5 +1,5 @@
 {
-  "_publishedAt": "2026-09-05T22:00:02.734Z",
+  "_publishedAt": "2026-09-09T13:55:07.905Z",
   "fundamentals": {
     "_updated": "2026-09-03T13:12:08.340Z",
     "tickers": {
@@ -241,9 +241,9 @@
   },
   "fundamentalsAsOf": "2026-09-03",
   "gex": {
-    "netGEX": 11416019.109715972,
-    "flipPoint": 7714,
-    "asOf": "2026-09-04"
+    "netGEX": -48910075.334025286,
+    "flipPoint": 7715,
+    "asOf": "2026-09-09"
   },
   "iv": {
     "asOf": "2026-09-04",
@@ -726,18 +726,18 @@
     "skew25Delta": null
   },
   "cta": {
-    "asOf": "2026-09-04",
+    "asOf": "2026-09-08",
     "asset": "SPY",
-    "volDelever": 0.7713,
+    "volDelever": 0.6805,
     "trendDist": {
-      "ma20": 0.15,
-      "ma50": 1.76,
-      "ma100": 3.46,
-      "ma200": 8.5
+      "ma20": -0.36,
+      "ma50": 1.1,
+      "ma100": 2.79,
+      "ma200": 7.82
     }
   },
   "leveragedEtf": {
-    "asOf": "2026-09-04",
+    "asOf": "2026-09-08",
     "instrument": "TQQQ",
     "underlying": "QQQ",
     "targetLeverage": 3,
@@ -745,41 +745,41 @@
     "horizons": {
       "d5": {
         "sessions": 5,
-        "underlyingPct": 0.35,
-        "actualPct": 0.72,
-        "dailyResetModelPct": 0.97,
+        "underlyingPct": 0.22,
+        "actualPct": 0.33,
+        "dailyResetModelPct": 0.58,
         "compoundingVsSimplePct": -0.09,
         "trackingGapPct": -0.24
       },
       "d20": {
         "sessions": 20,
-        "underlyingPct": -0.56,
-        "actualPct": -2.82,
-        "dailyResetModelPct": -2.05,
-        "compoundingVsSimplePct": -0.36,
-        "trackingGapPct": -0.77
+        "underlyingPct": -0.35,
+        "actualPct": -2.22,
+        "dailyResetModelPct": -1.41,
+        "compoundingVsSimplePct": -0.37,
+        "trackingGapPct": -0.81
       }
     }
   },
   "overnight": {
-    "asOf": "2026-09-04",
+    "asOf": "2026-09-08",
     "soxx": {
-      "share20": 0.5397,
-      "baseline": 0.0328,
-      "baselineMedian": 0.5069,
+      "share20": 0.5866,
+      "baseline": 0.0782,
+      "baselineMedian": 0.5085,
       "baselineDepth": 252,
       "baselineTarget": 252
     },
     "smh": {
-      "share20": 0.5373,
-      "baseline": 0.0275,
-      "baselineMedian": 0.5098,
+      "share20": 0.579,
+      "baseline": 0.069,
+      "baselineMedian": 0.51,
       "baselineDepth": 252,
       "baselineTarget": 252
     }
   },
   "leadership": {
-    "asOf": "2026-09-04",
+    "asOf": "2026-09-08",
     "universe": [
       "SMH",
       "SOXX",
@@ -807,49 +807,49 @@
       "XLE",
       "XLK",
       "XLV",
-      "XLP",
-      "XLU"
+      "XLU",
+      "XLP"
     ],
     "assets": {
       "SMH": {
-        "return6m": 48.99,
-        "return12m": 96.22,
+        "return6m": 45.48,
+        "return12m": 96.23,
         "rank6m": 2,
         "rank12m": 2
       },
       "SOXX": {
-        "return6m": 60.87,
-        "return12m": 113.9,
+        "return6m": 57.26,
+        "return12m": 114.88,
         "rank6m": 1,
         "rank12m": 1
       },
       "XLV": {
-        "return6m": 13.24,
-        "return12m": 26.93,
+        "return6m": 9.27,
+        "return12m": 23.31,
         "rank6m": 5,
         "rank12m": 5
       },
       "XLP": {
-        "return6m": -0.16,
-        "return12m": 7.79,
+        "return6m": -1.04,
+        "return12m": 6.78,
         "rank6m": 6,
-        "rank12m": 6
-      },
-      "XLU": {
-        "return6m": -6.59,
-        "return12m": 5.77,
-        "rank6m": 7,
         "rank12m": 7
       },
+      "XLU": {
+        "return6m": -6.01,
+        "return12m": 7.01,
+        "rank6m": 7,
+        "rank12m": 6
+      },
       "XLE": {
-        "return6m": 14.8,
-        "return12m": 48.31,
+        "return6m": 16.59,
+        "return12m": 52.9,
         "rank6m": 4,
         "rank12m": 3
       },
       "XLK": {
-        "return6m": 36.76,
-        "return12m": 43.38,
+        "return6m": 34.75,
+        "return12m": 43.69,
         "rank6m": 3,
         "rank12m": 4
       }

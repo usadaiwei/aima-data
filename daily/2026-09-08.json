@@ -1,0 +1,171 @@
+{
+  "date": "2026-09-08",
+  "timestamp": "2026-09-08T08:00:00.000Z",
+  "spy": {
+    "close": 765.9600219726562,
+    "open": 769.0700073242188,
+    "high": 769.7000122070312,
+    "low": 765.1400146484375
+  },
+  "soxx": {
+    "close": 528.4000244140625,
+    "open": 530.5,
+    "high": 534.280029296875,
+    "low": 525.489990234375
+  },
+  "smh": {
+    "close": 573.72998046875,
+    "open": 578.7000122070312,
+    "high": 580.5700073242188,
+    "low": 572
+  },
+  "overnight": {
+    "asOf": "2026-09-08",
+    "soxx": {
+      "share20": 0.5866,
+      "baseline": 0.0782,
+      "baselineMedian": 0.5085,
+      "baselineDepth": 252,
+      "baselineTarget": 252
+    },
+    "smh": {
+      "share20": 0.579,
+      "baseline": 0.069,
+      "baselineMedian": 0.51,
+      "baselineDepth": 252,
+      "baselineTarget": 252
+    }
+  },
+  "leadership": {
+    "asOf": "2026-09-08",
+    "universe": [
+      "SMH",
+      "SOXX",
+      "XLV",
+      "XLP",
+      "XLU",
+      "XLE",
+      "XLK"
+    ],
+    "nDef": 7,
+    "n6m": 7,
+    "n12m": 7,
+    "order6m": [
+      "SOXX",
+      "SMH",
+      "XLK",
+      "XLE",
+      "XLV",
+      "XLP",
+      "XLU"
+    ],
+    "order12m": [
+      "SOXX",
+      "SMH",
+      "XLE",
+      "XLK",
+      "XLV",
+      "XLU",
+      "XLP"
+    ],
+    "assets": {
+      "SMH": {
+        "return6m": 45.48,
+        "return12m": 96.23,
+        "rank6m": 2,
+        "rank12m": 2
+      },
+      "SOXX": {
+        "return6m": 57.26,
+        "return12m": 114.88,
+        "rank6m": 1,
+        "rank12m": 1
+      },
+      "XLV": {
+        "return6m": 9.27,
+        "return12m": 23.31,
+        "rank6m": 5,
+        "rank12m": 5
+      },
+      "XLP": {
+        "return6m": -1.04,
+        "return12m": 6.78,
+        "rank6m": 6,
+        "rank12m": 7
+      },
+      "XLU": {
+        "return6m": -6.01,
+        "return12m": 7.01,
+        "rank6m": 7,
+        "rank12m": 6
+      },
+      "XLE": {
+        "return6m": 16.59,
+        "return12m": 52.9,
+        "rank6m": 4,
+        "rank12m": 3
+      },
+      "XLK": {
+        "return6m": 34.75,
+        "return12m": 43.69,
+        "rank6m": 3,
+        "rank12m": 4
+      }
+    }
+  },
+  "leveragedEtf": {
+    "asOf": "2026-09-08",
+    "instrument": "TQQQ",
+    "underlying": "QQQ",
+    "targetLeverage": 3,
+    "purpose": "cumulative_path_not_positioning",
+    "horizons": {
+      "d5": {
+        "sessions": 5,
+        "underlyingPct": 0.22,
+        "actualPct": 0.33,
+        "dailyResetModelPct": 0.58,
+        "compoundingVsSimplePct": -0.09,
+        "trackingGapPct": -0.24
+      },
+      "d20": {
+        "sessions": 20,
+        "underlyingPct": -0.35,
+        "actualPct": -2.22,
+        "dailyResetModelPct": -1.41,
+        "compoundingVsSimplePct": -0.37,
+        "trackingGapPct": -0.81
+      }
+    }
+  },
+  "computed": {
+    "conditionScore": 3,
+    "adhesionScore": 0,
+    "adhesionSide": "none",
+    "adhesionLabel": "Chop",
+    "adhesionMaState": "bull_stack",
+    "adhesionStraddleDays": 1,
+    "state": "S0",
+    "vix": 15.720000267028809,
+    "vixMa20": 15.113500070571899,
+    "spy1m": -0.9,
+    "volRatio": 0.63,
+    "ndxVolRatio": 1.02,
+    "ndxVolPeak": false,
+    "cta": {
+      "asset": "SPY",
+      "volDelever": 0.6805,
+      "trendDist": {
+        "ma20": -0.36,
+        "ma50": 1.1,
+        "ma100": 2.79,
+        "ma200": 7.82
+      }
+    }
+  },
+  "signals": {
+    "r1": true,
+    "r2": true,
+    "r3": false
+  }
+}
