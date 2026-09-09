@@ -1,5 +1,5 @@
 {
-  "_publishedAt": "2026-09-09T13:58:53.642Z",
+  "_publishedAt": "2026-09-09T20:31:06.792Z",
   "fundamentals": {
     "_updated": "2026-09-03T13:12:08.340Z",
     "tickers": {
@@ -241,134 +241,133 @@
   },
   "fundamentalsAsOf": "2026-09-03",
   "gex": {
-    "netGEX": -48910075.334025286,
-    "flipPoint": 7715,
+    "netGEX": -66900153.52036436,
+    "flipPoint": 7719,
     "asOf": "2026-09-09"
   },
   "iv": {
-    "asOf": "2026-09-04",
+    "asOf": "2026-09-09",
     "methodVersion": "yahoo-expiry-1600-et-v2",
-    "snapshotTime": "2026-09-04T20:30:13.310Z",
-    "aiPoolMed": 54.5,
-    "aiPoolSkew": -0.9,
-    "aiPoolSkewN": 19,
+    "snapshotTime": "2026-09-09T20:30:12.175Z",
+    "aiPoolMed": 59.1,
+    "aiPoolSkew": -1.4,
+    "aiPoolSkewN": 16,
     "delta": {
       "basis": "matched-members",
-      "aiPool": 1,
-      "nMatched": 46,
-      "priorDate": "2026-09-03",
-      "gapDays": 1
+      "aiPool": 5.7,
+      "nMatched": 45,
+      "priorDate": "2026-09-04",
+      "gapDays": 5
     },
     "persistence": {
-      "current": -0.9,
-      "observations": 16,
+      "current": -1.4,
+      "observations": 17,
       "firstDate": "2026-08-14",
-      "sameSignObs": 1,
-      "positiveShare": 0.375,
+      "sameSignObs": 2,
+      "positiveShare": 0.353,
       "median5": 0.2,
-      "median20": -0.2,
-      "lag1Corr": -0.308
+      "median20": -0.3,
+      "lag1Corr": -0.169
     },
     "corr": {
       "smh": {
-        "rho": 0.457,
+        "rho": 0.398,
         "n": 17,
         "nDef": 17
       },
       "qqq": {
-        "rho": -0.013,
+        "rho": 0.021,
         "n": 14,
         "nDef": 14
       }
     },
     "pools": {
       "Compute": {
-        "med": 56.6,
+        "med": 64.7,
         "n": 14,
         "nDef": 14,
-        "skew": 0.6,
-        "skewN": 6
-      },
-      "Interconnect": {
-        "med": 60.6,
-        "n": 11,
-        "nDef": 11,
-        "skew": -1.2,
+        "skew": -0.3,
         "skewN": 3
       },
+      "Interconnect": {
+        "med": 67.8,
+        "n": 10,
+        "nDef": 11,
+        "skew": -2.3,
+        "skewN": 5
+      },
       "Test": {
-        "med": 50.7,
+        "med": 55.8,
         "n": 4,
         "nDef": 4,
-        "skew": 0.8,
+        "skew": 0.4,
         "skewN": 1
       },
       "Energy": {
-        "med": 62,
+        "med": 78.7,
         "n": 6,
         "nDef": 6,
-        "skew": -0.9,
+        "skew": -3.7,
         "skewN": 3
       },
       "AI_POOL": {
-        "med": 54.5,
-        "n": 46,
+        "med": 59.1,
+        "n": 45,
         "nDef": 46,
-        "skew": -0.9,
-        "skewN": 19
+        "skew": -1.4,
+        "skewN": 16
       }
     },
     "ref": {
-      "QQQ": 13.5,
-      "SMH": 30.7
+      "QQQ": 18.2,
+      "SMH": 32.7
     },
     "tickers": {
-      "NVDA": 29.1,
-      "AMD": 44.1,
-      "ORCL": 97.9,
-      "CRWV": 64,
-      "NBIS": 73.7,
-      "ARM": 56.6,
-      "QCOM": 36.4,
-      "MSFT": 21.3,
-      "GOOG": 23.9,
-      "META": 30.8,
-      "AMZN": 26.2,
-      "CORZ": 58.6,
-      "APLD": 60.6,
-      "IREN": 72.5,
-      "MRVL": 52.8,
-      "AVGO": 34.1,
-      "ALAB": 74.8,
-      "CRDO": 69.9,
-      "LITE": 58.6,
-      "COHR": 64.2,
-      "AXTI": 94.7,
-      "ANET": 43.2,
-      "CIEN": 60.6,
-      "CBRS": 65.1,
-      "GLW": 53.8,
-      "AMAT": 48.2,
-      "LRCX": 50.7,
-      "TER": 56.4,
-      "ASML": 40.9,
-      "OKLO": 62,
-      "SMR": 62.9,
-      "CCJ": 42.6,
-      "CEG": 43.4,
-      "BE": 99.5,
-      "GEV": 42.3,
-      "MU": 51.4,
-      "SNDK": 67.6,
-      "WDC": 61.9,
-      "TSM": 28.9,
-      "INTC": 54.5,
-      "STM": 45.1,
-      "TSEM": 57.9,
-      "ADI": 32.8,
-      "TXN": 34.3,
-      "ON": 48,
-      "NVTS": 69.3
+      "NVDA": 31.8,
+      "AMD": 48.7,
+      "ORCL": 106.7,
+      "CRWV": 72.5,
+      "NBIS": 79.4,
+      "ARM": 64.7,
+      "QCOM": 47.6,
+      "MSFT": 26.1,
+      "GOOG": 29.8,
+      "META": 37.7,
+      "AMZN": 29,
+      "CORZ": 67.1,
+      "APLD": 71.9,
+      "IREN": 78.6,
+      "MRVL": 63.6,
+      "AVGO": 39.1,
+      "ALAB": 75.2,
+      "CRDO": 67.8,
+      "LITE": 70.1,
+      "AXTI": 103.7,
+      "ANET": 50.9,
+      "CIEN": 57.1,
+      "CBRS": 69.4,
+      "GLW": 59.1,
+      "AMAT": 50.1,
+      "LRCX": 55.8,
+      "TER": 63.8,
+      "ASML": 43.8,
+      "OKLO": 78.7,
+      "SMR": 80.4,
+      "CCJ": 50.2,
+      "CEG": 46.7,
+      "BE": 78.8,
+      "GEV": 47.8,
+      "MU": 52.1,
+      "SNDK": 69.3,
+      "WDC": 65.7,
+      "TSM": 33.2,
+      "INTC": 59.8,
+      "STM": 51.4,
+      "TSEM": 68,
+      "ADI": 38.5,
+      "TXN": 41.5,
+      "ON": 56.9,
+      "NVTS": 76.5
     },
     "skew25": {
       "convention": "put-minus-call",
@@ -377,367 +376,368 @@
       "dividendYield": 0,
       "tickers": {
         "NVDA": {
-          "callIV": 31.1,
-          "putIV": 32.8,
-          "skew": 1.7,
+          "callIV": 32.5,
+          "putIV": 33.5,
+          "skew": 1.1,
           "expiryDate": "2026-09-18",
-          "dte": 14
+          "dte": 9
         },
         "AMD": {
-          "callIV": 48.4,
-          "putIV": 46,
-          "skew": -2.3,
-          "expiryDate": "2026-09-18",
-          "dte": 14
-        },
-        "ORCL": {
-          "callIV": 85.4,
-          "putIV": 77.6,
-          "skew": -7.8,
-          "expiryDate": "2026-09-18",
-          "dte": 14
-        },
-        "CRWV": {
-          "callIV": 72.9,
-          "putIV": 68.1,
-          "skew": -4.9,
-          "expiryDate": "2026-09-18",
-          "dte": 14
-        },
-        "NBIS": {
-          "callIV": 81.2,
-          "putIV": 77.6,
-          "skew": -3.6,
-          "expiryDate": "2026-09-18",
-          "dte": 14
-        },
-        "ARM": {
-          "callIV": 63.4,
-          "putIV": 59.8,
-          "skew": -3.6,
-          "expiryDate": "2026-09-18",
-          "dte": 14
-        },
-        "QCOM": {
-          "callIV": 40.5,
-          "putIV": 39.4,
-          "skew": -1.1,
-          "expiryDate": "2026-09-18",
-          "dte": 14
-        },
-        "MSFT": {
-          "callIV": 23.2,
-          "putIV": 22.5,
-          "skew": -0.7,
-          "expiryDate": "2026-09-18",
-          "dte": 14
-        },
-        "GOOG": {
-          "callIV": 27.4,
-          "putIV": 25.3,
-          "skew": -2.1,
-          "expiryDate": "2026-09-18",
-          "dte": 14
-        },
-        "META": {
-          "callIV": 33.8,
-          "putIV": 32.7,
-          "skew": -1.1,
-          "expiryDate": "2026-09-18",
-          "dte": 14
-        },
-        "AMZN": {
-          "callIV": 28.4,
-          "putIV": 27.8,
+          "callIV": 49.8,
+          "putIV": 49.2,
           "skew": -0.6,
           "expiryDate": "2026-09-18",
-          "dte": 14
+          "dte": 9
+        },
+        "ORCL": {
+          "callIV": 105.9,
+          "putIV": 96.2,
+          "skew": -9.7,
+          "expiryDate": "2026-09-18",
+          "dte": 9
+        },
+        "CRWV": {
+          "callIV": 76.4,
+          "putIV": 71.4,
+          "skew": -5,
+          "expiryDate": "2026-09-18",
+          "dte": 9
+        },
+        "NBIS": {
+          "callIV": 82.5,
+          "putIV": 78.8,
+          "skew": -3.7,
+          "expiryDate": "2026-09-18",
+          "dte": 9
+        },
+        "ARM": {
+          "callIV": 67.2,
+          "putIV": 63.5,
+          "skew": -3.7,
+          "expiryDate": "2026-09-18",
+          "dte": 9
+        },
+        "QCOM": {
+          "callIV": 48.7,
+          "putIV": 46.3,
+          "skew": -2.4,
+          "expiryDate": "2026-09-18",
+          "dte": 9
+        },
+        "MSFT": {
+          "callIV": 25.8,
+          "putIV": 25.7,
+          "skew": -0.2,
+          "expiryDate": "2026-09-18",
+          "dte": 9
+        },
+        "GOOG": {
+          "callIV": 30.6,
+          "putIV": 28.6,
+          "skew": -2.1,
+          "expiryDate": "2026-09-18",
+          "dte": 9
+        },
+        "META": {
+          "callIV": 39.8,
+          "putIV": 38.7,
+          "skew": -1.1,
+          "expiryDate": "2026-09-18",
+          "dte": 9
+        },
+        "AMZN": {
+          "callIV": 30,
+          "putIV": 29.2,
+          "skew": -0.8,
+          "expiryDate": "2026-09-18",
+          "dte": 9
         },
         "CORZ": {
-          "callIV": 65.4,
-          "putIV": 66,
-          "skew": 0.6,
+          "callIV": 68.8,
+          "putIV": 66.7,
+          "skew": -2,
           "expiryDate": "2026-09-18",
-          "dte": 14
+          "dte": 9
         },
         "APLD": {
-          "callIV": 71.9,
-          "putIV": 72.6,
-          "skew": 0.7,
+          "callIV": 75.5,
+          "putIV": 65,
+          "skew": -10.4,
           "expiryDate": "2026-09-18",
-          "dte": 14
+          "dte": 9
         },
         "IREN": {
-          "callIV": 82.3,
-          "putIV": 77.9,
-          "skew": -4.4,
+          "callIV": 82,
+          "putIV": 78.4,
+          "skew": -3.6,
           "expiryDate": "2026-09-18",
-          "dte": 14
+          "dte": 9
         },
         "MRVL": {
-          "callIV": 58.7,
-          "putIV": 56.4,
-          "skew": -2.3,
+          "callIV": 65.5,
+          "putIV": 62.1,
+          "skew": -3.4,
           "expiryDate": "2026-09-18",
-          "dte": 14
+          "dte": 9
         },
         "AVGO": {
-          "callIV": 38.8,
-          "putIV": 34.3,
-          "skew": -4.5,
+          "callIV": 37.8,
+          "putIV": 36.4,
+          "skew": -1.4,
           "expiryDate": "2026-09-18",
-          "dte": 14
+          "dte": 9
         },
         "ALAB": {
-          "callIV": 82.1,
-          "putIV": 75.5,
-          "skew": -6.6,
+          "callIV": 75.8,
+          "putIV": 74.9,
+          "skew": -0.9,
           "expiryDate": "2026-09-18",
-          "dte": 14
+          "dte": 9
         },
         "CRDO": {
-          "callIV": 73.7,
-          "putIV": 68.3,
-          "skew": -5.5,
+          "callIV": 71.7,
+          "putIV": 67.8,
+          "skew": -3.9,
           "expiryDate": "2026-09-18",
-          "dte": 14
+          "dte": 9
         },
         "LITE": {
-          "callIV": 66.9,
+          "callIV": 72.5,
+          "putIV": 69.9,
+          "skew": -2.6,
+          "expiryDate": "2026-09-18",
+          "dte": 9
+        },
+        "AXTI": {
+          "callIV": 104.8,
+          "putIV": 98.9,
+          "skew": -5.9,
+          "expiryDate": "2026-09-18",
+          "dte": 9
+        },
+        "ANET": {
+          "callIV": 50.5,
+          "putIV": 51.9,
+          "skew": 1.4,
+          "expiryDate": "2026-09-18",
+          "dte": 9
+        },
+        "CIEN": {
+          "callIV": 62.4,
+          "putIV": 58.7,
+          "skew": -3.6,
+          "expiryDate": "2026-09-18",
+          "dte": 9
+        },
+        "CBRS": {
+          "callIV": 72.9,
+          "putIV": 65.2,
+          "skew": -7.7,
+          "expiryDate": "2026-09-18",
+          "dte": 9
+        },
+        "GLW": {
+          "callIV": 60.9,
+          "putIV": 58.6,
+          "skew": -2.3,
+          "expiryDate": "2026-09-18",
+          "dte": 9
+        },
+        "AMAT": {
+          "callIV": 51.1,
+          "putIV": 49.7,
+          "skew": -1.4,
+          "expiryDate": "2026-09-18",
+          "dte": 9
+        },
+        "LRCX": {
+          "callIV": 56.5,
+          "putIV": 56.6,
+          "skew": 0.1,
+          "expiryDate": "2026-09-18",
+          "dte": 9
+        },
+        "TER": {
+          "callIV": 69.6,
+          "putIV": 63.3,
+          "skew": -6.2,
+          "expiryDate": "2026-09-18",
+          "dte": 9
+        },
+        "ASML": {
+          "callIV": 44.4,
+          "putIV": 42.9,
+          "skew": -1.5,
+          "expiryDate": "2026-09-18",
+          "dte": 9
+        },
+        "OKLO": {
+          "callIV": 83.8,
+          "putIV": 75.3,
+          "skew": -8.5,
+          "expiryDate": "2026-09-18",
+          "dte": 9
+        },
+        "SMR": {
+          "callIV": 85.3,
+          "putIV": 80.5,
+          "skew": -4.9,
+          "expiryDate": "2026-09-18",
+          "dte": 9
+        },
+        "CCJ": {
+          "callIV": 50.2,
+          "putIV": 47.3,
+          "skew": -2.9,
+          "expiryDate": "2026-09-18",
+          "dte": 9
+        },
+        "CEG": {
+          "callIV": 49.4,
+          "putIV": 46.2,
+          "skew": -3.2,
+          "expiryDate": "2026-09-18",
+          "dte": 9
+        },
+        "BE": {
+          "callIV": 81.5,
+          "putIV": 77.3,
+          "skew": -4.2,
+          "expiryDate": "2026-09-18",
+          "dte": 9
+        },
+        "GEV": {
+          "callIV": 47.7,
+          "putIV": 48.2,
+          "skew": 0.4,
+          "expiryDate": "2026-09-18",
+          "dte": 9
+        },
+        "MU": {
+          "callIV": 55.9,
+          "putIV": 54.2,
+          "skew": -1.7,
+          "expiryDate": "2026-09-18",
+          "dte": 9
+        },
+        "SNDK": {
+          "callIV": 72.3,
+          "putIV": 67.8,
+          "skew": -4.5,
+          "expiryDate": "2026-09-18",
+          "dte": 9
+        },
+        "WDC": {
+          "callIV": 67,
           "putIV": 65.4,
           "skew": -1.5,
           "expiryDate": "2026-09-18",
-          "dte": 14
-        },
-        "COHR": {
-          "callIV": 65.3,
-          "putIV": 65.6,
-          "skew": 0.2,
-          "expiryDate": "2026-09-18",
-          "dte": 14
-        },
-        "AXTI": {
-          "callIV": 101.9,
-          "putIV": 97.1,
-          "skew": -4.8,
-          "expiryDate": "2026-09-18",
-          "dte": 14
-        },
-        "ANET": {
-          "callIV": 45.6,
-          "putIV": 48.3,
-          "skew": 2.8,
-          "expiryDate": "2026-09-18",
-          "dte": 14
-        },
-        "CIEN": {
-          "callIV": 61.8,
-          "putIV": 61.4,
-          "skew": -0.5,
-          "expiryDate": "2026-09-18",
-          "dte": 14
-        },
-        "CBRS": {
-          "callIV": 74.8,
-          "putIV": 66.3,
-          "skew": -8.4,
-          "expiryDate": "2026-09-18",
-          "dte": 14
-        },
-        "GLW": {
-          "callIV": 56.8,
-          "putIV": 53.2,
-          "skew": -3.6,
-          "expiryDate": "2026-09-18",
-          "dte": 14
-        },
-        "AMAT": {
-          "callIV": 54.1,
-          "putIV": 50.2,
-          "skew": -3.9,
-          "expiryDate": "2026-09-18",
-          "dte": 14
-        },
-        "LRCX": {
-          "callIV": 54.8,
-          "putIV": 55.8,
-          "skew": 1,
-          "expiryDate": "2026-09-18",
-          "dte": 14
-        },
-        "TER": {
-          "callIV": 58.6,
-          "putIV": 66.6,
-          "skew": 8,
-          "expiryDate": "2026-09-18",
-          "dte": 14
-        },
-        "ASML": {
-          "callIV": 44,
-          "putIV": 42.5,
-          "skew": -1.5,
-          "expiryDate": "2026-09-18",
-          "dte": 14
-        },
-        "OKLO": {
-          "callIV": 71.7,
-          "putIV": 66.5,
-          "skew": -5.2,
-          "expiryDate": "2026-09-18",
-          "dte": 14
-        },
-        "SMR": {
-          "callIV": 71,
-          "putIV": 71.5,
-          "skew": 0.5,
-          "expiryDate": "2026-09-18",
-          "dte": 14
-        },
-        "CCJ": {
-          "callIV": 45.8,
-          "putIV": 42.5,
-          "skew": -3.3,
-          "expiryDate": "2026-09-18",
-          "dte": 14
-        },
-        "CEG": {
-          "callIV": 43.4,
-          "putIV": 43.8,
-          "skew": 0.5,
-          "expiryDate": "2026-09-18",
-          "dte": 14
-        },
-        "BE": {
-          "callIV": 96.8,
-          "putIV": 87.4,
-          "skew": -9.4,
-          "expiryDate": "2026-09-18",
-          "dte": 14
-        },
-        "GEV": {
-          "callIV": 43.3,
-          "putIV": 43.1,
-          "skew": -0.1,
-          "expiryDate": "2026-09-18",
-          "dte": 14
-        },
-        "MU": {
-          "callIV": 57.7,
-          "putIV": 54.2,
-          "skew": -3.5,
-          "expiryDate": "2026-09-18",
-          "dte": 14
-        },
-        "SNDK": {
-          "callIV": 74.4,
-          "putIV": 70.7,
-          "skew": -3.7,
-          "expiryDate": "2026-09-18",
-          "dte": 14
-        },
-        "WDC": {
-          "callIV": 66.1,
-          "putIV": 63.6,
-          "skew": -2.5,
-          "expiryDate": "2026-09-18",
-          "dte": 14
+          "dte": 9
         },
         "TSM": {
-          "callIV": 30,
-          "putIV": 30.8,
-          "skew": 0.8,
+          "callIV": 32.9,
+          "putIV": 34.1,
+          "skew": 1.3,
           "expiryDate": "2026-09-18",
-          "dte": 14
+          "dte": 9
         },
         "INTC": {
-          "callIV": 61.3,
-          "putIV": 56.1,
-          "skew": -5.2,
+          "callIV": 65.8,
+          "putIV": 61.9,
+          "skew": -4,
           "expiryDate": "2026-09-18",
-          "dte": 14
+          "dte": 9
         },
         "STM": {
-          "callIV": 48.6,
-          "putIV": 50.9,
-          "skew": 2.3,
+          "callIV": 51.5,
+          "putIV": 53.6,
+          "skew": 2,
           "expiryDate": "2026-09-18",
-          "dte": 14
+          "dte": 9
         },
         "TSEM": {
-          "callIV": 70,
-          "putIV": 70.1,
-          "skew": 0.1,
+          "callIV": 72.5,
+          "putIV": 69.4,
+          "skew": -3.1,
           "expiryDate": "2026-09-18",
-          "dte": 14
+          "dte": 9
         },
         "ADI": {
-          "callIV": 33.7,
-          "putIV": 36.3,
-          "skew": 2.6,
+          "callIV": 39.1,
+          "putIV": 37.6,
+          "skew": -1.5,
           "expiryDate": "2026-09-18",
-          "dte": 14
+          "dte": 9
         },
         "TXN": {
-          "callIV": 38,
-          "putIV": 40.5,
-          "skew": 2.6,
+          "callIV": 39.6,
+          "putIV": 41.9,
+          "skew": 2.3,
           "expiryDate": "2026-09-18",
-          "dte": 14
+          "dte": 9
         },
         "ON": {
-          "callIV": 54,
-          "putIV": 52,
-          "skew": -2,
+          "callIV": 57.6,
+          "putIV": 52.8,
+          "skew": -4.7,
           "expiryDate": "2026-09-18",
-          "dte": 14
+          "dte": 9
         },
         "NVTS": {
-          "callIV": 74.1,
-          "putIV": 73,
-          "skew": -1.1,
+          "callIV": 80.6,
+          "putIV": 71.4,
+          "skew": -9.2,
           "expiryDate": "2026-09-18",
-          "dte": 14
+          "dte": 9
         }
       },
       "refs": {
         "QQQ": {
-          "callIV": 14.4,
-          "putIV": 17.3,
-          "skew": 2.9,
-          "expiryDate": "2026-09-18",
-          "dte": 14
+          "callIV": 16.9,
+          "putIV": 20.4,
+          "skew": 3.6,
+          "expiryDate": "2026-09-17",
+          "dte": 8
         },
         "SMH": {
-          "callIV": 32,
-          "putIV": 33.7,
-          "skew": 1.7,
-          "expiryDate": "2026-09-18",
-          "dte": 14
+          "callIV": 33.4,
+          "putIV": 35.9,
+          "skew": 2.4,
+          "expiryDate": "2026-09-17",
+          "dte": 8
         }
       },
       "pool": {
-        "medianSkew": -1.5,
-        "medianCallIV": 58.7,
-        "medianDte": 14,
-        "n": 46,
+        "medianSkew": -2.6,
+        "medianCallIV": 62.4,
+        "medianDte": 9,
+        "n": 45,
         "nDef": 46
       }
     },
-    "skew25Delta": null
+    "skew25Delta": {
+      "basis": "matched-members",
+      "skew": -0.2,
+      "call25IV": 2.9,
+      "nMatched": 45,
+      "nRolledExcluded": 0,
+      "priorDate": "2026-09-04",
+      "gapDays": 5
+    }
   },
   "cta": {
-    "asOf": "2026-09-08",
+    "asOf": "2026-09-09",
     "asset": "SPY",
-    "volDelever": 0.6805,
+    "volDelever": 0.6739,
     "trendDist": {
-      "ma20": -0.36,
-      "ma50": 1.1,
-      "ma100": 2.79,
-      "ma200": 7.82
+      "ma20": -0.77,
+      "ma50": 0.58,
+      "ma100": 2.23,
+      "ma200": 7.24
     }
   },
   "leveragedEtf": {
-    "asOf": "2026-09-08",
+    "asOf": "2026-09-09",
     "instrument": "TQQQ",
     "underlying": "QQQ",
     "targetLeverage": 3,
@@ -745,41 +745,41 @@
     "horizons": {
       "d5": {
         "sessions": 5,
-        "underlyingPct": 0.22,
-        "actualPct": 0.33,
-        "dailyResetModelPct": 0.58,
-        "compoundingVsSimplePct": -0.09,
-        "trackingGapPct": -0.24
+        "underlyingPct": 1.23,
+        "actualPct": 3.47,
+        "dailyResetModelPct": 3.67,
+        "compoundingVsSimplePct": 0,
+        "trackingGapPct": -0.2
       },
       "d20": {
         "sessions": 20,
-        "underlyingPct": -0.35,
-        "actualPct": -2.22,
-        "dailyResetModelPct": -1.41,
+        "underlyingPct": -0.3,
+        "actualPct": -2.07,
+        "dailyResetModelPct": -1.26,
         "compoundingVsSimplePct": -0.37,
         "trackingGapPct": -0.81
       }
     }
   },
   "overnight": {
-    "asOf": "2026-09-08",
+    "asOf": "2026-09-09",
     "soxx": {
-      "share20": 0.5866,
-      "baseline": 0.0782,
-      "baselineMedian": 0.5085,
+      "share20": 0.5694,
+      "baseline": 0.0593,
+      "baselineMedian": 0.51,
       "baselineDepth": 252,
       "baselineTarget": 252
     },
     "smh": {
-      "share20": 0.579,
-      "baseline": 0.069,
-      "baselineMedian": 0.51,
+      "share20": 0.5722,
+      "baseline": 0.0619,
+      "baselineMedian": 0.5103,
       "baselineDepth": 252,
       "baselineTarget": 252
     }
   },
   "leadership": {
-    "asOf": "2026-09-08",
+    "asOf": "2026-09-09",
     "universe": [
       "SMH",
       "SOXX",
@@ -812,44 +812,44 @@
     ],
     "assets": {
       "SMH": {
-        "return6m": 45.48,
-        "return12m": 96.23,
+        "return6m": 44.54,
+        "return12m": 94.28,
         "rank6m": 2,
         "rank12m": 2
       },
       "SOXX": {
-        "return6m": 57.26,
-        "return12m": 114.88,
+        "return6m": 57.19,
+        "return12m": 114.78,
         "rank6m": 1,
         "rank12m": 1
       },
       "XLV": {
-        "return6m": 9.27,
-        "return12m": 23.31,
+        "return6m": 9.7,
+        "return12m": 22.95,
         "rank6m": 5,
         "rank12m": 5
       },
       "XLP": {
-        "return6m": -1.04,
-        "return12m": 6.78,
+        "return6m": -1.89,
+        "return12m": 5.94,
         "rank6m": 6,
         "rank12m": 7
       },
       "XLU": {
-        "return6m": -6.01,
-        "return12m": 7.01,
+        "return6m": -6.54,
+        "return12m": 6.84,
         "rank6m": 7,
         "rank12m": 6
       },
       "XLE": {
-        "return6m": 16.59,
-        "return12m": 52.9,
+        "return6m": 19.08,
+        "return12m": 54.53,
         "rank6m": 4,
         "rank12m": 3
       },
       "XLK": {
         "return6m": 34.75,
-        "return12m": 43.69,
+        "return12m": 42.62,
         "rank6m": 3,
         "rank12m": 4
       }
