@@ -1,5 +1,5 @@
 {
-  "_publishedAt": "2026-09-11T13:07:33.980Z",
+  "_publishedAt": "2026-09-11T20:31:26.132Z",
   "fundamentals": {
     "_updated": "2026-09-03T13:12:08.340Z",
     "tickers": {
@@ -241,134 +241,133 @@
   },
   "fundamentalsAsOf": "2026-09-03",
   "gex": {
-    "netGEX": -360451593.01693225,
-    "flipPoint": 7646,
+    "netGEX": -87776250.96807462,
+    "flipPoint": 7687,
     "asOf": "2026-09-11"
   },
   "iv": {
-    "asOf": "2026-09-10",
+    "asOf": "2026-09-11",
     "methodVersion": "yahoo-expiry-1600-et-v2",
-    "snapshotTime": "2026-09-10T20:30:13.203Z",
-    "aiPoolMed": 60.7,
-    "aiPoolSkew": 0.5,
-    "aiPoolSkewN": 18,
+    "snapshotTime": "2026-09-11T20:30:13.000Z",
+    "aiPoolMed": 52.2,
+    "aiPoolSkew": -1.2,
+    "aiPoolSkewN": 23,
     "delta": {
       "basis": "matched-members",
-      "aiPool": -1.4,
+      "aiPool": -4.3,
       "nMatched": 45,
-      "priorDate": "2026-09-09",
+      "priorDate": "2026-09-10",
       "gapDays": 1
     },
     "persistence": {
-      "current": 0.5,
-      "observations": 18,
+      "current": -1.2,
+      "observations": 19,
       "firstDate": "2026-08-14",
       "sameSignObs": 1,
-      "positiveShare": 0.389,
-      "median5": 0.2,
-      "median20": -0.2,
-      "lag1Corr": -0.238
+      "positiveShare": 0.368,
+      "median5": -0.9,
+      "median20": -0.3,
+      "lag1Corr": -0.289
     },
     "corr": {
       "smh": {
-        "rho": 0.482,
+        "rho": 0.37,
         "n": 17,
         "nDef": 17
       },
       "qqq": {
-        "rho": 0.033,
-        "n": 14,
+        "rho": 0.047,
+        "n": 13,
         "nDef": 14
       }
     },
     "pools": {
       "Compute": {
-        "med": 63.5,
-        "n": 14,
+        "med": 46.1,
+        "n": 13,
         "nDef": 14,
-        "skew": 3,
-        "skewN": 3
-      },
-      "Interconnect": {
-        "med": 64.2,
-        "n": 11,
-        "nDef": 11,
-        "skew": 0.2,
+        "skew": 0.8,
         "skewN": 5
       },
+      "Interconnect": {
+        "med": 56.7,
+        "n": 11,
+        "nDef": 11,
+        "skew": -1.5,
+        "skewN": 6
+      },
       "Test": {
-        "med": 55.6,
+        "med": 51.9,
         "n": 4,
         "nDef": 4,
+        "skew": -0.5,
+        "skewN": 3
+      },
+      "Energy": {
+        "med": 60.2,
+        "n": 6,
+        "nDef": 6,
         "skew": 1.9,
         "skewN": 2
       },
-      "Energy": {
-        "med": 72,
-        "n": 6,
-        "nDef": 6,
-        "skew": 0.6,
-        "skewN": 3
-      },
       "AI_POOL": {
-        "med": 60.7,
-        "n": 46,
+        "med": 52.2,
+        "n": 45,
         "nDef": 46,
-        "skew": 0.5,
-        "skewN": 18
+        "skew": -1.2,
+        "skewN": 23
       }
     },
     "ref": {
-      "QQQ": 19.4,
-      "SMH": 35.1
+      "QQQ": 16.7,
+      "SMH": 29
     },
     "tickers": {
-      "NVDA": 32.1,
-      "AMD": 48.2,
-      "ORCL": 114.5,
-      "CRWV": 74.8,
-      "NBIS": 78.3,
-      "ARM": 63.5,
-      "QCOM": 50.3,
-      "MSFT": 25.5,
-      "GOOG": 29.1,
-      "META": 37.6,
-      "AMZN": 29.3,
-      "CORZ": 66.1,
-      "APLD": 71.4,
-      "IREN": 78.8,
-      "MRVL": 61.7,
-      "AVGO": 36.2,
-      "ALAB": 74.1,
-      "CRDO": 64.2,
-      "LITE": 67.7,
-      "COHR": 69.4,
-      "AXTI": 98,
-      "ANET": 49.3,
-      "CIEN": 60.7,
-      "CBRS": 67.5,
-      "GLW": 56.8,
-      "AMAT": 49.9,
-      "LRCX": 55.6,
-      "TER": 61.9,
-      "ASML": 42.4,
-      "OKLO": 72,
-      "SMR": 77.6,
-      "CCJ": 47.2,
-      "CEG": 44.7,
-      "BE": 76.4,
-      "GEV": 44.6,
-      "MU": 52.6,
-      "SNDK": 66.1,
-      "WDC": 63.1,
-      "TSM": 32.9,
-      "INTC": 58,
-      "STM": 49.6,
-      "TSEM": 66.1,
-      "ADI": 38.9,
+      "NVDA": 28.3,
+      "AMD": 46.1,
+      "ORCL": 50.8,
+      "CRWV": 62.6,
+      "NBIS": 68.4,
+      "ARM": 61.8,
+      "QCOM": 43,
+      "MSFT": 22.5,
+      "GOOG": 26.1,
+      "META": 34.6,
+      "AMZN": 26.7,
+      "APLD": 61.1,
+      "IREN": 69.9,
+      "MRVL": 56.1,
+      "AVGO": 32.6,
+      "ALAB": 66,
+      "CRDO": 56.7,
+      "LITE": 64.8,
+      "COHR": 65.1,
+      "AXTI": 90.3,
+      "ANET": 45.9,
+      "CIEN": 53.6,
+      "CBRS": 59.2,
+      "GLW": 51.6,
+      "AMAT": 47.6,
+      "LRCX": 52.2,
+      "TER": 51.9,
+      "ASML": 39.1,
+      "OKLO": 60.2,
+      "SMR": 73.4,
+      "CCJ": 44.9,
+      "CEG": 39.3,
+      "BE": 68.1,
+      "GEV": 43.2,
+      "MU": 45.9,
+      "SNDK": 56,
+      "WDC": 56.5,
+      "TSM": 28.6,
+      "INTC": 55.1,
+      "STM": 45.7,
+      "TSEM": 62,
+      "ADI": 35.7,
       "TXN": 39.6,
-      "ON": 58,
-      "NVTS": 75.1
+      "ON": 60.7,
+      "NVTS": 67.6
     },
     "skew25": {
       "convention": "put-minus-call",
@@ -377,375 +376,353 @@
       "dividendYield": 0,
       "tickers": {
         "NVDA": {
-          "callIV": 32.3,
-          "putIV": 33.7,
-          "skew": 1.4,
-          "expiryDate": "2026-09-18",
-          "dte": 8
+          "callIV": 29,
+          "putIV": 30.3,
+          "skew": 1.3,
+          "expiryDate": "2026-09-25",
+          "dte": 14
         },
         "AMD": {
-          "callIV": 49.3,
-          "putIV": 49.6,
-          "skew": 0.3,
-          "expiryDate": "2026-09-18",
-          "dte": 8
+          "callIV": 47.2,
+          "putIV": 47.4,
+          "skew": 0.2,
+          "expiryDate": "2026-09-25",
+          "dte": 14
         },
         "ORCL": {
-          "callIV": 115.8,
-          "putIV": 105.6,
-          "skew": -10.2,
-          "expiryDate": "2026-09-18",
-          "dte": 8
+          "callIV": 51.5,
+          "putIV": 48,
+          "skew": -3.5,
+          "expiryDate": "2026-09-25",
+          "dte": 14
         },
         "CRWV": {
-          "callIV": 76.8,
-          "putIV": 74.4,
-          "skew": -2.4,
-          "expiryDate": "2026-09-18",
-          "dte": 8
+          "callIV": 68.3,
+          "putIV": 64.9,
+          "skew": -3.4,
+          "expiryDate": "2026-09-25",
+          "dte": 14
         },
         "NBIS": {
-          "callIV": 80.1,
-          "putIV": 78.6,
-          "skew": -1.5,
-          "expiryDate": "2026-09-18",
-          "dte": 8
+          "callIV": 74.6,
+          "putIV": 71,
+          "skew": -3.6,
+          "expiryDate": "2026-09-25",
+          "dte": 14
         },
         "ARM": {
-          "callIV": 65.6,
-          "putIV": 64.3,
-          "skew": -1.3,
-          "expiryDate": "2026-09-18",
-          "dte": 8
+          "callIV": 65.8,
+          "putIV": 61.1,
+          "skew": -4.7,
+          "expiryDate": "2026-09-25",
+          "dte": 14
         },
         "QCOM": {
-          "callIV": 50.7,
-          "putIV": 49.1,
-          "skew": -1.6,
-          "expiryDate": "2026-09-18",
-          "dte": 8
+          "callIV": 45.8,
+          "putIV": 45.3,
+          "skew": -0.5,
+          "expiryDate": "2026-09-25",
+          "dte": 14
         },
         "MSFT": {
-          "callIV": 25.6,
-          "putIV": 26.2,
-          "skew": 0.6,
-          "expiryDate": "2026-09-18",
-          "dte": 8
+          "callIV": 23.3,
+          "putIV": 23.4,
+          "skew": 0.1,
+          "expiryDate": "2026-09-25",
+          "dte": 14
         },
         "GOOG": {
-          "callIV": 29.7,
-          "putIV": 28.1,
-          "skew": -1.6,
-          "expiryDate": "2026-09-18",
-          "dte": 8
+          "callIV": 27.5,
+          "putIV": 26.3,
+          "skew": -1.2,
+          "expiryDate": "2026-09-25",
+          "dte": 14
         },
         "META": {
-          "callIV": 38.6,
-          "putIV": 38.2,
+          "callIV": 36.4,
+          "putIV": 35.9,
           "skew": -0.4,
-          "expiryDate": "2026-09-18",
-          "dte": 8
+          "expiryDate": "2026-09-25",
+          "dte": 14
         },
         "AMZN": {
-          "callIV": 30.1,
-          "putIV": 30.9,
-          "skew": 0.8,
-          "expiryDate": "2026-09-18",
-          "dte": 8
-        },
-        "CORZ": {
-          "callIV": 66.8,
-          "putIV": 65.3,
-          "skew": -1.5,
-          "expiryDate": "2026-09-18",
-          "dte": 8
+          "callIV": 28.3,
+          "putIV": 27.9,
+          "skew": -0.4,
+          "expiryDate": "2026-09-25",
+          "dte": 14
         },
         "APLD": {
-          "callIV": 74.6,
-          "putIV": 71.2,
-          "skew": -3.4,
-          "expiryDate": "2026-09-18",
-          "dte": 8
+          "callIV": 68.4,
+          "putIV": 66.7,
+          "skew": -1.7,
+          "expiryDate": "2026-09-25",
+          "dte": 14
         },
         "IREN": {
-          "callIV": 81.4,
-          "putIV": 77.6,
-          "skew": -3.9,
-          "expiryDate": "2026-09-18",
-          "dte": 8
+          "callIV": 75.2,
+          "putIV": 72.9,
+          "skew": -2.2,
+          "expiryDate": "2026-09-25",
+          "dte": 14
         },
         "MRVL": {
-          "callIV": 62.5,
-          "putIV": 61.2,
-          "skew": -1.3,
-          "expiryDate": "2026-09-18",
-          "dte": 8
+          "callIV": 59.6,
+          "putIV": 57.2,
+          "skew": -2.3,
+          "expiryDate": "2026-09-25",
+          "dte": 14
         },
         "AVGO": {
-          "callIV": 36.2,
-          "putIV": 38.1,
-          "skew": 1.9,
-          "expiryDate": "2026-09-18",
-          "dte": 8
+          "callIV": 33.2,
+          "putIV": 33.6,
+          "skew": 0.4,
+          "expiryDate": "2026-09-25",
+          "dte": 14
         },
         "ALAB": {
-          "callIV": 77,
-          "putIV": 68.8,
-          "skew": -8.2,
-          "expiryDate": "2026-09-18",
-          "dte": 8
+          "callIV": 70.8,
+          "putIV": 73.1,
+          "skew": 2.3,
+          "expiryDate": "2026-09-25",
+          "dte": 14
         },
         "CRDO": {
-          "callIV": 68.9,
-          "putIV": 63.9,
-          "skew": -5,
-          "expiryDate": "2026-09-18",
-          "dte": 8
+          "callIV": 61,
+          "putIV": 60.6,
+          "skew": -0.3,
+          "expiryDate": "2026-09-25",
+          "dte": 14
         },
         "LITE": {
-          "callIV": 69.2,
-          "putIV": 67.7,
-          "skew": -1.5,
-          "expiryDate": "2026-09-18",
-          "dte": 8
+          "callIV": 70.1,
+          "putIV": 67.4,
+          "skew": -2.7,
+          "expiryDate": "2026-09-25",
+          "dte": 14
         },
         "COHR": {
-          "callIV": 76.7,
-          "putIV": 67.7,
-          "skew": -9,
-          "expiryDate": "2026-09-18",
-          "dte": 8
+          "callIV": 67,
+          "putIV": 70.5,
+          "skew": 3.5,
+          "expiryDate": "2026-09-25",
+          "dte": 14
         },
         "AXTI": {
-          "callIV": 102.7,
-          "putIV": 98.1,
-          "skew": -4.6,
-          "expiryDate": "2026-09-18",
-          "dte": 8
+          "callIV": 107.5,
+          "putIV": 94.1,
+          "skew": -13.4,
+          "expiryDate": "2026-09-25",
+          "dte": 14
         },
         "ANET": {
-          "callIV": 48.6,
-          "putIV": 47.2,
-          "skew": -1.4,
-          "expiryDate": "2026-09-18",
-          "dte": 8
+          "callIV": 44.6,
+          "putIV": 47.4,
+          "skew": 2.8,
+          "expiryDate": "2026-09-25",
+          "dte": 14
         },
         "CIEN": {
-          "callIV": 65.1,
-          "putIV": 60.3,
-          "skew": -4.8,
-          "expiryDate": "2026-09-18",
-          "dte": 8
+          "callIV": 57.8,
+          "putIV": 56.5,
+          "skew": -1.3,
+          "expiryDate": "2026-09-25",
+          "dte": 14
         },
         "CBRS": {
-          "callIV": 68.9,
-          "putIV": 61,
-          "skew": -7.9,
-          "expiryDate": "2026-09-18",
-          "dte": 8
+          "callIV": 66.6,
+          "putIV": 64.1,
+          "skew": -2.5,
+          "expiryDate": "2026-09-25",
+          "dte": 14
         },
         "GLW": {
-          "callIV": 57.9,
-          "putIV": 56.6,
-          "skew": -1.3,
-          "expiryDate": "2026-09-18",
-          "dte": 8
+          "callIV": 55.4,
+          "putIV": 54.6,
+          "skew": -0.8,
+          "expiryDate": "2026-09-25",
+          "dte": 14
         },
         "AMAT": {
-          "callIV": 50.3,
-          "putIV": 49.9,
-          "skew": -0.4,
-          "expiryDate": "2026-09-18",
-          "dte": 8
+          "callIV": 49.7,
+          "putIV": 48.5,
+          "skew": -1.1,
+          "expiryDate": "2026-09-25",
+          "dte": 14
         },
         "LRCX": {
-          "callIV": 56.7,
-          "putIV": 55.7,
-          "skew": -1,
-          "expiryDate": "2026-09-18",
-          "dte": 8
+          "callIV": 51.5,
+          "putIV": 50.2,
+          "skew": -1.3,
+          "expiryDate": "2026-09-25",
+          "dte": 14
         },
         "TER": {
-          "callIV": 62.7,
-          "putIV": 60.7,
-          "skew": -2,
-          "expiryDate": "2026-09-18",
-          "dte": 8
-        },
-        "ASML": {
-          "callIV": 42.6,
-          "putIV": 41.1,
-          "skew": -1.5,
-          "expiryDate": "2026-09-18",
-          "dte": 8
+          "callIV": 60.2,
+          "putIV": 58.3,
+          "skew": -1.9,
+          "expiryDate": "2026-09-25",
+          "dte": 14
         },
         "OKLO": {
-          "callIV": 74.9,
-          "putIV": 72.6,
-          "skew": -2.2,
-          "expiryDate": "2026-09-18",
-          "dte": 8
+          "callIV": 68.3,
+          "putIV": 60.6,
+          "skew": -7.6,
+          "expiryDate": "2026-09-25",
+          "dte": 14
         },
         "SMR": {
-          "callIV": 82.4,
-          "putIV": 77.7,
-          "skew": -4.7,
-          "expiryDate": "2026-09-18",
-          "dte": 8
+          "callIV": 76.6,
+          "putIV": 69.9,
+          "skew": -6.7,
+          "expiryDate": "2026-09-25",
+          "dte": 14
         },
         "CCJ": {
-          "callIV": 48.3,
+          "callIV": 47.7,
           "putIV": 46,
-          "skew": -2.3,
-          "expiryDate": "2026-09-18",
-          "dte": 8
+          "skew": -1.7,
+          "expiryDate": "2026-09-25",
+          "dte": 14
         },
         "CEG": {
-          "callIV": 49.1,
-          "putIV": 44.9,
-          "skew": -4.2,
-          "expiryDate": "2026-09-18",
-          "dte": 8
+          "callIV": 44,
+          "putIV": 48.1,
+          "skew": 4.1,
+          "expiryDate": "2026-09-25",
+          "dte": 14
         },
         "BE": {
-          "callIV": 78,
-          "putIV": 76.1,
-          "skew": -1.9,
-          "expiryDate": "2026-09-18",
-          "dte": 8
+          "callIV": 73.2,
+          "putIV": 71.4,
+          "skew": -1.8,
+          "expiryDate": "2026-09-25",
+          "dte": 14
         },
         "GEV": {
-          "callIV": 46.4,
-          "putIV": 44.9,
-          "skew": -1.4,
-          "expiryDate": "2026-09-18",
-          "dte": 8
+          "callIV": 43.7,
+          "putIV": 42.2,
+          "skew": -1.5,
+          "expiryDate": "2026-09-25",
+          "dte": 14
         },
         "MU": {
-          "callIV": 55.2,
-          "putIV": 52.1,
-          "skew": -3.1,
-          "expiryDate": "2026-09-18",
-          "dte": 8
+          "callIV": 49.9,
+          "putIV": 47.5,
+          "skew": -2.4,
+          "expiryDate": "2026-09-25",
+          "dte": 14
         },
         "SNDK": {
-          "callIV": 68,
-          "putIV": 65.7,
-          "skew": -2.3,
-          "expiryDate": "2026-09-18",
-          "dte": 8
+          "callIV": 62.4,
+          "putIV": 59,
+          "skew": -3.4,
+          "expiryDate": "2026-09-25",
+          "dte": 14
         },
         "WDC": {
-          "callIV": 63.6,
-          "putIV": 63.1,
-          "skew": -0.5,
-          "expiryDate": "2026-09-18",
-          "dte": 8
+          "callIV": 64.6,
+          "putIV": 57.2,
+          "skew": -7.4,
+          "expiryDate": "2026-09-25",
+          "dte": 14
         },
         "TSM": {
-          "callIV": 31.2,
-          "putIV": 33.5,
-          "skew": 2.3,
-          "expiryDate": "2026-09-18",
-          "dte": 8
+          "callIV": 29.5,
+          "putIV": 30.6,
+          "skew": 1.1,
+          "expiryDate": "2026-09-25",
+          "dte": 14
         },
         "INTC": {
-          "callIV": 60.6,
-          "putIV": 59.8,
-          "skew": -0.8,
-          "expiryDate": "2026-09-18",
-          "dte": 8
+          "callIV": 57.8,
+          "putIV": 55.6,
+          "skew": -2.2,
+          "expiryDate": "2026-09-25",
+          "dte": 14
         },
         "STM": {
-          "callIV": 50.5,
-          "putIV": 48.7,
-          "skew": -1.8,
-          "expiryDate": "2026-09-18",
-          "dte": 8
+          "callIV": 47.5,
+          "putIV": 49.4,
+          "skew": 1.9,
+          "expiryDate": "2026-09-25",
+          "dte": 14
         },
         "TSEM": {
-          "callIV": 76.3,
-          "putIV": 64.8,
-          "skew": -11.5,
-          "expiryDate": "2026-09-18",
-          "dte": 8
+          "callIV": 65.2,
+          "putIV": 66.8,
+          "skew": 1.6,
+          "expiryDate": "2026-09-25",
+          "dte": 14
         },
         "ADI": {
-          "callIV": 38.3,
-          "putIV": 38.3,
-          "skew": 0,
-          "expiryDate": "2026-09-18",
-          "dte": 8
+          "callIV": 37.8,
+          "putIV": 40.6,
+          "skew": 2.8,
+          "expiryDate": "2026-09-25",
+          "dte": 14
         },
         "TXN": {
-          "callIV": 38.2,
-          "putIV": 38.8,
-          "skew": 0.6,
-          "expiryDate": "2026-09-18",
-          "dte": 8
+          "callIV": 39.5,
+          "putIV": 39.9,
+          "skew": 0.4,
+          "expiryDate": "2026-09-25",
+          "dte": 14
         },
         "ON": {
-          "callIV": 56.7,
-          "putIV": 54.7,
-          "skew": -2,
-          "expiryDate": "2026-09-18",
-          "dte": 8
+          "callIV": 58.2,
+          "putIV": 58.7,
+          "skew": 0.5,
+          "expiryDate": "2026-09-25",
+          "dte": 14
         },
         "NVTS": {
-          "callIV": 82.1,
-          "putIV": 67.7,
-          "skew": -14.4,
-          "expiryDate": "2026-09-18",
-          "dte": 8
+          "callIV": 76,
+          "putIV": 79.2,
+          "skew": 3.2,
+          "expiryDate": "2026-09-25",
+          "dte": 14
         }
       },
       "refs": {
         "QQQ": {
-          "callIV": 18.6,
-          "putIV": 22.7,
-          "skew": 4,
-          "expiryDate": "2026-09-18",
-          "dte": 8
+          "callIV": 14.3,
+          "putIV": 18.7,
+          "skew": 4.4,
+          "expiryDate": "2026-09-25",
+          "dte": 14
         },
         "SMH": {
-          "callIV": 32.6,
-          "putIV": 35.3,
-          "skew": 2.7,
-          "expiryDate": "2026-09-18",
-          "dte": 8
+          "callIV": 30.8,
+          "putIV": 31.8,
+          "skew": 1,
+          "expiryDate": "2026-09-25",
+          "dte": 14
         }
       },
       "pool": {
-        "medianSkew": -1.6,
-        "medianCallIV": 62.5,
-        "medianDte": 8,
-        "n": 46,
+        "medianSkew": -1.2,
+        "medianCallIV": 57.8,
+        "medianDte": 14,
+        "n": 44,
         "nDef": 46
       }
     },
-    "skew25Delta": {
-      "basis": "matched-members",
-      "skew": 0.8,
-      "call25IV": -1.3,
-      "nMatched": 45,
-      "nRolledExcluded": 0,
-      "priorDate": "2026-09-09",
-      "gapDays": 1
-    }
+    "skew25Delta": null
   },
   "cta": {
-    "asOf": "2026-09-10",
+    "asOf": "2026-09-11",
     "asset": "SPY",
-    "volDelever": 0.6454,
+    "volDelever": 0.5963,
     "trendDist": {
-      "ma20": -1.26,
-      "ma50": -0.05,
-      "ma100": 1.56,
-      "ma200": 6.52
+      "ma20": -0.34,
+      "ma50": 0.75,
+      "ma100": 2.34,
+      "ma200": 7.34
     }
   },
   "leveragedEtf": {
-    "asOf": "2026-09-10",
+    "asOf": "2026-09-11",
     "instrument": "TQQQ",
     "underlying": "QQQ",
     "targetLeverage": 3,
@@ -753,384 +730,51 @@
     "horizons": {
       "d5": {
         "sessions": 5,
-        "underlyingPct": -0.08,
-        "actualPct": -0.56,
-        "dailyResetModelPct": -0.31,
-        "compoundingVsSimplePct": -0.08,
-        "trackingGapPct": -0.25
+        "underlyingPct": -0.39,
+        "actualPct": -1.46,
+        "dailyResetModelPct": -1.22,
+        "compoundingVsSimplePct": -0.06,
+        "trackingGapPct": -0.24
       },
       "d20": {
         "sessions": 20,
-        "underlyingPct": -2.07,
-        "actualPct": -7.23,
-        "dailyResetModelPct": -6.46,
-        "compoundingVsSimplePct": -0.24,
-        "trackingGapPct": -0.76
+        "underlyingPct": -2.35,
+        "actualPct": -8,
+        "dailyResetModelPct": -7.23,
+        "compoundingVsSimplePct": -0.18,
+        "trackingGapPct": -0.77
       }
     }
   },
   "overnight": {
-    "asOf": "2026-09-10",
+    "asOf": "2026-09-11",
     "soxx": {
-      "share20": 0.5731,
-      "baseline": 0.0625,
-      "baselineMedian": 0.5106,
+      "share20": 0.5907,
+      "baseline": 0.0786,
+      "baselineMedian": 0.5121,
       "baselineDepth": 252,
       "baselineTarget": 252
     },
     "smh": {
-      "share20": 0.5737,
-      "baseline": 0.0631,
-      "baselineMedian": 0.5106,
+      "share20": 0.5931,
+      "baseline": 0.0824,
+      "baselineMedian": 0.5107,
       "baselineDepth": 252,
       "baselineTarget": 252
     }
   },
   "earningsCalendar": {
-    "asOf": "2026-09-11",
-    "revision": 1,
+    "version": {
+      "calendar": {
+        "updated": "2026-09-11",
+        "revision": 3
+      },
+      "events": {
+        "updated": "2026-08-01",
+        "revision": 0
+      }
+    },
     "verifiedAsOf": "2026-09-11",
-    "tickers": {
-      "MSFT": {
-        "earnings": [
-          "2026-10-28",
-          "2027-01-27"
-        ],
-        "category": "hyperscaler",
-        "name": "Microsoft"
-      },
-      "GOOGL": {
-        "earnings": [
-          "2026-10-27",
-          "2027-02-03"
-        ],
-        "category": "hyperscaler",
-        "name": "Alphabet"
-      },
-      "AMZN": {
-        "earnings": [
-          "2026-10-29",
-          "2027-02-05"
-        ],
-        "category": "hyperscaler",
-        "name": "Amazon"
-      },
-      "META": {
-        "earnings": [
-          "2026-10-28",
-          "2027-01-28"
-        ],
-        "category": "hyperscaler",
-        "name": "Meta"
-      },
-      "NVDA": {
-        "earnings": [
-          "2026-11-25",
-          "2027-02-24"
-        ],
-        "category": "both",
-        "name": "Nvidia"
-      },
-      "ORCL": {
-        "earnings": [
-          "2026-12-10"
-        ],
-        "category": "hyperscaler",
-        "name": "Oracle"
-      },
-      "AMD": {
-        "earnings": [
-          "2026-11-03",
-          "2027-02-02"
-        ],
-        "category": "semi",
-        "name": "AMD"
-      },
-      "AVGO": {
-        "earnings": [
-          "2026-12-10"
-        ],
-        "category": "semi",
-        "name": "Broadcom"
-      },
-      "MRVL": {
-        "earnings": [
-          "2026-11-26",
-          "2027-03-04"
-        ],
-        "category": "semi",
-        "name": "Marvell"
-      },
-      "MU": {
-        "earnings": [
-          "2026-09-30",
-          "2026-12-17"
-        ],
-        "category": "semi",
-        "name": "Micron"
-      },
-      "ARM": {
-        "earnings": [
-          "2026-11-04",
-          "2027-02-04"
-        ],
-        "category": "semi",
-        "name": "Arm Holdings"
-      },
-      "TSM": {
-        "earnings": [
-          "2026-10-15",
-          "2027-01-15"
-        ],
-        "category": "semi",
-        "name": "TSMC"
-      },
-      "KLAC": {
-        "earnings": [
-          "2026-10-30"
-        ],
-        "category": "semi",
-        "name": "KLA Corp"
-      },
-      "INTC": {
-        "earnings": [
-          "2026-10-22"
-        ],
-        "category": "semi",
-        "name": "Intel"
-      },
-      "GEV": {
-        "earnings": [
-          "2026-10-21"
-        ],
-        "category": "industrial",
-        "name": "GE Vernova"
-      },
-      "ANET": {
-        "earnings": [
-          "2026-11-03",
-          "2027-02-11"
-        ],
-        "category": "semi",
-        "name": "Arista Networks"
-      },
-      "AEHR": {
-        "earnings": [
-          "2026-10-01"
-        ],
-        "category": "semi",
-        "name": "Aehr Test Systems"
-      },
-      "WOLF": {
-        "earnings": [],
-        "category": "semi",
-        "name": "Wolfspeed"
-      }
-    },
-    "meta": {
-      "MSFT": {
-        "2026-10-28": {
-          "confidence": "estimated",
-          "timing": null,
-          "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
-        },
-        "2027-01-27": {
-          "confidence": "estimated",
-          "timing": null,
-          "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
-        }
-      },
-      "GOOGL": {
-        "2026-10-27": {
-          "confidence": "estimated",
-          "timing": null,
-          "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
-        },
-        "2027-02-03": {
-          "confidence": "estimated",
-          "timing": null,
-          "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
-        }
-      },
-      "AMZN": {
-        "2026-10-29": {
-          "confidence": "estimated",
-          "timing": null,
-          "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
-        },
-        "2027-02-05": {
-          "confidence": "estimated",
-          "timing": null,
-          "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
-        }
-      },
-      "META": {
-        "2026-10-28": {
-          "confidence": "estimated",
-          "timing": null,
-          "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
-        },
-        "2027-01-28": {
-          "confidence": "estimated",
-          "timing": null,
-          "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
-        }
-      },
-      "NVDA": {
-        "2026-11-25": {
-          "confidence": "estimated",
-          "timing": null,
-          "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
-        },
-        "2027-02-24": {
-          "confidence": "estimated",
-          "timing": null,
-          "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
-        }
-      },
-      "ORCL": {
-        "2026-12-10": {
-          "confidence": "estimated",
-          "timing": null,
-          "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
-        }
-      },
-      "AMD": {
-        "2026-11-03": {
-          "confidence": "estimated",
-          "timing": null,
-          "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
-        },
-        "2027-02-02": {
-          "confidence": "estimated",
-          "timing": null,
-          "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
-        }
-      },
-      "AVGO": {
-        "2026-12-10": {
-          "confidence": "estimated",
-          "timing": null,
-          "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
-        }
-      },
-      "MRVL": {
-        "2026-11-26": {
-          "confidence": "estimated",
-          "timing": null,
-          "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
-        },
-        "2027-03-04": {
-          "confidence": "estimated",
-          "timing": null,
-          "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
-        }
-      },
-      "MU": {
-        "2026-09-30": {
-          "confidence": "confirmed",
-          "timing": "amc",
-          "sourceUrl": "https://investors.micron.com/news/press-release/2026/Micron-Technology-to-Report-Fiscal-Fourth-Quarter-Results-on-September-30-2026/default.aspx",
-          "verifiedAsOf": "2026-09-11"
-        },
-        "2026-12-17": {
-          "confidence": "estimated",
-          "timing": null,
-          "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
-        }
-      },
-      "ARM": {
-        "2026-11-04": {
-          "confidence": "estimated",
-          "timing": null,
-          "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
-        },
-        "2027-02-04": {
-          "confidence": "estimated",
-          "timing": null,
-          "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
-        }
-      },
-      "TSM": {
-        "2026-10-15": {
-          "confidence": "estimated",
-          "timing": null,
-          "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
-        },
-        "2027-01-15": {
-          "confidence": "estimated",
-          "timing": null,
-          "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
-        }
-      },
-      "KLAC": {
-        "2026-10-30": {
-          "confidence": "estimated",
-          "timing": null,
-          "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
-        }
-      },
-      "INTC": {
-        "2026-10-22": {
-          "confidence": "estimated",
-          "timing": null,
-          "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
-        }
-      },
-      "GEV": {
-        "2026-10-21": {
-          "confidence": "estimated",
-          "timing": null,
-          "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
-        }
-      },
-      "ANET": {
-        "2026-11-03": {
-          "confidence": "estimated",
-          "timing": null,
-          "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
-        },
-        "2027-02-11": {
-          "confidence": "estimated",
-          "timing": null,
-          "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
-        }
-      },
-      "AEHR": {
-        "2026-10-01": {
-          "confidence": "estimated",
-          "timing": null,
-          "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
-        }
-      }
-    },
     "aliases": {
       "GOOG": "GOOGL"
     },
@@ -1142,11 +786,11 @@
           "date": "2026-10-28",
           "endDate": "2026-10-28",
           "title": "Microsoft earnings",
+          "knownAsOf": "2026-08-01",
           "confidence": "estimated",
           "timing": null,
-          "verifiedAsOf": "2026-09-11",
-          "knownAsOf": "2026-08-01",
-          "sourceUrl": null
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
         },
         {
           "ticker": "MSFT",
@@ -1154,11 +798,11 @@
           "date": "2027-01-27",
           "endDate": "2027-01-27",
           "title": "Microsoft earnings",
+          "knownAsOf": "2026-08-01",
           "confidence": "estimated",
           "timing": null,
-          "verifiedAsOf": "2026-09-11",
-          "knownAsOf": "2026-08-01",
-          "sourceUrl": null
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
         }
       ],
       "GOOGL": [
@@ -1168,11 +812,11 @@
           "date": "2026-10-27",
           "endDate": "2026-10-27",
           "title": "Alphabet earnings",
+          "knownAsOf": "2026-08-01",
           "confidence": "estimated",
           "timing": null,
-          "verifiedAsOf": "2026-09-11",
-          "knownAsOf": "2026-08-01",
-          "sourceUrl": null
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
         },
         {
           "ticker": "GOOGL",
@@ -1180,11 +824,11 @@
           "date": "2027-02-03",
           "endDate": "2027-02-03",
           "title": "Alphabet earnings",
+          "knownAsOf": "2026-08-01",
           "confidence": "estimated",
           "timing": null,
-          "verifiedAsOf": "2026-09-11",
-          "knownAsOf": "2026-08-01",
-          "sourceUrl": null
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
         }
       ],
       "AMZN": [
@@ -1194,11 +838,11 @@
           "date": "2026-10-29",
           "endDate": "2026-10-29",
           "title": "Amazon earnings",
+          "knownAsOf": "2026-08-01",
           "confidence": "estimated",
           "timing": null,
-          "verifiedAsOf": "2026-09-11",
-          "knownAsOf": "2026-08-01",
-          "sourceUrl": null
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
         },
         {
           "ticker": "AMZN",
@@ -1206,11 +850,11 @@
           "date": "2027-02-05",
           "endDate": "2027-02-05",
           "title": "Amazon earnings",
+          "knownAsOf": "2026-08-01",
           "confidence": "estimated",
           "timing": null,
-          "verifiedAsOf": "2026-09-11",
-          "knownAsOf": "2026-08-01",
-          "sourceUrl": null
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
         }
       ],
       "META": [
@@ -1220,11 +864,11 @@
           "date": "2026-10-28",
           "endDate": "2026-10-28",
           "title": "Meta earnings",
+          "knownAsOf": "2026-08-01",
           "confidence": "estimated",
           "timing": null,
-          "verifiedAsOf": "2026-09-11",
-          "knownAsOf": "2026-08-01",
-          "sourceUrl": null
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
         },
         {
           "ticker": "META",
@@ -1232,11 +876,11 @@
           "date": "2027-01-28",
           "endDate": "2027-01-28",
           "title": "Meta earnings",
+          "knownAsOf": "2026-08-01",
           "confidence": "estimated",
           "timing": null,
-          "verifiedAsOf": "2026-09-11",
-          "knownAsOf": "2026-08-01",
-          "sourceUrl": null
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
         }
       ],
       "NVDA": [
@@ -1246,11 +890,11 @@
           "date": "2026-08-26",
           "endDate": "2026-08-26",
           "title": "Nvidia earnings",
+          "knownAsOf": "2026-07-22",
           "confidence": "verified",
           "timing": null,
-          "verifiedAsOf": "2026-09-02",
-          "knownAsOf": "2026-07-22",
-          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000073/"
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000073/",
+          "verifiedAsOf": "2026-09-02"
         },
         {
           "ticker": "NVDA",
@@ -1258,11 +902,11 @@
           "date": "2026-11-25",
           "endDate": "2026-11-25",
           "title": "Nvidia earnings",
+          "knownAsOf": "2026-09-01",
           "confidence": "estimated",
           "timing": null,
-          "verifiedAsOf": "2026-09-11",
-          "knownAsOf": "2026-09-01",
-          "sourceUrl": null
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
         },
         {
           "ticker": "NVDA",
@@ -1270,11 +914,11 @@
           "date": "2027-02-24",
           "endDate": "2027-02-24",
           "title": "Nvidia earnings",
+          "knownAsOf": "2026-09-01",
           "confidence": "estimated",
           "timing": null,
-          "verifiedAsOf": "2026-09-11",
-          "knownAsOf": "2026-09-01",
-          "sourceUrl": null
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
         }
       ],
       "ORCL": [
@@ -1412,11 +1056,11 @@
           "date": "2026-09-10",
           "endDate": "2026-09-10",
           "title": "Oracle earnings",
+          "knownAsOf": "2026-09-02",
           "confidence": "verified",
           "timing": "amc",
-          "verifiedAsOf": "2026-09-11",
-          "knownAsOf": "2026-09-02",
-          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526387905/"
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526387905/",
+          "verifiedAsOf": "2026-09-11"
         },
         {
           "ticker": "ORCL",
@@ -1424,11 +1068,11 @@
           "date": "2026-12-10",
           "endDate": "2026-12-10",
           "title": "Oracle earnings",
+          "knownAsOf": "2026-07-22",
           "confidence": "estimated",
           "timing": null,
-          "verifiedAsOf": "2026-09-11",
-          "knownAsOf": "2026-07-22",
-          "sourceUrl": null
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
         }
       ],
       "AMD": [
@@ -1438,11 +1082,11 @@
           "date": "2026-08-04",
           "endDate": "2026-08-04",
           "title": "AMD earnings",
+          "knownAsOf": "2026-07-22",
           "confidence": "verified",
           "timing": null,
-          "verifiedAsOf": "2026-09-02",
-          "knownAsOf": "2026-07-22",
-          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000121/"
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000121/",
+          "verifiedAsOf": "2026-09-02"
         },
         {
           "ticker": "AMD",
@@ -1450,11 +1094,11 @@
           "date": "2026-11-03",
           "endDate": "2026-11-03",
           "title": "AMD earnings",
+          "knownAsOf": "2026-09-01",
           "confidence": "estimated",
           "timing": null,
-          "verifiedAsOf": "2026-09-11",
-          "knownAsOf": "2026-09-01",
-          "sourceUrl": null
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
         },
         {
           "ticker": "AMD",
@@ -1462,11 +1106,11 @@
           "date": "2027-02-02",
           "endDate": "2027-02-02",
           "title": "AMD earnings",
+          "knownAsOf": "2026-09-01",
           "confidence": "estimated",
           "timing": null,
-          "verifiedAsOf": "2026-09-11",
-          "knownAsOf": "2026-09-01",
-          "sourceUrl": null
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
         }
       ],
       "AVGO": [
@@ -1537,11 +1181,11 @@
           "date": "2026-09-02",
           "endDate": "2026-09-02",
           "title": "Broadcom earnings",
+          "knownAsOf": "2026-09-01",
           "confidence": "verified",
           "timing": "amc",
-          "verifiedAsOf": "2026-09-11",
-          "knownAsOf": "2026-09-01",
-          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000076/"
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000076/",
+          "verifiedAsOf": "2026-09-11"
         },
         {
           "ticker": "AVGO",
@@ -1549,11 +1193,11 @@
           "date": "2026-12-10",
           "endDate": "2026-12-10",
           "title": "Broadcom earnings",
+          "knownAsOf": "2026-07-22",
           "confidence": "estimated",
           "timing": null,
-          "verifiedAsOf": "2026-09-11",
-          "knownAsOf": "2026-07-22",
-          "sourceUrl": null
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
         }
       ],
       "MRVL": [
@@ -1667,11 +1311,11 @@
           "date": "2026-08-27",
           "endDate": "2026-08-27",
           "title": "Marvell earnings",
+          "knownAsOf": "2026-08-20",
           "confidence": "verified",
           "timing": null,
-          "verifiedAsOf": "2026-09-02",
-          "knownAsOf": "2026-08-20",
-          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1835632/000183563226000022/"
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1835632/000183563226000022/",
+          "verifiedAsOf": "2026-09-02"
         },
         {
           "ticker": "MRVL",
@@ -1679,11 +1323,11 @@
           "date": "2026-11-26",
           "endDate": "2026-11-26",
           "title": "Marvell earnings",
+          "knownAsOf": "2026-07-22",
           "confidence": "estimated",
           "timing": null,
-          "verifiedAsOf": "2026-09-11",
-          "knownAsOf": "2026-07-22",
-          "sourceUrl": null
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
         },
         {
           "ticker": "MRVL",
@@ -1691,11 +1335,11 @@
           "date": "2027-03-04",
           "endDate": "2027-03-04",
           "title": "Marvell earnings",
+          "knownAsOf": "2026-09-01",
           "confidence": "estimated",
           "timing": null,
-          "verifiedAsOf": "2026-09-11",
-          "knownAsOf": "2026-09-01",
-          "sourceUrl": null
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
         }
       ],
       "MU": [
@@ -1705,11 +1349,11 @@
           "date": "2026-09-30",
           "endDate": "2026-09-30",
           "title": "Micron earnings",
+          "knownAsOf": "2026-09-01",
           "confidence": "confirmed",
           "timing": "amc",
-          "verifiedAsOf": "2026-09-11",
-          "knownAsOf": "2026-09-01",
-          "sourceUrl": "https://investors.micron.com/news/press-release/2026/Micron-Technology-to-Report-Fiscal-Fourth-Quarter-Results-on-September-30-2026/default.aspx"
+          "sourceUrl": "https://investors.micron.com/news/press-release/2026/Micron-Technology-to-Report-Fiscal-Fourth-Quarter-Results-on-September-30-2026/default.aspx",
+          "verifiedAsOf": "2026-09-11"
         },
         {
           "ticker": "MU",
@@ -1717,11 +1361,11 @@
           "date": "2026-12-17",
           "endDate": "2026-12-17",
           "title": "Micron earnings",
+          "knownAsOf": "2026-07-22",
           "confidence": "estimated",
           "timing": null,
-          "verifiedAsOf": "2026-09-11",
-          "knownAsOf": "2026-07-22",
-          "sourceUrl": null
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
         }
       ],
       "ARM": [
@@ -1731,11 +1375,11 @@
           "date": "2026-11-04",
           "endDate": "2026-11-04",
           "title": "Arm Holdings earnings",
+          "knownAsOf": "2026-08-01",
           "confidence": "estimated",
           "timing": null,
-          "verifiedAsOf": "2026-09-11",
-          "knownAsOf": "2026-08-01",
-          "sourceUrl": null
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
         },
         {
           "ticker": "ARM",
@@ -1743,11 +1387,11 @@
           "date": "2027-02-04",
           "endDate": "2027-02-04",
           "title": "Arm Holdings earnings",
+          "knownAsOf": "2026-08-01",
           "confidence": "estimated",
           "timing": null,
-          "verifiedAsOf": "2026-09-11",
-          "knownAsOf": "2026-08-01",
-          "sourceUrl": null
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
         }
       ],
       "TSM": [
@@ -1757,11 +1401,11 @@
           "date": "2026-10-15",
           "endDate": "2026-10-15",
           "title": "TSMC earnings",
+          "knownAsOf": "2026-09-01",
           "confidence": "estimated",
           "timing": null,
-          "verifiedAsOf": "2026-09-11",
-          "knownAsOf": "2026-09-01",
-          "sourceUrl": null
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
         },
         {
           "ticker": "TSM",
@@ -1769,11 +1413,11 @@
           "date": "2027-01-15",
           "endDate": "2027-01-15",
           "title": "TSMC earnings",
+          "knownAsOf": "2026-07-22",
           "confidence": "estimated",
           "timing": null,
-          "verifiedAsOf": "2026-09-11",
-          "knownAsOf": "2026-07-22",
-          "sourceUrl": null
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
         }
       ],
       "KLAC": [
@@ -1887,11 +1531,11 @@
           "date": "2026-10-30",
           "endDate": "2026-10-30",
           "title": "KLA Corp earnings",
+          "knownAsOf": "2026-08-01",
           "confidence": "estimated",
           "timing": null,
-          "verifiedAsOf": "2026-09-11",
-          "knownAsOf": "2026-08-01",
-          "sourceUrl": null
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
         }
       ],
       "INTC": [
@@ -2113,11 +1757,11 @@
           "date": "2026-10-22",
           "endDate": "2026-10-22",
           "title": "Intel earnings",
+          "knownAsOf": "2026-08-01",
           "confidence": "estimated",
           "timing": null,
-          "verifiedAsOf": "2026-09-11",
-          "knownAsOf": "2026-08-01",
-          "sourceUrl": null
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
         }
       ],
       "GEV": [
@@ -2170,11 +1814,11 @@
           "date": "2026-10-21",
           "endDate": "2026-10-21",
           "title": "GE Vernova earnings",
+          "knownAsOf": "2026-08-01",
           "confidence": "estimated",
           "timing": null,
-          "verifiedAsOf": "2026-09-11",
-          "knownAsOf": "2026-08-01",
-          "sourceUrl": null
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
         }
       ],
       "ANET": [
@@ -2273,11 +1917,11 @@
           "date": "2026-08-04",
           "endDate": "2026-08-04",
           "title": "Arista Networks earnings",
+          "knownAsOf": "2026-07-07",
           "confidence": "verified",
           "timing": null,
-          "verifiedAsOf": "2026-09-02",
-          "knownAsOf": "2026-07-07",
-          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1596532/000159653226000174/"
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1596532/000159653226000174/",
+          "verifiedAsOf": "2026-09-02"
         },
         {
           "ticker": "ANET",
@@ -2315,11 +1959,11 @@
           "date": "2026-11-03",
           "endDate": "2026-11-03",
           "title": "Arista Networks earnings",
+          "knownAsOf": "2026-07-07",
           "confidence": "estimated",
           "timing": null,
-          "verifiedAsOf": "2026-09-11",
-          "knownAsOf": "2026-07-07",
-          "sourceUrl": null
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
         },
         {
           "ticker": "ANET",
@@ -2327,11 +1971,11 @@
           "date": "2027-02-11",
           "endDate": "2027-02-11",
           "title": "Arista Networks earnings",
+          "knownAsOf": "2026-09-01",
           "confidence": "estimated",
           "timing": null,
-          "verifiedAsOf": "2026-09-11",
-          "knownAsOf": "2026-09-01",
-          "sourceUrl": null
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
         }
       ],
       "AEHR": [
@@ -2383,11 +2027,11 @@
           "date": "2026-10-01",
           "endDate": "2026-10-01",
           "title": "Aehr Test Systems earnings",
+          "knownAsOf": "2026-09-01",
           "confidence": "estimated",
           "timing": null,
-          "verifiedAsOf": "2026-09-11",
-          "knownAsOf": "2026-09-01",
-          "sourceUrl": null
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
         }
       ],
       "WOLF": [
@@ -2890,7 +2534,7 @@
     }
   },
   "leadership": {
-    "asOf": "2026-09-10",
+    "asOf": "2026-09-11",
     "universe": [
       "SMH",
       "SOXX",
@@ -2923,44 +2567,44 @@
     ],
     "assets": {
       "SMH": {
-        "return6m": 39.71,
-        "return12m": 88.72,
+        "return6m": 46.48,
+        "return12m": 89.58,
         "rank6m": 2,
         "rank12m": 2
       },
       "SOXX": {
-        "return6m": 51.42,
-        "return12m": 108.72,
+        "return6m": 59.8,
+        "return12m": 108.93,
         "rank6m": 1,
         "rank12m": 1
       },
       "XLV": {
-        "return6m": 9.31,
-        "return12m": 21.62,
+        "return6m": 11.06,
+        "return12m": 22.51,
         "rank6m": 5,
         "rank12m": 5
       },
       "XLP": {
-        "return6m": -0.52,
-        "return12m": 5.79,
+        "return6m": 0.21,
+        "return12m": 7.2,
         "rank6m": 6,
         "rank12m": 6
       },
       "XLU": {
-        "return6m": -6.67,
-        "return12m": 5.07,
+        "return6m": -7.64,
+        "return12m": 2.96,
         "rank6m": 7,
         "rank12m": 7
       },
       "XLE": {
-        "return6m": 15.52,
-        "return12m": 52.9,
+        "return6m": 14.81,
+        "return12m": 50.73,
         "rank6m": 4,
         "rank12m": 3
       },
       "XLK": {
-        "return6m": 32.22,
-        "return12m": 40.34,
+        "return6m": 36.5,
+        "return12m": 39.69,
         "rank6m": 3,
         "rank12m": 4
       }
