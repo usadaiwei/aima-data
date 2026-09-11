@@ -1,5 +1,5 @@
 {
-  "_publishedAt": "2026-09-10T22:00:03.719Z",
+  "_publishedAt": "2026-09-11T13:07:33.980Z",
   "fundamentals": {
     "_updated": "2026-09-03T13:12:08.340Z",
     "tickers": {
@@ -241,9 +241,9 @@
   },
   "fundamentalsAsOf": "2026-09-03",
   "gex": {
-    "netGEX": -55467399.06968254,
-    "flipPoint": 7691,
-    "asOf": "2026-09-10"
+    "netGEX": -360451593.01693225,
+    "flipPoint": 7646,
+    "asOf": "2026-09-11"
   },
   "iv": {
     "asOf": "2026-09-10",
@@ -784,6 +784,2109 @@
       "baselineMedian": 0.5106,
       "baselineDepth": 252,
       "baselineTarget": 252
+    }
+  },
+  "earningsCalendar": {
+    "asOf": "2026-09-11",
+    "revision": 1,
+    "verifiedAsOf": "2026-09-11",
+    "tickers": {
+      "MSFT": {
+        "earnings": [
+          "2026-10-28",
+          "2027-01-27"
+        ],
+        "category": "hyperscaler",
+        "name": "Microsoft"
+      },
+      "GOOGL": {
+        "earnings": [
+          "2026-10-27",
+          "2027-02-03"
+        ],
+        "category": "hyperscaler",
+        "name": "Alphabet"
+      },
+      "AMZN": {
+        "earnings": [
+          "2026-10-29",
+          "2027-02-05"
+        ],
+        "category": "hyperscaler",
+        "name": "Amazon"
+      },
+      "META": {
+        "earnings": [
+          "2026-10-28",
+          "2027-01-28"
+        ],
+        "category": "hyperscaler",
+        "name": "Meta"
+      },
+      "NVDA": {
+        "earnings": [
+          "2026-11-25",
+          "2027-02-24"
+        ],
+        "category": "both",
+        "name": "Nvidia"
+      },
+      "ORCL": {
+        "earnings": [
+          "2026-12-10"
+        ],
+        "category": "hyperscaler",
+        "name": "Oracle"
+      },
+      "AMD": {
+        "earnings": [
+          "2026-11-03",
+          "2027-02-02"
+        ],
+        "category": "semi",
+        "name": "AMD"
+      },
+      "AVGO": {
+        "earnings": [
+          "2026-12-10"
+        ],
+        "category": "semi",
+        "name": "Broadcom"
+      },
+      "MRVL": {
+        "earnings": [
+          "2026-11-26",
+          "2027-03-04"
+        ],
+        "category": "semi",
+        "name": "Marvell"
+      },
+      "MU": {
+        "earnings": [
+          "2026-09-30",
+          "2026-12-17"
+        ],
+        "category": "semi",
+        "name": "Micron"
+      },
+      "ARM": {
+        "earnings": [
+          "2026-11-04",
+          "2027-02-04"
+        ],
+        "category": "semi",
+        "name": "Arm Holdings"
+      },
+      "TSM": {
+        "earnings": [
+          "2026-10-15",
+          "2027-01-15"
+        ],
+        "category": "semi",
+        "name": "TSMC"
+      },
+      "KLAC": {
+        "earnings": [
+          "2026-10-30"
+        ],
+        "category": "semi",
+        "name": "KLA Corp"
+      },
+      "INTC": {
+        "earnings": [
+          "2026-10-22"
+        ],
+        "category": "semi",
+        "name": "Intel"
+      },
+      "GEV": {
+        "earnings": [
+          "2026-10-21"
+        ],
+        "category": "industrial",
+        "name": "GE Vernova"
+      },
+      "ANET": {
+        "earnings": [
+          "2026-11-03",
+          "2027-02-11"
+        ],
+        "category": "semi",
+        "name": "Arista Networks"
+      },
+      "AEHR": {
+        "earnings": [
+          "2026-10-01"
+        ],
+        "category": "semi",
+        "name": "Aehr Test Systems"
+      },
+      "WOLF": {
+        "earnings": [],
+        "category": "semi",
+        "name": "Wolfspeed"
+      }
+    },
+    "meta": {
+      "MSFT": {
+        "2026-10-28": {
+          "confidence": "estimated",
+          "timing": null,
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
+        },
+        "2027-01-27": {
+          "confidence": "estimated",
+          "timing": null,
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
+        }
+      },
+      "GOOGL": {
+        "2026-10-27": {
+          "confidence": "estimated",
+          "timing": null,
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
+        },
+        "2027-02-03": {
+          "confidence": "estimated",
+          "timing": null,
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
+        }
+      },
+      "AMZN": {
+        "2026-10-29": {
+          "confidence": "estimated",
+          "timing": null,
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
+        },
+        "2027-02-05": {
+          "confidence": "estimated",
+          "timing": null,
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
+        }
+      },
+      "META": {
+        "2026-10-28": {
+          "confidence": "estimated",
+          "timing": null,
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
+        },
+        "2027-01-28": {
+          "confidence": "estimated",
+          "timing": null,
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
+        }
+      },
+      "NVDA": {
+        "2026-11-25": {
+          "confidence": "estimated",
+          "timing": null,
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
+        },
+        "2027-02-24": {
+          "confidence": "estimated",
+          "timing": null,
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
+        }
+      },
+      "ORCL": {
+        "2026-12-10": {
+          "confidence": "estimated",
+          "timing": null,
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
+        }
+      },
+      "AMD": {
+        "2026-11-03": {
+          "confidence": "estimated",
+          "timing": null,
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
+        },
+        "2027-02-02": {
+          "confidence": "estimated",
+          "timing": null,
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
+        }
+      },
+      "AVGO": {
+        "2026-12-10": {
+          "confidence": "estimated",
+          "timing": null,
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
+        }
+      },
+      "MRVL": {
+        "2026-11-26": {
+          "confidence": "estimated",
+          "timing": null,
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
+        },
+        "2027-03-04": {
+          "confidence": "estimated",
+          "timing": null,
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
+        }
+      },
+      "MU": {
+        "2026-09-30": {
+          "confidence": "confirmed",
+          "timing": "amc",
+          "sourceUrl": "https://investors.micron.com/news/press-release/2026/Micron-Technology-to-Report-Fiscal-Fourth-Quarter-Results-on-September-30-2026/default.aspx",
+          "verifiedAsOf": "2026-09-11"
+        },
+        "2026-12-17": {
+          "confidence": "estimated",
+          "timing": null,
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
+        }
+      },
+      "ARM": {
+        "2026-11-04": {
+          "confidence": "estimated",
+          "timing": null,
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
+        },
+        "2027-02-04": {
+          "confidence": "estimated",
+          "timing": null,
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
+        }
+      },
+      "TSM": {
+        "2026-10-15": {
+          "confidence": "estimated",
+          "timing": null,
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
+        },
+        "2027-01-15": {
+          "confidence": "estimated",
+          "timing": null,
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
+        }
+      },
+      "KLAC": {
+        "2026-10-30": {
+          "confidence": "estimated",
+          "timing": null,
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
+        }
+      },
+      "INTC": {
+        "2026-10-22": {
+          "confidence": "estimated",
+          "timing": null,
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
+        }
+      },
+      "GEV": {
+        "2026-10-21": {
+          "confidence": "estimated",
+          "timing": null,
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
+        }
+      },
+      "ANET": {
+        "2026-11-03": {
+          "confidence": "estimated",
+          "timing": null,
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
+        },
+        "2027-02-11": {
+          "confidence": "estimated",
+          "timing": null,
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
+        }
+      },
+      "AEHR": {
+        "2026-10-01": {
+          "confidence": "estimated",
+          "timing": null,
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-09-11"
+        }
+      }
+    },
+    "aliases": {
+      "GOOG": "GOOGL"
+    },
+    "companyEvents": {
+      "MSFT": [
+        {
+          "ticker": "MSFT",
+          "type": "earnings",
+          "date": "2026-10-28",
+          "endDate": "2026-10-28",
+          "title": "Microsoft earnings",
+          "confidence": "estimated",
+          "timing": null,
+          "verifiedAsOf": "2026-09-11",
+          "knownAsOf": "2026-08-01",
+          "sourceUrl": null
+        },
+        {
+          "ticker": "MSFT",
+          "type": "earnings",
+          "date": "2027-01-27",
+          "endDate": "2027-01-27",
+          "title": "Microsoft earnings",
+          "confidence": "estimated",
+          "timing": null,
+          "verifiedAsOf": "2026-09-11",
+          "knownAsOf": "2026-08-01",
+          "sourceUrl": null
+        }
+      ],
+      "GOOGL": [
+        {
+          "ticker": "GOOGL",
+          "type": "earnings",
+          "date": "2026-10-27",
+          "endDate": "2026-10-27",
+          "title": "Alphabet earnings",
+          "confidence": "estimated",
+          "timing": null,
+          "verifiedAsOf": "2026-09-11",
+          "knownAsOf": "2026-08-01",
+          "sourceUrl": null
+        },
+        {
+          "ticker": "GOOGL",
+          "type": "earnings",
+          "date": "2027-02-03",
+          "endDate": "2027-02-03",
+          "title": "Alphabet earnings",
+          "confidence": "estimated",
+          "timing": null,
+          "verifiedAsOf": "2026-09-11",
+          "knownAsOf": "2026-08-01",
+          "sourceUrl": null
+        }
+      ],
+      "AMZN": [
+        {
+          "ticker": "AMZN",
+          "type": "earnings",
+          "date": "2026-10-29",
+          "endDate": "2026-10-29",
+          "title": "Amazon earnings",
+          "confidence": "estimated",
+          "timing": null,
+          "verifiedAsOf": "2026-09-11",
+          "knownAsOf": "2026-08-01",
+          "sourceUrl": null
+        },
+        {
+          "ticker": "AMZN",
+          "type": "earnings",
+          "date": "2027-02-05",
+          "endDate": "2027-02-05",
+          "title": "Amazon earnings",
+          "confidence": "estimated",
+          "timing": null,
+          "verifiedAsOf": "2026-09-11",
+          "knownAsOf": "2026-08-01",
+          "sourceUrl": null
+        }
+      ],
+      "META": [
+        {
+          "ticker": "META",
+          "type": "earnings",
+          "date": "2026-10-28",
+          "endDate": "2026-10-28",
+          "title": "Meta earnings",
+          "confidence": "estimated",
+          "timing": null,
+          "verifiedAsOf": "2026-09-11",
+          "knownAsOf": "2026-08-01",
+          "sourceUrl": null
+        },
+        {
+          "ticker": "META",
+          "type": "earnings",
+          "date": "2027-01-28",
+          "endDate": "2027-01-28",
+          "title": "Meta earnings",
+          "confidence": "estimated",
+          "timing": null,
+          "verifiedAsOf": "2026-09-11",
+          "knownAsOf": "2026-08-01",
+          "sourceUrl": null
+        }
+      ],
+      "NVDA": [
+        {
+          "ticker": "NVDA",
+          "type": "earnings",
+          "date": "2026-08-26",
+          "endDate": "2026-08-26",
+          "title": "Nvidia earnings",
+          "confidence": "verified",
+          "timing": null,
+          "verifiedAsOf": "2026-09-02",
+          "knownAsOf": "2026-07-22",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000073/"
+        },
+        {
+          "ticker": "NVDA",
+          "type": "earnings",
+          "date": "2026-11-25",
+          "endDate": "2026-11-25",
+          "title": "Nvidia earnings",
+          "confidence": "estimated",
+          "timing": null,
+          "verifiedAsOf": "2026-09-11",
+          "knownAsOf": "2026-09-01",
+          "sourceUrl": null
+        },
+        {
+          "ticker": "NVDA",
+          "type": "earnings",
+          "date": "2027-02-24",
+          "endDate": "2027-02-24",
+          "title": "Nvidia earnings",
+          "confidence": "estimated",
+          "timing": null,
+          "verifiedAsOf": "2026-09-11",
+          "knownAsOf": "2026-09-01",
+          "sourceUrl": null
+        }
+      ],
+      "ORCL": [
+        {
+          "ticker": "ORCL",
+          "type": "management_8k",
+          "date": "2025-01-13",
+          "endDate": "2025-01-13",
+          "knownAsOf": "2025-01-14",
+          "filedAt": "2025-01-13",
+          "acceptedAt": "2025-01-13T21:30:14.000Z",
+          "acceptanceDateTimeHeader": "20250113163014",
+          "accession": "0001193125-25-005333",
+          "form": "8-K",
+          "items": [
+            "5.02"
+          ],
+          "classification": "unclassified",
+          "title": "ORCL 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525005333/",
+          "primaryDocument": "d902043d8k.htm"
+        },
+        {
+          "ticker": "ORCL",
+          "type": "management_8k",
+          "date": "2025-09-22",
+          "endDate": "2025-09-22",
+          "knownAsOf": "2025-09-22",
+          "filedAt": "2025-09-22",
+          "acceptedAt": "2025-09-22T12:22:12.000Z",
+          "acceptanceDateTimeHeader": "20250922082212",
+          "accession": "0001193125-25-210089",
+          "form": "8-K",
+          "items": [
+            "5.02",
+            "7.01",
+            "9.01"
+          ],
+          "classification": "unclassified",
+          "title": "ORCL 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525210089/",
+          "primaryDocument": "d921500d8k.htm"
+        },
+        {
+          "ticker": "ORCL",
+          "type": "management_8k",
+          "date": "2025-11-21",
+          "endDate": "2025-11-21",
+          "knownAsOf": "2025-11-24",
+          "filedAt": "2025-11-21",
+          "acceptedAt": "2025-11-21T21:26:49.000Z",
+          "acceptanceDateTimeHeader": "20251121162649",
+          "accession": "0001193125-25-291441",
+          "form": "8-K",
+          "items": [
+            "5.02",
+            "5.07",
+            "9.01"
+          ],
+          "classification": "unclassified",
+          "title": "ORCL 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525291441/",
+          "primaryDocument": "d43173d8k.htm"
+        },
+        {
+          "ticker": "ORCL",
+          "type": "management_8k",
+          "date": "2026-01-09",
+          "endDate": "2026-01-09",
+          "knownAsOf": "2026-01-12",
+          "filedAt": "2026-01-09",
+          "acceptedAt": "2026-01-09T21:31:11.000Z",
+          "acceptanceDateTimeHeader": "20260109163111",
+          "accession": "0001193125-26-009002",
+          "form": "8-K",
+          "items": [
+            "5.02"
+          ],
+          "classification": "unclassified",
+          "title": "ORCL 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526009002/",
+          "primaryDocument": "d34442d8k.htm"
+        },
+        {
+          "ticker": "ORCL",
+          "type": "management_8k",
+          "date": "2026-04-06",
+          "endDate": "2026-04-06",
+          "knownAsOf": "2026-04-06",
+          "filedAt": "2026-04-06",
+          "acceptedAt": "2026-04-06T12:12:11.000Z",
+          "acceptanceDateTimeHeader": "20260406081211",
+          "accession": "0001193125-26-142939",
+          "form": "8-K",
+          "items": [
+            "5.02",
+            "7.01",
+            "9.01"
+          ],
+          "classification": "unclassified",
+          "title": "ORCL 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526142939/",
+          "primaryDocument": "d132760d8k.htm"
+        },
+        {
+          "ticker": "ORCL",
+          "type": "management_8k",
+          "date": "2026-05-12",
+          "endDate": "2026-05-12",
+          "knownAsOf": "2026-05-13",
+          "filedAt": "2026-05-12",
+          "acceptedAt": "2026-05-12T20:50:49.000Z",
+          "acceptanceDateTimeHeader": "20260512165049",
+          "accession": "0001193125-26-219708",
+          "form": "8-K",
+          "items": [
+            "5.02",
+            "7.01",
+            "9.01"
+          ],
+          "classification": "unclassified",
+          "title": "ORCL 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526219708/",
+          "primaryDocument": "d76569d8k.htm"
+        },
+        {
+          "ticker": "ORCL",
+          "type": "earnings",
+          "date": "2026-09-10",
+          "endDate": "2026-09-10",
+          "title": "Oracle earnings",
+          "confidence": "verified",
+          "timing": "amc",
+          "verifiedAsOf": "2026-09-11",
+          "knownAsOf": "2026-09-02",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526387905/"
+        },
+        {
+          "ticker": "ORCL",
+          "type": "earnings",
+          "date": "2026-12-10",
+          "endDate": "2026-12-10",
+          "title": "Oracle earnings",
+          "confidence": "estimated",
+          "timing": null,
+          "verifiedAsOf": "2026-09-11",
+          "knownAsOf": "2026-07-22",
+          "sourceUrl": null
+        }
+      ],
+      "AMD": [
+        {
+          "ticker": "AMD",
+          "type": "earnings",
+          "date": "2026-08-04",
+          "endDate": "2026-08-04",
+          "title": "AMD earnings",
+          "confidence": "verified",
+          "timing": null,
+          "verifiedAsOf": "2026-09-02",
+          "knownAsOf": "2026-07-22",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000121/"
+        },
+        {
+          "ticker": "AMD",
+          "type": "earnings",
+          "date": "2026-11-03",
+          "endDate": "2026-11-03",
+          "title": "AMD earnings",
+          "confidence": "estimated",
+          "timing": null,
+          "verifiedAsOf": "2026-09-11",
+          "knownAsOf": "2026-09-01",
+          "sourceUrl": null
+        },
+        {
+          "ticker": "AMD",
+          "type": "earnings",
+          "date": "2027-02-02",
+          "endDate": "2027-02-02",
+          "title": "AMD earnings",
+          "confidence": "estimated",
+          "timing": null,
+          "verifiedAsOf": "2026-09-11",
+          "knownAsOf": "2026-09-01",
+          "sourceUrl": null
+        }
+      ],
+      "AVGO": [
+        {
+          "ticker": "AVGO",
+          "type": "management_8k",
+          "date": "2025-09-09",
+          "endDate": "2025-09-09",
+          "knownAsOf": "2025-09-10",
+          "filedAt": "2025-09-09",
+          "acceptedAt": "2025-09-09T21:28:00.000Z",
+          "acceptanceDateTimeHeader": "20250909172800",
+          "accession": "0001193125-25-199281",
+          "form": "8-K",
+          "items": [
+            "5.02",
+            "9.01"
+          ],
+          "classification": "unclassified",
+          "title": "AVGO 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1730168/000119312525199281/",
+          "primaryDocument": "d58273d8k.htm"
+        },
+        {
+          "ticker": "AVGO",
+          "type": "management_8k",
+          "date": "2026-03-02",
+          "endDate": "2026-03-02",
+          "knownAsOf": "2026-03-03",
+          "filedAt": "2026-03-02",
+          "acceptedAt": "2026-03-02T22:00:50.000Z",
+          "acceptanceDateTimeHeader": "20260302170050",
+          "accession": "0001193125-26-085656",
+          "form": "8-K",
+          "items": [
+            "5.02"
+          ],
+          "classification": "unclassified",
+          "title": "AVGO 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526085656/",
+          "primaryDocument": "d305325d8k.htm"
+        },
+        {
+          "ticker": "AVGO",
+          "type": "management_8k",
+          "date": "2026-04-02",
+          "endDate": "2026-04-02",
+          "knownAsOf": "2026-04-06",
+          "filedAt": "2026-04-02",
+          "acceptedAt": "2026-04-02T21:25:00.000Z",
+          "acceptanceDateTimeHeader": "20260402172500",
+          "accession": "0001193125-26-140574",
+          "form": "8-K",
+          "items": [
+            "5.02"
+          ],
+          "classification": "unclassified",
+          "title": "AVGO 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526140574/",
+          "primaryDocument": "d109450d8k.htm"
+        },
+        {
+          "ticker": "AVGO",
+          "type": "earnings",
+          "date": "2026-09-02",
+          "endDate": "2026-09-02",
+          "title": "Broadcom earnings",
+          "confidence": "verified",
+          "timing": "amc",
+          "verifiedAsOf": "2026-09-11",
+          "knownAsOf": "2026-09-01",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000076/"
+        },
+        {
+          "ticker": "AVGO",
+          "type": "earnings",
+          "date": "2026-12-10",
+          "endDate": "2026-12-10",
+          "title": "Broadcom earnings",
+          "confidence": "estimated",
+          "timing": null,
+          "verifiedAsOf": "2026-09-11",
+          "knownAsOf": "2026-07-22",
+          "sourceUrl": null
+        }
+      ],
+      "MRVL": [
+        {
+          "ticker": "MRVL",
+          "type": "management_8k",
+          "date": "2025-04-14",
+          "endDate": "2025-04-14",
+          "knownAsOf": "2025-04-14",
+          "filedAt": "2025-04-14",
+          "acceptedAt": "2025-04-14T13:27:39.000Z",
+          "acceptanceDateTimeHeader": "20250414092739",
+          "accession": "0001193125-25-079772",
+          "form": "8-K",
+          "items": [
+            "5.02",
+            "9.01"
+          ],
+          "classification": "unclassified",
+          "title": "MRVL 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1835632/000119312525079772/",
+          "primaryDocument": "d857711d8k.htm"
+        },
+        {
+          "ticker": "MRVL",
+          "type": "management_8k",
+          "date": "2025-06-20",
+          "endDate": "2025-06-20",
+          "knownAsOf": "2025-06-20",
+          "filedAt": "2025-06-20",
+          "acceptedAt": "2025-06-20T13:14:42.000Z",
+          "acceptanceDateTimeHeader": "20250620091442",
+          "accession": "0001193125-25-143288",
+          "form": "8-K",
+          "items": [
+            "5.02"
+          ],
+          "classification": "unclassified",
+          "title": "MRVL 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1835632/000119312525143288/",
+          "primaryDocument": "d935188d8k.htm"
+        },
+        {
+          "ticker": "MRVL",
+          "type": "management_8k",
+          "date": "2025-07-17",
+          "endDate": "2025-07-17",
+          "knownAsOf": "2025-07-18",
+          "filedAt": "2025-07-17",
+          "acceptedAt": "2025-07-17T21:00:24.000Z",
+          "acceptanceDateTimeHeader": "20250717170024",
+          "accession": "0001193125-25-160597",
+          "form": "8-K",
+          "items": [
+            "5.02"
+          ],
+          "classification": "unclassified",
+          "title": "MRVL 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1835632/000119312525160597/",
+          "primaryDocument": "d74729d8k.htm"
+        },
+        {
+          "ticker": "MRVL",
+          "type": "management_8k",
+          "date": "2025-07-23",
+          "endDate": "2025-07-23",
+          "knownAsOf": "2025-07-23",
+          "filedAt": "2025-07-23",
+          "acceptedAt": "2025-07-23T13:11:22.000Z",
+          "acceptanceDateTimeHeader": "20250723091122",
+          "accession": "0001193125-25-163086",
+          "form": "8-K",
+          "items": [
+            "5.02",
+            "9.01"
+          ],
+          "classification": "unclassified",
+          "title": "MRVL 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1835632/000119312525163086/",
+          "primaryDocument": "d50314d8k.htm"
+        },
+        {
+          "ticker": "MRVL",
+          "type": "management_8k",
+          "date": "2026-06-11",
+          "endDate": "2026-06-11",
+          "knownAsOf": "2026-06-12",
+          "filedAt": "2026-06-11",
+          "acceptedAt": "2026-06-11T20:33:54.000Z",
+          "acceptanceDateTimeHeader": "20260611163354",
+          "accession": "0001193125-26-267688",
+          "form": "8-K",
+          "items": [
+            "5.02",
+            "7.01",
+            "9.01"
+          ],
+          "classification": "unclassified",
+          "title": "MRVL 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1835632/000119312526267688/",
+          "primaryDocument": "d151562d8k.htm"
+        },
+        {
+          "ticker": "MRVL",
+          "type": "earnings",
+          "date": "2026-08-27",
+          "endDate": "2026-08-27",
+          "title": "Marvell earnings",
+          "confidence": "verified",
+          "timing": null,
+          "verifiedAsOf": "2026-09-02",
+          "knownAsOf": "2026-08-20",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1835632/000183563226000022/"
+        },
+        {
+          "ticker": "MRVL",
+          "type": "earnings",
+          "date": "2026-11-26",
+          "endDate": "2026-11-26",
+          "title": "Marvell earnings",
+          "confidence": "estimated",
+          "timing": null,
+          "verifiedAsOf": "2026-09-11",
+          "knownAsOf": "2026-07-22",
+          "sourceUrl": null
+        },
+        {
+          "ticker": "MRVL",
+          "type": "earnings",
+          "date": "2027-03-04",
+          "endDate": "2027-03-04",
+          "title": "Marvell earnings",
+          "confidence": "estimated",
+          "timing": null,
+          "verifiedAsOf": "2026-09-11",
+          "knownAsOf": "2026-09-01",
+          "sourceUrl": null
+        }
+      ],
+      "MU": [
+        {
+          "ticker": "MU",
+          "type": "earnings",
+          "date": "2026-09-30",
+          "endDate": "2026-09-30",
+          "title": "Micron earnings",
+          "confidence": "confirmed",
+          "timing": "amc",
+          "verifiedAsOf": "2026-09-11",
+          "knownAsOf": "2026-09-01",
+          "sourceUrl": "https://investors.micron.com/news/press-release/2026/Micron-Technology-to-Report-Fiscal-Fourth-Quarter-Results-on-September-30-2026/default.aspx"
+        },
+        {
+          "ticker": "MU",
+          "type": "earnings",
+          "date": "2026-12-17",
+          "endDate": "2026-12-17",
+          "title": "Micron earnings",
+          "confidence": "estimated",
+          "timing": null,
+          "verifiedAsOf": "2026-09-11",
+          "knownAsOf": "2026-07-22",
+          "sourceUrl": null
+        }
+      ],
+      "ARM": [
+        {
+          "ticker": "ARM",
+          "type": "earnings",
+          "date": "2026-11-04",
+          "endDate": "2026-11-04",
+          "title": "Arm Holdings earnings",
+          "confidence": "estimated",
+          "timing": null,
+          "verifiedAsOf": "2026-09-11",
+          "knownAsOf": "2026-08-01",
+          "sourceUrl": null
+        },
+        {
+          "ticker": "ARM",
+          "type": "earnings",
+          "date": "2027-02-04",
+          "endDate": "2027-02-04",
+          "title": "Arm Holdings earnings",
+          "confidence": "estimated",
+          "timing": null,
+          "verifiedAsOf": "2026-09-11",
+          "knownAsOf": "2026-08-01",
+          "sourceUrl": null
+        }
+      ],
+      "TSM": [
+        {
+          "ticker": "TSM",
+          "type": "earnings",
+          "date": "2026-10-15",
+          "endDate": "2026-10-15",
+          "title": "TSMC earnings",
+          "confidence": "estimated",
+          "timing": null,
+          "verifiedAsOf": "2026-09-11",
+          "knownAsOf": "2026-09-01",
+          "sourceUrl": null
+        },
+        {
+          "ticker": "TSM",
+          "type": "earnings",
+          "date": "2027-01-15",
+          "endDate": "2027-01-15",
+          "title": "TSMC earnings",
+          "confidence": "estimated",
+          "timing": null,
+          "verifiedAsOf": "2026-09-11",
+          "knownAsOf": "2026-07-22",
+          "sourceUrl": null
+        }
+      ],
+      "KLAC": [
+        {
+          "ticker": "KLAC",
+          "type": "management_8k",
+          "date": "2024-09-20",
+          "endDate": "2024-09-20",
+          "knownAsOf": "2024-09-23",
+          "filedAt": "2024-09-20",
+          "acceptedAt": "2024-09-20T20:05:54.000Z",
+          "acceptanceDateTimeHeader": "20240920160554",
+          "accession": "0001193125-24-222881",
+          "form": "8-K",
+          "items": [
+            "5.02"
+          ],
+          "classification": "unclassified",
+          "title": "KLAC 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/319201/000119312524222881/",
+          "primaryDocument": "d887521d8k.htm"
+        },
+        {
+          "ticker": "KLAC",
+          "type": "management_8k",
+          "date": "2024-11-15",
+          "endDate": "2024-11-15",
+          "knownAsOf": "2024-11-18",
+          "filedAt": "2024-11-15",
+          "acceptedAt": "2024-11-15T21:15:33.000Z",
+          "acceptanceDateTimeHeader": "20241115161533",
+          "accession": "0001193125-24-259842",
+          "form": "8-K",
+          "items": [
+            "5.02"
+          ],
+          "classification": "unclassified",
+          "title": "KLAC 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/319201/000119312524259842/",
+          "primaryDocument": "d845718d8k.htm"
+        },
+        {
+          "ticker": "KLAC",
+          "type": "management_8k",
+          "date": "2025-05-01",
+          "endDate": "2025-05-01",
+          "knownAsOf": "2025-05-01",
+          "filedAt": "2025-05-01",
+          "acceptedAt": "2025-05-01T10:30:19.000Z",
+          "acceptanceDateTimeHeader": "20250501063019",
+          "accession": "0001193125-25-108648",
+          "form": "8-K",
+          "items": [
+            "5.02"
+          ],
+          "classification": "unclassified",
+          "title": "KLAC 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/319201/000119312525108648/",
+          "primaryDocument": "d871287d8k.htm"
+        },
+        {
+          "ticker": "KLAC",
+          "type": "management_8k",
+          "date": "2025-05-08",
+          "endDate": "2025-05-08",
+          "knownAsOf": "2025-05-09",
+          "filedAt": "2025-05-08",
+          "acceptedAt": "2025-05-08T20:24:42.000Z",
+          "acceptanceDateTimeHeader": "20250508162442",
+          "accession": "0001193125-25-115997",
+          "form": "8-K",
+          "items": [
+            "5.02",
+            "8.01",
+            "9.01"
+          ],
+          "classification": "unclassified",
+          "title": "KLAC 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/319201/000119312525115997/",
+          "primaryDocument": "d947309d8k.htm"
+        },
+        {
+          "ticker": "KLAC",
+          "type": "management_8k",
+          "date": "2025-08-07",
+          "endDate": "2025-08-07",
+          "knownAsOf": "2025-08-08",
+          "filedAt": "2025-08-07",
+          "acceptedAt": "2025-08-07T21:26:53.000Z",
+          "acceptanceDateTimeHeader": "20250807172653",
+          "accession": "0001193125-25-175585",
+          "form": "8-K",
+          "items": [
+            "5.02",
+            "8.01",
+            "9.01"
+          ],
+          "classification": "unclassified",
+          "title": "KLAC 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/319201/000119312525175585/",
+          "primaryDocument": "d942473d8k.htm"
+        },
+        {
+          "ticker": "KLAC",
+          "type": "earnings",
+          "date": "2026-10-30",
+          "endDate": "2026-10-30",
+          "title": "KLA Corp earnings",
+          "confidence": "estimated",
+          "timing": null,
+          "verifiedAsOf": "2026-09-11",
+          "knownAsOf": "2026-08-01",
+          "sourceUrl": null
+        }
+      ],
+      "INTC": [
+        {
+          "ticker": "INTC",
+          "type": "management_8k",
+          "date": "2024-08-22",
+          "endDate": "2024-08-22",
+          "knownAsOf": "2024-08-23",
+          "filedAt": "2024-08-22",
+          "acceptedAt": "2024-08-22T20:24:22.000Z",
+          "acceptanceDateTimeHeader": "20240822162422",
+          "accession": "0000050863-24-000134",
+          "form": "8-K",
+          "items": [
+            "5.02"
+          ],
+          "classification": "unclassified",
+          "title": "INTC 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086324000134/",
+          "primaryDocument": "intc-20240819.htm"
+        },
+        {
+          "ticker": "INTC",
+          "type": "management_8k",
+          "date": "2024-12-03",
+          "endDate": "2024-12-03",
+          "knownAsOf": "2024-12-03",
+          "filedAt": "2024-12-03",
+          "acceptedAt": "2024-12-03T00:28:44.000Z",
+          "acceptanceDateTimeHeader": "20241202192844",
+          "accession": "0000050863-24-000173",
+          "form": "8-K",
+          "items": [
+            "5.02",
+            "7.01",
+            "9.01"
+          ],
+          "classification": "unclassified",
+          "title": "INTC 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086324000173/",
+          "primaryDocument": "intc-20241201.htm"
+        },
+        {
+          "ticker": "INTC",
+          "type": "management_8k",
+          "date": "2024-12-05",
+          "endDate": "2024-12-05",
+          "knownAsOf": "2024-12-05",
+          "filedAt": "2024-12-05",
+          "acceptedAt": "2024-12-05T13:30:58.000Z",
+          "acceptanceDateTimeHeader": "20241205083058",
+          "accession": "0000050863-24-000180",
+          "form": "8-K",
+          "items": [
+            "5.02",
+            "7.01",
+            "9.01"
+          ],
+          "classification": "unclassified",
+          "title": "INTC 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086324000180/",
+          "primaryDocument": "intc-20241204.htm"
+        },
+        {
+          "ticker": "INTC",
+          "type": "management_8k",
+          "date": "2025-02-28",
+          "endDate": "2025-02-28",
+          "knownAsOf": "2025-03-03",
+          "filedAt": "2025-02-28",
+          "acceptedAt": "2025-02-28T22:22:51.000Z",
+          "acceptanceDateTimeHeader": "20250228172251",
+          "accession": "0000050863-25-000024",
+          "form": "8-K",
+          "items": [
+            "5.02",
+            "9.01"
+          ],
+          "classification": "unclassified",
+          "title": "INTC 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000024/",
+          "primaryDocument": "intc-20250228.htm"
+        },
+        {
+          "ticker": "INTC",
+          "type": "management_8k",
+          "date": "2025-03-14",
+          "endDate": "2025-03-14",
+          "knownAsOf": "2025-03-17",
+          "filedAt": "2025-03-14",
+          "acceptedAt": "2025-03-14T21:00:12.000Z",
+          "acceptanceDateTimeHeader": "20250314170012",
+          "accession": "0000050863-25-000036",
+          "form": "8-K",
+          "items": [
+            "5.02",
+            "7.01",
+            "9.01"
+          ],
+          "classification": "unclassified",
+          "title": "INTC 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000036/",
+          "primaryDocument": "intc-20250310.htm"
+        },
+        {
+          "ticker": "INTC",
+          "type": "management_8k",
+          "date": "2025-04-30",
+          "endDate": "2025-04-30",
+          "knownAsOf": "2025-04-30",
+          "filedAt": "2025-04-30",
+          "acceptedAt": "2025-04-30T12:34:24.000Z",
+          "acceptanceDateTimeHeader": "20250430083424",
+          "accession": "0000050863-25-000079",
+          "form": "8-K",
+          "items": [
+            "5.02"
+          ],
+          "classification": "unclassified",
+          "title": "INTC 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000079/",
+          "primaryDocument": "intc-20250428.htm"
+        },
+        {
+          "ticker": "INTC",
+          "type": "management_8k",
+          "date": "2025-09-08",
+          "endDate": "2025-09-08",
+          "knownAsOf": "2025-09-09",
+          "filedAt": "2025-09-08",
+          "acceptedAt": "2025-09-08T21:01:00.000Z",
+          "acceptanceDateTimeHeader": "20250908170100",
+          "accession": "0000050863-25-000149",
+          "form": "8-K",
+          "items": [
+            "5.02",
+            "9.01"
+          ],
+          "classification": "unclassified",
+          "title": "INTC 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000149/",
+          "primaryDocument": "intc-20250907.htm"
+        },
+        {
+          "ticker": "INTC",
+          "type": "management_8k",
+          "date": "2025-11-12",
+          "endDate": "2025-11-12",
+          "knownAsOf": "2025-11-13",
+          "filedAt": "2025-11-12",
+          "acceptedAt": "2025-11-12T21:08:30.000Z",
+          "acceptanceDateTimeHeader": "20251112160830",
+          "accession": "0000050863-25-000194",
+          "form": "8-K",
+          "items": [
+            "5.02",
+            "7.01",
+            "9.01"
+          ],
+          "classification": "unclassified",
+          "title": "INTC 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000194/",
+          "primaryDocument": "intc-20251110.htm"
+        },
+        {
+          "ticker": "INTC",
+          "type": "management_8k",
+          "date": "2026-04-03",
+          "endDate": "2026-04-03",
+          "knownAsOf": "2026-04-03",
+          "filedAt": "2026-04-03",
+          "acceptedAt": "2026-04-03T16:50:37.000Z",
+          "acceptanceDateTimeHeader": "20260403125037",
+          "accession": "0000050863-26-000069",
+          "form": "8-K",
+          "items": [
+            "5.02",
+            "9.01"
+          ],
+          "classification": "unclassified",
+          "title": "INTC 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000069/",
+          "primaryDocument": "intc-20260330.htm"
+        },
+        {
+          "ticker": "INTC",
+          "type": "management_8k",
+          "date": "2026-04-24",
+          "endDate": "2026-04-24",
+          "knownAsOf": "2026-04-27",
+          "filedAt": "2026-04-24",
+          "acceptedAt": "2026-04-24T20:15:20.000Z",
+          "acceptanceDateTimeHeader": "20260424161520",
+          "accession": "0000050863-26-000083",
+          "form": "8-K",
+          "items": [
+            "5.02",
+            "9.01"
+          ],
+          "classification": "unclassified",
+          "title": "INTC 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000083/",
+          "primaryDocument": "intc-20260424.htm"
+        },
+        {
+          "ticker": "INTC",
+          "type": "earnings",
+          "date": "2026-10-22",
+          "endDate": "2026-10-22",
+          "title": "Intel earnings",
+          "confidence": "estimated",
+          "timing": null,
+          "verifiedAsOf": "2026-09-11",
+          "knownAsOf": "2026-08-01",
+          "sourceUrl": null
+        }
+      ],
+      "GEV": [
+        {
+          "ticker": "GEV",
+          "type": "management_8k",
+          "date": "2024-09-10",
+          "endDate": "2024-09-10",
+          "knownAsOf": "2024-09-11",
+          "filedAt": "2024-09-10",
+          "acceptedAt": "2024-09-10T21:00:20.000Z",
+          "acceptanceDateTimeHeader": "20240910170020",
+          "accession": "0001996810-24-000078",
+          "form": "8-K",
+          "items": [
+            "5.02",
+            "5.08",
+            "8.01",
+            "9.01"
+          ],
+          "classification": "unclassified",
+          "title": "GEV 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1996810/000199681024000078/",
+          "primaryDocument": "gev-20240905.htm"
+        },
+        {
+          "ticker": "GEV",
+          "type": "management_8k",
+          "date": "2026-01-21",
+          "endDate": "2026-01-21",
+          "knownAsOf": "2026-01-21",
+          "filedAt": "2026-01-21",
+          "acceptedAt": "2026-01-21T13:02:42.000Z",
+          "acceptanceDateTimeHeader": "20260121080242",
+          "accession": "0001996810-26-000004",
+          "form": "8-K",
+          "items": [
+            "5.02"
+          ],
+          "classification": "unclassified",
+          "title": "GEV 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000004/",
+          "primaryDocument": "gev-20260121.htm"
+        },
+        {
+          "ticker": "GEV",
+          "type": "earnings",
+          "date": "2026-10-21",
+          "endDate": "2026-10-21",
+          "title": "GE Vernova earnings",
+          "confidence": "estimated",
+          "timing": null,
+          "verifiedAsOf": "2026-09-11",
+          "knownAsOf": "2026-08-01",
+          "sourceUrl": null
+        }
+      ],
+      "ANET": [
+        {
+          "ticker": "ANET",
+          "type": "management_8k",
+          "date": "2025-03-17",
+          "endDate": "2025-03-17",
+          "knownAsOf": "2025-03-18",
+          "filedAt": "2025-03-17",
+          "acceptedAt": "2025-03-17T20:57:23.000Z",
+          "acceptanceDateTimeHeader": "20250317165723",
+          "accession": "0001596532-25-000077",
+          "form": "8-K",
+          "items": [
+            "5.02",
+            "8.01",
+            "9.01"
+          ],
+          "classification": "unclassified",
+          "title": "ANET 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1596532/000159653225000077/",
+          "primaryDocument": "anet-20250314.htm"
+        },
+        {
+          "ticker": "ANET",
+          "type": "management_8k",
+          "date": "2025-05-06",
+          "endDate": "2025-05-06",
+          "knownAsOf": "2025-05-07",
+          "filedAt": "2025-05-06",
+          "acceptedAt": "2025-05-06T20:07:47.000Z",
+          "acceptanceDateTimeHeader": "20250506160747",
+          "accession": "0001596532-25-000103",
+          "form": "8-K",
+          "items": [
+            "2.02",
+            "5.02",
+            "8.01",
+            "9.01"
+          ],
+          "classification": "unclassified",
+          "title": "ANET 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1596532/000159653225000103/",
+          "primaryDocument": "anet-20250501.htm"
+        },
+        {
+          "ticker": "ANET",
+          "type": "management_8k",
+          "date": "2025-06-16",
+          "endDate": "2025-06-16",
+          "knownAsOf": "2025-06-17",
+          "filedAt": "2025-06-16",
+          "acceptedAt": "2025-06-16T21:06:46.000Z",
+          "acceptanceDateTimeHeader": "20250616170646",
+          "accession": "0001596532-25-000170",
+          "form": "8-K",
+          "items": [
+            "5.02",
+            "9.01"
+          ],
+          "classification": "unclassified",
+          "title": "ANET 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1596532/000159653225000170/",
+          "primaryDocument": "anet-20250613.htm"
+        },
+        {
+          "ticker": "ANET",
+          "type": "management_8k",
+          "date": "2025-09-08",
+          "endDate": "2025-09-08",
+          "knownAsOf": "2025-09-09",
+          "filedAt": "2025-09-08",
+          "acceptedAt": "2025-09-08T20:03:42.000Z",
+          "acceptanceDateTimeHeader": "20250908160342",
+          "accession": "0001596532-25-000258",
+          "form": "8-K",
+          "items": [
+            "5.02",
+            "5.03",
+            "8.01",
+            "9.01"
+          ],
+          "classification": "unclassified",
+          "title": "ANET 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1596532/000159653225000258/",
+          "primaryDocument": "anet-20250905.htm"
+        },
+        {
+          "ticker": "ANET",
+          "type": "earnings",
+          "date": "2026-08-04",
+          "endDate": "2026-08-04",
+          "title": "Arista Networks earnings",
+          "confidence": "verified",
+          "timing": null,
+          "verifiedAsOf": "2026-09-02",
+          "knownAsOf": "2026-07-07",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1596532/000159653226000174/"
+        },
+        {
+          "ticker": "ANET",
+          "type": "conference",
+          "date": "2026-08-18",
+          "endDate": "2026-08-18",
+          "title": "6th Annual Rosenblatt Age of AI Technology Summit",
+          "knownAsOf": "2026-07-07",
+          "confidence": "confirmed",
+          "sourceUrl": "https://investors.arista.com/Communications/Press-Releases-and-Events/Press-Release-Detail/2026/Arista-Networks-to-Announce-Q2-2026-Financial-Results-on-Tuesday-August-4-2026/default.aspx"
+        },
+        {
+          "ticker": "ANET",
+          "type": "conference",
+          "date": "2026-09-08",
+          "endDate": "2026-09-08",
+          "title": "Goldman Sachs Communacopia + Technology Conference",
+          "knownAsOf": "2026-07-07",
+          "confidence": "confirmed",
+          "sourceUrl": "https://investors.arista.com/Communications/Press-Releases-and-Events/Press-Release-Detail/2026/Arista-Networks-to-Announce-Q2-2026-Financial-Results-on-Tuesday-August-4-2026/default.aspx"
+        },
+        {
+          "ticker": "ANET",
+          "type": "conference",
+          "date": "2026-09-10",
+          "endDate": "2026-09-10",
+          "title": "Citi Global TMT Conference",
+          "knownAsOf": "2026-07-07",
+          "confidence": "confirmed",
+          "sourceUrl": "https://investors.arista.com/Communications/Press-Releases-and-Events/Press-Release-Detail/2026/Arista-Networks-to-Announce-Q2-2026-Financial-Results-on-Tuesday-August-4-2026/default.aspx"
+        },
+        {
+          "ticker": "ANET",
+          "type": "earnings",
+          "date": "2026-11-03",
+          "endDate": "2026-11-03",
+          "title": "Arista Networks earnings",
+          "confidence": "estimated",
+          "timing": null,
+          "verifiedAsOf": "2026-09-11",
+          "knownAsOf": "2026-07-07",
+          "sourceUrl": null
+        },
+        {
+          "ticker": "ANET",
+          "type": "earnings",
+          "date": "2027-02-11",
+          "endDate": "2027-02-11",
+          "title": "Arista Networks earnings",
+          "confidence": "estimated",
+          "timing": null,
+          "verifiedAsOf": "2026-09-11",
+          "knownAsOf": "2026-09-01",
+          "sourceUrl": null
+        }
+      ],
+      "AEHR": [
+        {
+          "ticker": "AEHR",
+          "type": "management_8k",
+          "date": "2024-09-06",
+          "endDate": "2024-09-06",
+          "knownAsOf": "2024-09-06",
+          "filedAt": "2024-09-06",
+          "acceptedAt": "2024-09-05T21:48:40.000Z",
+          "acceptanceDateTimeHeader": "20240905174840",
+          "accession": "0001654954-24-011548",
+          "form": "8-K",
+          "items": [
+            "5.02",
+            "9.01"
+          ],
+          "classification": "unclassified",
+          "title": "AEHR 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1040470/000165495424011548/",
+          "primaryDocument": "aehr_8k.htm"
+        },
+        {
+          "ticker": "AEHR",
+          "type": "management_8k",
+          "date": "2025-11-07",
+          "endDate": "2025-11-07",
+          "knownAsOf": "2025-11-10",
+          "filedAt": "2025-11-07",
+          "acceptedAt": "2025-11-07T21:05:38.000Z",
+          "acceptanceDateTimeHeader": "20251107160538",
+          "accession": "0001654954-25-012704",
+          "form": "8-K",
+          "items": [
+            "5.02",
+            "9.01"
+          ],
+          "classification": "unclassified",
+          "title": "AEHR 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1040470/000165495425012704/",
+          "primaryDocument": "aehr_8k.htm"
+        },
+        {
+          "ticker": "AEHR",
+          "type": "earnings",
+          "date": "2026-10-01",
+          "endDate": "2026-10-01",
+          "title": "Aehr Test Systems earnings",
+          "confidence": "estimated",
+          "timing": null,
+          "verifiedAsOf": "2026-09-11",
+          "knownAsOf": "2026-09-01",
+          "sourceUrl": null
+        }
+      ],
+      "WOLF": [
+        {
+          "ticker": "WOLF",
+          "type": "management_8k",
+          "date": "2024-11-18",
+          "endDate": "2024-11-18",
+          "knownAsOf": "2024-11-18",
+          "filedAt": "2024-11-18",
+          "acceptedAt": "2024-11-18T07:05:52.000Z",
+          "acceptanceDateTimeHeader": "20241118070552",
+          "accession": "0001193125-24-260426",
+          "form": "8-K",
+          "items": [
+            "5.02",
+            "9.01"
+          ],
+          "classification": "unclassified",
+          "title": "WOLF 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/895419/000119312524260426/",
+          "primaryDocument": "d915019d8k.htm"
+        },
+        {
+          "ticker": "WOLF",
+          "type": "management_8k",
+          "date": "2024-11-21",
+          "endDate": "2024-11-21",
+          "knownAsOf": "2024-11-21",
+          "filedAt": "2024-11-21",
+          "acceptedAt": "2024-11-21T08:00:18.000Z",
+          "acceptanceDateTimeHeader": "20241121080018",
+          "accession": "0000895419-24-000107",
+          "form": "8-K",
+          "items": [
+            "5.02",
+            "9.01"
+          ],
+          "classification": "unclassified",
+          "title": "WOLF 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/895419/000089541924000107/",
+          "primaryDocument": "wolfspeed-20241119.htm"
+        },
+        {
+          "ticker": "WOLF",
+          "type": "management_8k",
+          "date": "2025-03-27",
+          "endDate": "2025-03-27",
+          "knownAsOf": "2025-03-27",
+          "filedAt": "2025-03-27",
+          "acceptedAt": "2025-03-27T08:00:26.000Z",
+          "acceptanceDateTimeHeader": "20250327080026",
+          "accession": "0001193125-25-064715",
+          "form": "8-K",
+          "items": [
+            "5.02",
+            "7.01",
+            "9.01"
+          ],
+          "classification": "unclassified",
+          "title": "WOLF 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/895419/000119312525064715/",
+          "primaryDocument": "d944887d8k.htm"
+        },
+        {
+          "ticker": "WOLF",
+          "type": "management_8k",
+          "date": "2025-04-04",
+          "endDate": "2025-04-04",
+          "knownAsOf": "2025-04-07",
+          "filedAt": "2025-04-04",
+          "acceptedAt": "2025-04-04T17:01:06.000Z",
+          "acceptanceDateTimeHeader": "20250404170106",
+          "accession": "0001193125-25-073519",
+          "form": "8-K",
+          "items": [
+            "5.02"
+          ],
+          "classification": "unclassified",
+          "title": "WOLF 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/895419/000119312525073519/",
+          "primaryDocument": "d853025d8k.htm"
+        },
+        {
+          "ticker": "WOLF",
+          "type": "management_8k",
+          "date": "2025-04-30",
+          "endDate": "2025-04-30",
+          "knownAsOf": "2025-05-01",
+          "filedAt": "2025-04-30",
+          "acceptedAt": "2025-04-30T16:29:23.000Z",
+          "acceptanceDateTimeHeader": "20250430162923",
+          "accession": "0000895419-25-000041",
+          "form": "8-K",
+          "items": [
+            "2.02",
+            "5.02"
+          ],
+          "classification": "unclassified",
+          "title": "WOLF 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/895419/000089541925000041/",
+          "primaryDocument": "wolfspeed-20250426.htm"
+        },
+        {
+          "ticker": "WOLF",
+          "type": "management_8k",
+          "date": "2025-05-07",
+          "endDate": "2025-05-07",
+          "knownAsOf": "2025-05-08",
+          "filedAt": "2025-05-07",
+          "acceptedAt": "2025-05-07T16:31:53.000Z",
+          "acceptanceDateTimeHeader": "20250507163153",
+          "accession": "0000895419-25-000048",
+          "form": "8-K",
+          "items": [
+            "5.02",
+            "9.01"
+          ],
+          "classification": "unclassified",
+          "title": "WOLF 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/895419/000089541925000048/",
+          "primaryDocument": "wolfspeed-20250501.htm"
+        },
+        {
+          "ticker": "WOLF",
+          "type": "management_8k",
+          "date": "2025-05-09",
+          "endDate": "2025-05-09",
+          "knownAsOf": "2025-05-09",
+          "filedAt": "2025-05-09",
+          "acceptedAt": "2025-05-09T08:02:16.000Z",
+          "acceptanceDateTimeHeader": "20250509080216",
+          "accession": "0000895419-25-000066",
+          "form": "8-K",
+          "items": [
+            "5.02",
+            "9.01"
+          ],
+          "classification": "unclassified",
+          "title": "WOLF 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/895419/000089541925000066/",
+          "primaryDocument": "wolfspeed-20250508.htm"
+        },
+        {
+          "ticker": "WOLF",
+          "type": "management_8k",
+          "date": "2025-05-23",
+          "endDate": "2025-05-23",
+          "knownAsOf": "2025-05-23",
+          "filedAt": "2025-05-23",
+          "acceptedAt": "2025-05-23T08:02:56.000Z",
+          "acceptanceDateTimeHeader": "20250523080256",
+          "accession": "0000895419-25-000076",
+          "form": "8-K",
+          "items": [
+            "5.02",
+            "7.01",
+            "9.01"
+          ],
+          "classification": "unclassified",
+          "title": "WOLF 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/895419/000089541925000076/",
+          "primaryDocument": "wolfspeed-20250522.htm"
+        },
+        {
+          "ticker": "WOLF",
+          "type": "management_8k",
+          "date": "2025-05-28",
+          "endDate": "2025-05-28",
+          "knownAsOf": "2025-05-29",
+          "filedAt": "2025-05-28",
+          "acceptedAt": "2025-05-28T16:05:30.000Z",
+          "acceptanceDateTimeHeader": "20250528160530",
+          "accession": "0000895419-25-000088",
+          "form": "8-K",
+          "items": [
+            "5.02",
+            "9.01"
+          ],
+          "classification": "unclassified",
+          "title": "WOLF 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/895419/000089541925000088/",
+          "primaryDocument": "wolfspeed-20250523.htm"
+        },
+        {
+          "ticker": "WOLF",
+          "type": "management_8k",
+          "date": "2025-07-07",
+          "endDate": "2025-07-07",
+          "knownAsOf": "2025-07-07",
+          "filedAt": "2025-07-07",
+          "acceptedAt": "2025-07-07T08:27:12.000Z",
+          "acceptanceDateTimeHeader": "20250707082712",
+          "accession": "0001193125-25-155874",
+          "form": "8-K",
+          "items": [
+            "5.02",
+            "7.01",
+            "9.01"
+          ],
+          "classification": "unclassified",
+          "title": "WOLF 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/895419/000119312525155874/",
+          "primaryDocument": "d98517d8k.htm"
+        },
+        {
+          "ticker": "WOLF",
+          "type": "management_8k",
+          "date": "2025-09-30",
+          "endDate": "2025-09-30",
+          "knownAsOf": "2025-09-30",
+          "filedAt": "2025-09-30",
+          "acceptedAt": "2025-09-30T09:21:14.000Z",
+          "acceptanceDateTimeHeader": "20250930092114",
+          "accession": "0001193125-25-224251",
+          "form": "8-K",
+          "items": [
+            "1.01",
+            "1.02",
+            "1.03",
+            "2.03",
+            "3.02",
+            "3.03",
+            "5.01",
+            "5.02",
+            "5.03",
+            "7.01",
+            "9.01"
+          ],
+          "classification": "unclassified",
+          "title": "WOLF 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/895419/000119312525224251/",
+          "primaryDocument": "d22768d8k.htm"
+        },
+        {
+          "ticker": "WOLF",
+          "type": "management_8k",
+          "date": "2025-12-15",
+          "endDate": "2025-12-15",
+          "knownAsOf": "2025-12-16",
+          "filedAt": "2025-12-15",
+          "acceptedAt": "2025-12-15T16:01:25.000Z",
+          "acceptanceDateTimeHeader": "20251215160125",
+          "accession": "0000895419-25-000143",
+          "form": "8-K",
+          "items": [
+            "5.02",
+            "9.01"
+          ],
+          "classification": "unclassified",
+          "title": "WOLF 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/895419/000089541925000143/",
+          "primaryDocument": "wolfspeed-20251212.htm"
+        },
+        {
+          "ticker": "WOLF",
+          "type": "management_8k",
+          "date": "2026-01-15",
+          "endDate": "2026-01-15",
+          "knownAsOf": "2026-01-16",
+          "filedAt": "2026-01-15",
+          "acceptedAt": "2026-01-15T16:01:18.000Z",
+          "acceptanceDateTimeHeader": "20260115160118",
+          "accession": "0000895419-26-000006",
+          "form": "8-K",
+          "items": [
+            "5.02",
+            "9.01"
+          ],
+          "classification": "unclassified",
+          "title": "WOLF 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/895419/000089541926000006/",
+          "primaryDocument": "wolfspeed-20260114.htm"
+        },
+        {
+          "ticker": "WOLF",
+          "type": "management_8k",
+          "date": "2026-01-30",
+          "endDate": "2026-01-30",
+          "knownAsOf": "2026-01-30",
+          "filedAt": "2026-01-30",
+          "acceptedAt": "2026-01-30T08:39:47.000Z",
+          "acceptanceDateTimeHeader": "20260130083947",
+          "accession": "0001193125-26-030582",
+          "form": "8-K",
+          "items": [
+            "3.02",
+            "5.02",
+            "8.01",
+            "9.01"
+          ],
+          "classification": "unclassified",
+          "title": "WOLF 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/895419/000119312526030582/",
+          "primaryDocument": "d39825d8k.htm"
+        },
+        {
+          "ticker": "WOLF",
+          "type": "management_8k",
+          "date": "2026-07-29",
+          "endDate": "2026-07-29",
+          "knownAsOf": "2026-07-29",
+          "filedAt": "2026-07-29",
+          "acceptedAt": "2026-07-29T08:03:46.000Z",
+          "acceptanceDateTimeHeader": "20260729080346",
+          "accession": "0000895419-26-000042",
+          "form": "8-K",
+          "items": [
+            "5.02",
+            "8.01",
+            "9.01"
+          ],
+          "classification": "unclassified",
+          "title": "WOLF 8-K Item 5.02",
+          "confidence": "sec_filed",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/895419/000089541926000042/",
+          "primaryDocument": "wolfspeed-20260728.htm"
+        }
+      ]
+    },
+    "companyEventCoverage": {
+      "management_8k": {
+        "source": "SEC submissions",
+        "from": "2024-08-01",
+        "through": "2026-08-01",
+        "contiguous": true,
+        "status": "backfilled",
+        "count": 52,
+        "byTicker": {
+          "AEHR": {
+            "count": 2,
+            "ranges": [
+              {
+                "from": "2024-08-01",
+                "through": "2026-08-01"
+              }
+            ],
+            "contiguous": true,
+            "from": "2024-08-01",
+            "through": "2026-08-01",
+            "unprovenPriorWindow": {
+              "from": "2024-08-01",
+              "through": "2026-08-01"
+            }
+          },
+          "ANET": {
+            "count": 4,
+            "ranges": [
+              {
+                "from": "2024-08-01",
+                "through": "2026-08-01"
+              }
+            ],
+            "contiguous": true,
+            "from": "2024-08-01",
+            "through": "2026-08-01",
+            "unprovenPriorWindow": {
+              "from": "2024-08-01",
+              "through": "2026-08-01"
+            }
+          },
+          "AVGO": {
+            "count": 3,
+            "ranges": [
+              {
+                "from": "2024-08-01",
+                "through": "2026-08-01"
+              }
+            ],
+            "contiguous": true,
+            "from": "2024-08-01",
+            "through": "2026-08-01",
+            "unprovenPriorWindow": {
+              "from": "2024-08-01",
+              "through": "2026-08-01"
+            }
+          },
+          "GEV": {
+            "count": 2,
+            "ranges": [
+              {
+                "from": "2024-08-01",
+                "through": "2026-08-01"
+              }
+            ],
+            "contiguous": true,
+            "from": "2024-08-01",
+            "through": "2026-08-01",
+            "unprovenPriorWindow": {
+              "from": "2024-08-01",
+              "through": "2026-08-01"
+            }
+          },
+          "INTC": {
+            "count": 10,
+            "ranges": [
+              {
+                "from": "2024-08-01",
+                "through": "2026-08-01"
+              }
+            ],
+            "contiguous": true,
+            "from": "2024-08-01",
+            "through": "2026-08-01",
+            "unprovenPriorWindow": {
+              "from": "2024-08-01",
+              "through": "2026-08-01"
+            }
+          },
+          "KLAC": {
+            "count": 5,
+            "ranges": [
+              {
+                "from": "2024-08-01",
+                "through": "2026-08-01"
+              }
+            ],
+            "contiguous": true,
+            "from": "2024-08-01",
+            "through": "2026-08-01",
+            "unprovenPriorWindow": {
+              "from": "2024-08-01",
+              "through": "2026-08-01"
+            }
+          },
+          "MRVL": {
+            "count": 5,
+            "ranges": [
+              {
+                "from": "2024-08-01",
+                "through": "2026-08-01"
+              }
+            ],
+            "contiguous": true,
+            "from": "2024-08-01",
+            "through": "2026-08-01",
+            "unprovenPriorWindow": {
+              "from": "2024-08-01",
+              "through": "2026-08-01"
+            }
+          },
+          "ORCL": {
+            "count": 6,
+            "ranges": [
+              {
+                "from": "2024-08-01",
+                "through": "2026-08-01"
+              }
+            ],
+            "contiguous": true,
+            "from": "2024-08-01",
+            "through": "2026-08-01",
+            "unprovenPriorWindow": {
+              "from": "2024-08-01",
+              "through": "2026-08-01"
+            }
+          },
+          "WOLF": {
+            "count": 15,
+            "ranges": [
+              {
+                "from": "2024-08-01",
+                "through": "2026-08-01"
+              }
+            ],
+            "contiguous": true,
+            "from": "2024-08-01",
+            "through": "2026-08-01",
+            "unprovenPriorWindow": {
+              "from": "2024-08-01",
+              "through": "2026-08-01"
+            }
+          }
+        }
+      },
+      "product_launch": {
+        "source": "first-party IR",
+        "from": "2026-08-01",
+        "status": "forward_only"
+      },
+      "conference": {
+        "source": "first-party IR",
+        "from": "2026-07-07",
+        "status": "forward_only"
+      }
     }
   },
   "leadership": {
