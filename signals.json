@@ -693,7 +693,7 @@
     "adhesionLabel": "Below EMA21",
     "soxx_1d": 3.39,
     "soxx_3d": 11.41,
-    "soxx_5d": null
+    "soxx_5d": 12.68
   },
   {
     "date": "2026-09-17",
@@ -716,7 +716,7 @@
     "adhesionSide": "none",
     "adhesionLabel": "Chop",
     "soxx_1d": 4.93,
-    "soxx_3d": null,
+    "soxx_3d": 6.12,
     "soxx_5d": null
   },
   {
@@ -739,6 +739,18 @@
     "adhesionScore": 0,
     "adhesionSide": "none",
     "adhesionLabel": "Chop",
+    "soxx_1d": -1.23,
+    "soxx_3d": null,
+    "soxx_5d": null
+  },
+  {
+    "date": "2026-09-23",
+    "signal": "None",
+    "state": "S1",
+    "conditionScore": 6,
+    "adhesionScore": 1.5,
+    "adhesionSide": "bull-weak",
+    "adhesionLabel": "Above EMA8",
     "soxx_1d": null,
     "soxx_3d": null,
     "soxx_5d": null
