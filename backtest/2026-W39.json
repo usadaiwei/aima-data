@@ -1,0 +1,82 @@
+{
+  "week": "2026-W39",
+  "dates": [
+    "2026-09-21",
+    "2026-09-22",
+    "2026-09-23",
+    "2026-09-24",
+    "2026-09-25"
+  ],
+  "generatedAt": "2026-09-26T22:00:02.475Z",
+  "states": {
+    "S3": {
+      "triggeredDays": 2,
+      "avgSoxx1d": 1.17,
+      "nSoxx1d": 1,
+      "avgSoxx3d": null,
+      "nSoxx3d": 0,
+      "avgSoxx5d": null,
+      "nSoxx5d": 0
+    },
+    "S2": {
+      "triggeredDays": 0,
+      "avgSoxx1d": null,
+      "nSoxx1d": 0,
+      "avgSoxx3d": null,
+      "nSoxx3d": 0,
+      "avgSoxx5d": null,
+      "nSoxx5d": 0
+    },
+    "S1": {
+      "triggeredDays": 3,
+      "avgSoxx1d": 0.41,
+      "nSoxx1d": 3,
+      "avgSoxx3d": 0.59,
+      "nSoxx3d": 2,
+      "avgSoxx5d": null,
+      "nSoxx5d": 0
+    },
+    "S0": {
+      "triggeredDays": 0,
+      "avgSoxx1d": null,
+      "nSoxx1d": 0,
+      "avgSoxx3d": null,
+      "nSoxx3d": 0,
+      "avgSoxx5d": null,
+      "nSoxx5d": 0
+    },
+    "S-1": {
+      "triggeredDays": 0,
+      "avgSoxx1d": null,
+      "nSoxx1d": 0,
+      "avgSoxx3d": null,
+      "nSoxx3d": 0,
+      "avgSoxx5d": null,
+      "nSoxx5d": 0
+    }
+  },
+  "summary": {
+    "totalDays": 5,
+    "conditionScores": [
+      5,
+      5,
+      6,
+      6,
+      7
+    ],
+    "adhesionLabels": [
+      "Chop",
+      "Chop",
+      "Above EMA8",
+      "Above EMA21",
+      "Above EMA21"
+    ],
+    "statesByDay": [
+      "S1",
+      "S1",
+      "S1",
+      "S3",
+      "S3"
+    ]
+  }
+}
