@@ -1,7 +1,7 @@
 {
-  "_publishedAt": "2026-10-01T22:00:02.732Z",
+  "_publishedAt": "2026-10-02T13:54:42.984Z",
   "fundamentals": {
-    "_updated": "2026-10-01T13:05:22.206Z",
+    "_updated": "2026-10-02T13:54:41.198Z",
     "tickers": {
       "NVDA": {
         "ticker": "NVDA",
@@ -64,37 +64,51 @@
       },
       "MSFT": {
         "ticker": "MSFT",
-        "quarterly": "Q3 FY2026",
-        "grossMargin": 68,
-        "epsBeat": 4.91,
+        "quarterly": "Q4 FY2026",
+        "dcRevenueQoQ": null,
+        "grossMargin": 67.2,
+        "epsBeat": 11.8,
+        "netDebtDirection": "up",
+        "capexGuidance": "raise",
+        "capexCashDirection": "raise",
+        "capexTreatment": "reclassified",
         "epsBasis": "surprise",
         "gmBasis": "unknown",
-        "asOf": "2026-04-29",
-        "capexGuidance": null
+        "nextEarningsDate": null,
+        "asOf": "2026-07-29",
+        "asOfEvidence": "filing"
       },
       "GOOGL": {
         "ticker": "GOOGL",
-        "quarterly": "Q1 FY2026",
-        "dcRevenueQoQ": 13,
-        "grossMargin": 62.42,
-        "epsBeat": 95.03,
+        "quarterly": "Q2 FY2026",
+        "dcRevenueQoQ": 24,
+        "grossMargin": 61.65,
+        "epsBeat": 217.42,
         "netDebtDirection": "up",
         "capexGuidance": "raise",
+        "capexCashDirection": "raise",
+        "capexTreatment": "comparable",
         "epsBasis": "surprise",
         "gmBasis": "unknown",
-        "asOf": "2026-04-29"
+        "nextEarningsDate": null,
+        "asOf": "2026-07-22",
+        "asOfEvidence": "filing"
       },
       "AMZN": {
         "ticker": "AMZN",
-        "quarterly": "Q1 FY2026",
-        "dcRevenueQoQ": 5.62,
-        "grossMargin": 51.82,
-        "epsBeat": 69.51,
+        "quarterly": "Q2 FY2026",
+        "dcRevenueQoQ": 12,
+        "grossMargin": null,
+        "epsBeat": 215.93,
         "netDebtDirection": "up",
         "capexGuidance": "raise",
+        "capexCashDirection": "raise",
+        "capexTreatment": "comparable",
         "epsBasis": "surprise",
-        "gmBasis": "gaap",
-        "asOf": "2026-04-29"
+        "gmBasis": "unknown",
+        "nextEarningsDate": null,
+        "asOf": "2026-07-30",
+        "asOfEvidence": "filing"
       },
       "ORCL": {
         "ticker": "ORCL",
@@ -110,15 +124,19 @@
       },
       "META": {
         "ticker": "META",
-        "quarterly": "Q1 FY2026",
+        "quarterly": "Q2 FY2026",
         "dcRevenueQoQ": null,
-        "grossMargin": 81.9,
-        "epsBeat": 9.6,
-        "netDebtDirection": "flat",
+        "grossMargin": 81.4,
+        "epsBeat": -14.05,
+        "netDebtDirection": "up",
         "capexGuidance": "raise",
+        "capexCashDirection": "raise",
+        "capexTreatment": "comparable",
         "epsBasis": "surprise",
         "gmBasis": "gaap",
-        "asOf": "2026-04-29"
+        "nextEarningsDate": null,
+        "asOf": "2026-07-29",
+        "asOfEvidence": "filing"
       },
       "MRVL": {
         "ticker": "MRVL",
@@ -242,11 +260,11 @@
       }
     }
   },
-  "fundamentalsAsOf": "2026-10-01",
+  "fundamentalsAsOf": "2026-10-02",
   "gex": {
-    "netGEX": -44355386.70556778,
-    "flipPoint": 7723,
-    "asOf": "2026-10-01"
+    "netGEX": 77649636.5593161,
+    "flipPoint": 7689,
+    "asOf": "2026-10-02"
   },
   "iv": {
     "asOf": "2026-10-01",
@@ -793,7 +811,7 @@
     "version": {
       "calendar": {
         "updated": "2026-09-11",
-        "revision": 3
+        "revision": 4
       },
       "events": {
         "updated": "2026-08-01",
@@ -2046,18 +2064,6 @@
           "confidence": "sec_filed",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1040470/000165495425012704/",
           "primaryDocument": "aehr_8k.htm"
-        },
-        {
-          "ticker": "AEHR",
-          "type": "earnings",
-          "date": "2026-10-01",
-          "endDate": "2026-10-01",
-          "title": "Aehr Test Systems earnings",
-          "knownAsOf": "2026-09-01",
-          "confidence": "estimated",
-          "timing": null,
-          "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
         }
       ],
       "WOLF": [
