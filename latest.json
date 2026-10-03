@@ -1,7 +1,7 @@
 {
-  "_publishedAt": "2026-10-02T22:00:02.492Z",
+  "_publishedAt": "2026-10-03T14:40:15.341Z",
   "fundamentals": {
-    "_updated": "2026-10-02T14:05:24.073Z",
+    "_updated": "2026-10-03T14:38:51.753Z",
     "tickers": {
       "NVDA": {
         "ticker": "NVDA",
@@ -112,15 +112,19 @@
       },
       "ORCL": {
         "ticker": "ORCL",
-        "quarterly": "Q4 FY2026",
+        "quarterly": "Q1 FY2027",
         "dcRevenueQoQ": null,
         "grossMargin": null,
-        "epsBeat": 7.61,
-        "netDebtDirection": null,
-        "capexGuidance": "raise",
+        "epsBeat": 10.3,
+        "netDebtDirection": "down",
+        "capexGuidance": "maintain",
+        "capexCashDirection": "raise",
+        "capexTreatment": "comparable",
         "epsBasis": "surprise",
         "gmBasis": "unknown",
-        "asOf": "2026-06-10"
+        "nextEarningsDate": "2026-12-14",
+        "asOf": "2026-09-10",
+        "asOfEvidence": "filing"
       },
       "META": {
         "ticker": "META",
@@ -260,7 +264,7 @@
       }
     }
   },
-  "fundamentalsAsOf": "2026-10-02",
+  "fundamentalsAsOf": "2026-10-03",
   "gex": {
     "netGEX": 48849385.404300146,
     "flipPoint": 7698,
