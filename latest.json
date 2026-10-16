@@ -1,7 +1,7 @@
 {
-  "_publishedAt": "2026-10-15T22:00:02.039Z",
+  "_publishedAt": "2026-10-16T13:24:01.469Z",
   "fundamentals": {
-    "_updated": "2026-10-03T14:38:51.753Z",
+    "_updated": "2026-10-16T13:22:30.513Z",
     "tickers": {
       "NVDA": {
         "ticker": "NVDA",
@@ -37,15 +37,19 @@
       },
       "TSM": {
         "ticker": "TSM",
-        "quarterly": "Q1 FY2026",
-        "dcRevenueQoQ": 28,
-        "grossMargin": 66.2,
-        "epsBeat": 5.44,
-        "netDebtDirection": null,
-        "capexGuidance": "raise",
+        "quarterly": "Q3 2026",
+        "dcRevenueQoQ": 22,
+        "grossMargin": 66.4,
+        "epsBeat": 3.14,
+        "netDebtDirection": "down",
+        "capexGuidance": "maintain",
+        "capexCashDirection": "lower",
+        "capexTreatment": "comparable",
         "epsBasis": "surprise",
         "gmBasis": "gaap",
-        "asOf": "2026-04-16"
+        "nextEarningsDate": null,
+        "asOf": "2026-10-15",
+        "asOfEvidence": "schedule-only"
       },
       "MU": {
         "ticker": "MU",
@@ -264,11 +268,11 @@
       }
     }
   },
-  "fundamentalsAsOf": "2026-10-03",
+  "fundamentalsAsOf": "2026-10-16",
   "gex": {
-    "netGEX": -50968638.20497899,
-    "flipPoint": 7777,
-    "asOf": "2026-10-15"
+    "netGEX": -72849600.51027128,
+    "flipPoint": 7786,
+    "asOf": "2026-10-16"
   },
   "iv": {
     "asOf": "2026-10-15",
