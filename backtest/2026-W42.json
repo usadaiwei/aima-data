@@ -7,7 +7,7 @@
     "2026-10-15",
     "2026-10-16"
   ],
-  "generatedAt": "2026-10-20T22:00:01.605Z",
+  "generatedAt": "2026-10-21T22:00:02.218Z",
   "states": {
     "S3": {
       "triggeredDays": 2,
@@ -33,15 +33,15 @@
       "nSoxx1d": 2,
       "avgSoxx3d": -3.11,
       "nSoxx3d": 2,
-      "avgSoxx5d": null,
-      "nSoxx5d": 0
+      "avgSoxx5d": -1.74,
+      "nSoxx5d": 1
     },
     "S0": {
       "triggeredDays": 1,
       "avgSoxx1d": 1.73,
       "nSoxx1d": 1,
-      "avgSoxx3d": null,
-      "nSoxx3d": 0,
+      "avgSoxx3d": 3.44,
+      "nSoxx3d": 1,
       "avgSoxx5d": null,
       "nSoxx5d": 0
     },
