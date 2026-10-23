@@ -1,7 +1,7 @@
 {
-  "_publishedAt": "2026-10-22T22:00:02.310Z",
+  "_publishedAt": "2026-10-23T11:40:20.339Z",
   "fundamentals": {
-    "_updated": "2026-10-16T13:22:30.513Z",
+    "_updated": "2026-10-23T11:38:58.530Z",
     "tickers": {
       "NVDA": {
         "ticker": "NVDA",
@@ -132,19 +132,20 @@
       },
       "META": {
         "ticker": "META",
-        "quarterly": "Q2 FY2026",
+        "quarterly": "Q3 FY2026",
         "dcRevenueQoQ": null,
-        "grossMargin": 81.4,
-        "epsBeat": -14.05,
+        "grossMargin": 79.3,
+        "epsBeat": 28.92,
         "netDebtDirection": "up",
         "capexGuidance": "raise",
         "capexCashDirection": "raise",
         "capexTreatment": "comparable",
         "epsBasis": "surprise",
-        "gmBasis": "gaap",
+        "gmBasis": "unknown",
         "nextEarningsDate": null,
-        "asOf": "2026-07-29",
-        "asOfEvidence": "filing"
+        "asOf": "2026-10-21",
+        "asOfEvidence": "filing",
+        "capturedAt": "2026-10-23"
       },
       "MRVL": {
         "ticker": "MRVL",
@@ -268,11 +269,11 @@
       }
     }
   },
-  "fundamentalsAsOf": "2026-10-16",
+  "fundamentalsAsOf": "2026-10-23",
   "gex": {
-    "netGEX": -58702384.701595396,
-    "flipPoint": 7752,
-    "asOf": "2026-10-22"
+    "netGEX": -128011963.59067354,
+    "flipPoint": 7717,
+    "asOf": "2026-10-23"
   },
   "iv": {
     "asOf": "2026-10-22",
