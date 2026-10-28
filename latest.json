@@ -1,7 +1,7 @@
 {
-  "_publishedAt": "2026-10-27T22:00:01.902Z",
+  "_publishedAt": "2026-10-28T13:53:08.864Z",
   "fundamentals": {
-    "_updated": "2026-10-23T11:38:58.530Z",
+    "_updated": "2026-10-28T13:51:54.380Z",
     "tickers": {
       "NVDA": {
         "ticker": "NVDA",
@@ -180,18 +180,20 @@
       },
       "GEV": {
         "ticker": "GEV",
-        "quarterly": "Q2 FY2026",
+        "quarterly": "Q3 FY2026",
         "dcRevenueQoQ": null,
         "grossMargin": null,
-        "epsBeat": -22.08,
-        "netDebtDirection": null,
-        "capexGuidance": "raise",
+        "epsBeat": 19.9,
+        "netDebtDirection": "down",
+        "capexGuidance": null,
         "capexCashDirection": "raise",
         "capexTreatment": "unknown",
         "epsBasis": "surprise",
         "gmBasis": "unknown",
-        "nextEarningsDate": "2026-10-21",
-        "asOf": "2026-07-22"
+        "nextEarningsDate": null,
+        "asOf": "2026-10-28",
+        "asOfEvidence": "filing",
+        "capturedAt": "2026-10-28"
       },
       "KLAC": {
         "ticker": "KLAC",
@@ -269,11 +271,11 @@
       }
     }
   },
-  "fundamentalsAsOf": "2026-10-23",
+  "fundamentalsAsOf": "2026-10-28",
   "gex": {
-    "netGEX": -24883505.35086697,
-    "flipPoint": 7747,
-    "asOf": "2026-10-27"
+    "netGEX": -21682595.20047615,
+    "flipPoint": 7762,
+    "asOf": "2026-10-28"
   },
   "iv": {
     "asOf": "2026-10-27",
