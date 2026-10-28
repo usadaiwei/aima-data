@@ -1,7 +1,7 @@
 {
-  "_publishedAt": "2026-10-28T22:00:01.372Z",
+  "_publishedAt": "2026-10-28T23:08:54.114Z",
   "fundamentals": {
-    "_updated": "2026-10-28T13:51:54.380Z",
+    "_updated": "2026-10-28T23:08:36.680Z",
     "tickers": {
       "NVDA": {
         "ticker": "NVDA",
@@ -68,35 +68,37 @@
       },
       "MSFT": {
         "ticker": "MSFT",
-        "quarterly": "Q4 FY2026",
+        "quarterly": "Q1 FY2027",
         "dcRevenueQoQ": null,
-        "grossMargin": 67.2,
-        "epsBeat": 11.8,
-        "netDebtDirection": "up",
-        "capexGuidance": "raise",
-        "capexCashDirection": "raise",
-        "capexTreatment": "reclassified",
-        "epsBasis": "surprise",
-        "gmBasis": "unknown",
-        "nextEarningsDate": null,
-        "asOf": "2026-07-29",
-        "asOfEvidence": "filing"
-      },
-      "GOOGL": {
-        "ticker": "GOOGL",
-        "quarterly": "Q2 FY2026",
-        "dcRevenueQoQ": 24,
-        "grossMargin": 61.65,
-        "epsBeat": 217.42,
-        "netDebtDirection": "up",
-        "capexGuidance": "raise",
+        "grossMargin": 67.8,
+        "epsBeat": 4.24,
+        "netDebtDirection": null,
+        "capexGuidance": null,
         "capexCashDirection": "raise",
         "capexTreatment": "comparable",
         "epsBasis": "surprise",
         "gmBasis": "unknown",
         "nextEarningsDate": null,
-        "asOf": "2026-07-22",
-        "asOfEvidence": "filing"
+        "asOf": "2026-10-28",
+        "asOfEvidence": "filing",
+        "capturedAt": "2026-10-28"
+      },
+      "GOOGL": {
+        "ticker": "GOOGL",
+        "quarterly": "Q3 FY2026",
+        "dcRevenueQoQ": 24,
+        "grossMargin": 59.7,
+        "epsBeat": -28,
+        "netDebtDirection": "up",
+        "capexGuidance": "maintain",
+        "capexCashDirection": "raise",
+        "capexTreatment": "comparable",
+        "epsBasis": "surprise",
+        "gmBasis": "unknown",
+        "nextEarningsDate": null,
+        "asOf": "2026-10-28",
+        "asOfEvidence": "filing",
+        "capturedAt": "2026-10-28"
       },
       "AMZN": {
         "ticker": "AMZN",
@@ -197,18 +199,20 @@
       },
       "KLAC": {
         "ticker": "KLAC",
-        "quarterly": "Q4 FY2026",
+        "quarterly": "Q1 FY2027",
         "dcRevenueQoQ": null,
-        "grossMargin": 61.4,
-        "epsBeat": 5,
+        "grossMargin": null,
+        "epsBeat": 3.5,
         "netDebtDirection": null,
         "capexGuidance": null,
         "capexCashDirection": "unknown",
         "capexTreatment": "unknown",
         "epsBasis": "surprise",
-        "gmBasis": "gaap",
-        "nextEarningsDate": "2026-10-30",
-        "asOf": "2026-07-28"
+        "gmBasis": "unknown",
+        "nextEarningsDate": null,
+        "asOf": "2026-10-28",
+        "asOfEvidence": "filing",
+        "capturedAt": "2026-10-28"
       },
       "ANET": {
         "ticker": "ANET",
@@ -273,8 +277,8 @@
   },
   "fundamentalsAsOf": "2026-10-28",
   "gex": {
-    "netGEX": -12290668.384355633,
-    "flipPoint": 7758,
+    "netGEX": 464014919.475553,
+    "flipPoint": 7740,
     "asOf": "2026-10-28"
   },
   "iv": {
