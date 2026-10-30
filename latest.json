@@ -1,7 +1,7 @@
 {
-  "_publishedAt": "2026-10-29T22:00:01.336Z",
+  "_publishedAt": "2026-10-30T14:18:44.296Z",
   "fundamentals": {
-    "_updated": "2026-10-28T23:08:36.680Z",
+    "_updated": "2026-10-30T14:17:40.961Z",
     "tickers": {
       "NVDA": {
         "ticker": "NVDA",
@@ -102,19 +102,20 @@
       },
       "AMZN": {
         "ticker": "AMZN",
-        "quarterly": "Q2 FY2026",
-        "dcRevenueQoQ": 12,
+        "quarterly": "Q3 FY2026",
+        "dcRevenueQoQ": 9,
         "grossMargin": null,
-        "epsBeat": 215.93,
-        "netDebtDirection": "up",
+        "epsBeat": -4,
+        "netDebtDirection": null,
         "capexGuidance": "raise",
         "capexCashDirection": "raise",
         "capexTreatment": "comparable",
         "epsBasis": "surprise",
         "gmBasis": "unknown",
         "nextEarningsDate": null,
-        "asOf": "2026-07-30",
-        "asOfEvidence": "filing"
+        "asOf": "2026-10-29",
+        "asOfEvidence": "filing",
+        "capturedAt": "2026-10-30"
       },
       "ORCL": {
         "ticker": "ORCL",
@@ -167,18 +168,20 @@
       },
       "INTC": {
         "ticker": "INTC",
-        "quarterly": "Q2 FY2026",
-        "dcRevenueQoQ": 24,
-        "grossMargin": 40.4,
-        "epsBeat": 121.05,
-        "netDebtDirection": null,
+        "quarterly": "Q3 2026",
+        "dcRevenueQoQ": 17,
+        "grossMargin": 43,
+        "epsBeat": 30,
+        "netDebtDirection": "down",
         "capexGuidance": "raise",
-        "capexCashDirection": "raise",
-        "capexTreatment": "comparable",
+        "capexCashDirection": "unknown",
+        "capexTreatment": "unknown",
         "epsBasis": "surprise",
         "gmBasis": "gaap",
-        "nextEarningsDate": "2026-10-22",
-        "asOf": "2026-07-23"
+        "nextEarningsDate": "2027-01-28",
+        "asOf": "2026-10-29",
+        "asOfEvidence": "filing",
+        "capturedAt": "2026-10-30"
       },
       "GEV": {
         "ticker": "GEV",
@@ -275,11 +278,11 @@
       }
     }
   },
-  "fundamentalsAsOf": "2026-10-28",
+  "fundamentalsAsOf": "2026-10-30",
   "gex": {
-    "netGEX": 511884.3168906807,
-    "flipPoint": 7720,
-    "asOf": "2026-10-29"
+    "netGEX": -123045657.35595894,
+    "flipPoint": 7748,
+    "asOf": "2026-10-30"
   },
   "iv": {
     "asOf": "2026-10-29",
