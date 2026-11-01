@@ -1,5 +1,5 @@
 {
-  "_publishedAt": "2026-10-31T22:00:01.954Z",
+  "_publishedAt": "2026-11-01T16:48:54.822Z",
   "fundamentals": {
     "_updated": "2026-10-30T14:17:40.961Z",
     "tickers": {
@@ -493,15 +493,15 @@
   "earningsCalendar": {
     "version": {
       "calendar": {
-        "updated": "2026-09-11",
-        "revision": 4
+        "updated": "2026-11-01",
+        "revision": 2
       },
       "events": {
         "updated": "2026-08-01",
         "revision": 0
       }
     },
-    "verifiedAsOf": "2026-09-11",
+    "verifiedAsOf": "2026-11-01",
     "aliases": {
       "GOOG": "GOOGL"
     },
@@ -514,10 +514,10 @@
           "endDate": "2026-10-28",
           "title": "Microsoft earnings",
           "knownAsOf": "2026-08-01",
-          "confidence": "estimated",
-          "timing": null,
-          "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
+          "confidence": "verified",
+          "timing": "amc",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/789019/000119312526436122/msft-ex99_1.htm",
+          "verifiedAsOf": "2026-11-01"
         },
         {
           "ticker": "MSFT",
@@ -529,21 +529,33 @@
           "confidence": "estimated",
           "timing": null,
           "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
+          "verifiedAsOf": "2026-11-01"
+        },
+        {
+          "ticker": "MSFT",
+          "type": "earnings",
+          "date": "2027-04-28",
+          "endDate": "2027-04-28",
+          "title": "Microsoft earnings",
+          "knownAsOf": "2026-11-01",
+          "confidence": "estimated",
+          "timing": null,
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-11-01"
         }
       ],
       "GOOGL": [
         {
           "ticker": "GOOGL",
           "type": "earnings",
-          "date": "2026-10-27",
-          "endDate": "2026-10-27",
+          "date": "2026-10-28",
+          "endDate": "2026-10-28",
           "title": "Alphabet earnings",
           "knownAsOf": "2026-08-01",
-          "confidence": "estimated",
+          "confidence": "verified",
           "timing": null,
-          "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm",
+          "verifiedAsOf": "2026-11-01"
         },
         {
           "ticker": "GOOGL",
@@ -555,7 +567,19 @@
           "confidence": "estimated",
           "timing": null,
           "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
+          "verifiedAsOf": "2026-11-01"
+        },
+        {
+          "ticker": "GOOGL",
+          "type": "earnings",
+          "date": "2027-04-27",
+          "endDate": "2027-04-27",
+          "title": "Alphabet earnings",
+          "knownAsOf": "2026-11-01",
+          "confidence": "estimated",
+          "timing": null,
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-11-01"
         }
       ],
       "AMZN": [
@@ -566,10 +590,10 @@
           "endDate": "2026-10-29",
           "title": "Amazon earnings",
           "knownAsOf": "2026-08-01",
-          "confidence": "estimated",
+          "confidence": "verified",
           "timing": null,
-          "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/amzn-20260930xex991.htm",
+          "verifiedAsOf": "2026-11-01"
         },
         {
           "ticker": "AMZN",
@@ -581,21 +605,33 @@
           "confidence": "estimated",
           "timing": null,
           "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
+          "verifiedAsOf": "2026-11-01"
+        },
+        {
+          "ticker": "AMZN",
+          "type": "earnings",
+          "date": "2027-04-29",
+          "endDate": "2027-04-29",
+          "title": "Amazon earnings",
+          "knownAsOf": "2026-11-01",
+          "confidence": "estimated",
+          "timing": null,
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-11-01"
         }
       ],
       "META": [
         {
           "ticker": "META",
           "type": "earnings",
-          "date": "2026-10-28",
-          "endDate": "2026-10-28",
+          "date": "2026-10-21",
+          "endDate": "2026-10-21",
           "title": "Meta earnings",
           "knownAsOf": "2026-08-01",
-          "confidence": "estimated",
-          "timing": null,
-          "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
+          "confidence": "verified",
+          "timing": "amc",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/0001326801/000162828026066700/meta-09302026xexhibit991.htm",
+          "verifiedAsOf": "2026-11-01"
         },
         {
           "ticker": "META",
@@ -607,7 +643,19 @@
           "confidence": "estimated",
           "timing": null,
           "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
+          "verifiedAsOf": "2026-11-01"
+        },
+        {
+          "ticker": "META",
+          "type": "earnings",
+          "date": "2027-04-28",
+          "endDate": "2027-04-28",
+          "title": "Meta earnings",
+          "knownAsOf": "2026-11-01",
+          "confidence": "estimated",
+          "timing": null,
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-11-01"
         }
       ],
       "NVDA": [
@@ -626,14 +674,14 @@
         {
           "ticker": "NVDA",
           "type": "earnings",
-          "date": "2026-11-25",
-          "endDate": "2026-11-25",
+          "date": "2026-11-17",
+          "endDate": "2026-11-17",
           "title": "Nvidia earnings",
-          "knownAsOf": "2026-09-01",
-          "confidence": "estimated",
+          "knownAsOf": "2026-11-01",
+          "confidence": "confirmed",
           "timing": null,
-          "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
+          "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873",
+          "verifiedAsOf": "2026-11-01"
         },
         {
           "ticker": "NVDA",
@@ -645,7 +693,7 @@
           "confidence": "estimated",
           "timing": null,
           "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
+          "verifiedAsOf": "2026-11-01"
         }
       ],
       "ORCL": [
@@ -799,7 +847,7 @@
           "confidence": "estimated",
           "timing": null,
           "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
+          "verifiedAsOf": "2026-11-01"
         }
       ],
       "AMD": [
@@ -822,10 +870,10 @@
           "endDate": "2026-11-03",
           "title": "AMD earnings",
           "knownAsOf": "2026-09-01",
-          "confidence": "estimated",
-          "timing": null,
-          "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
+          "confidence": "confirmed",
+          "timing": "amc",
+          "sourceUrl": "https://ir.amd.com/news-events/press-releases/detail/1300/amd-to-report-fiscal-third-quarter-2026-financial-results",
+          "verifiedAsOf": "2026-11-01"
         },
         {
           "ticker": "AMD",
@@ -837,7 +885,7 @@
           "confidence": "estimated",
           "timing": null,
           "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
+          "verifiedAsOf": "2026-11-01"
         }
       ],
       "AVGO": [
@@ -924,7 +972,7 @@
           "confidence": "estimated",
           "timing": null,
           "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
+          "verifiedAsOf": "2026-11-01"
         }
       ],
       "MRVL": [
@@ -1047,14 +1095,14 @@
         {
           "ticker": "MRVL",
           "type": "earnings",
-          "date": "2026-11-26",
-          "endDate": "2026-11-26",
+          "date": "2026-12-03",
+          "endDate": "2026-12-03",
           "title": "Marvell earnings",
-          "knownAsOf": "2026-07-22",
+          "knownAsOf": "2026-11-01",
           "confidence": "estimated",
           "timing": null,
           "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
+          "verifiedAsOf": "2026-11-01"
         },
         {
           "ticker": "MRVL",
@@ -1066,7 +1114,7 @@
           "confidence": "estimated",
           "timing": null,
           "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
+          "verifiedAsOf": "2026-11-01"
         }
       ],
       "MU": [
@@ -1077,10 +1125,10 @@
           "endDate": "2026-09-30",
           "title": "Micron earnings",
           "knownAsOf": "2026-09-01",
-          "confidence": "confirmed",
+          "confidence": "verified",
           "timing": "amc",
-          "sourceUrl": "https://investors.micron.com/news/press-release/2026/Micron-Technology-to-Report-Fiscal-Fourth-Quarter-Results-on-September-30-2026/default.aspx",
-          "verifiedAsOf": "2026-09-11"
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/0000723125/000072312526000018/a2026q4ex991-pressrelease.htm",
+          "verifiedAsOf": "2026-11-01"
         },
         {
           "ticker": "MU",
@@ -1092,7 +1140,19 @@
           "confidence": "estimated",
           "timing": null,
           "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
+          "verifiedAsOf": "2026-11-01"
+        },
+        {
+          "ticker": "MU",
+          "type": "earnings",
+          "date": "2027-03-25",
+          "endDate": "2027-03-25",
+          "title": "Micron earnings",
+          "knownAsOf": "2026-11-01",
+          "confidence": "estimated",
+          "timing": null,
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-11-01"
         }
       ],
       "ARM": [
@@ -1103,10 +1163,10 @@
           "endDate": "2026-11-04",
           "title": "Arm Holdings earnings",
           "knownAsOf": "2026-08-01",
-          "confidence": "estimated",
-          "timing": null,
-          "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
+          "confidence": "confirmed",
+          "timing": "amc",
+          "sourceUrl": "https://newsroom.arm.com/news/arm-announces-earnings-release-date-for-second-quarter-fiscal-year-ending-2027",
+          "verifiedAsOf": "2026-11-01"
         },
         {
           "ticker": "ARM",
@@ -1118,7 +1178,7 @@
           "confidence": "estimated",
           "timing": null,
           "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
+          "verifiedAsOf": "2026-11-01"
         }
       ],
       "TSM": [
@@ -1129,10 +1189,10 @@
           "endDate": "2026-10-15",
           "title": "TSMC earnings",
           "knownAsOf": "2026-09-01",
-          "confidence": "estimated",
+          "confidence": "verified",
           "timing": null,
-          "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000726/a3q26e_withguidancexfinal.htm",
+          "verifiedAsOf": "2026-11-01"
         },
         {
           "ticker": "TSM",
@@ -1144,7 +1204,19 @@
           "confidence": "estimated",
           "timing": null,
           "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
+          "verifiedAsOf": "2026-11-01"
+        },
+        {
+          "ticker": "TSM",
+          "type": "earnings",
+          "date": "2027-04-16",
+          "endDate": "2027-04-16",
+          "title": "TSMC earnings",
+          "knownAsOf": "2026-11-01",
+          "confidence": "estimated",
+          "timing": null,
+          "sourceUrl": null,
+          "verifiedAsOf": "2026-11-01"
         }
       ],
       "KLAC": [
@@ -1255,14 +1327,26 @@
         {
           "ticker": "KLAC",
           "type": "earnings",
-          "date": "2026-10-30",
-          "endDate": "2026-10-30",
+          "date": "2026-10-28",
+          "endDate": "2026-10-28",
           "title": "KLA Corp earnings",
           "knownAsOf": "2026-08-01",
+          "confidence": "verified",
+          "timing": null,
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/0000319201/000031920126000032/exhibit991earningsrelease0.htm",
+          "verifiedAsOf": "2026-11-01"
+        },
+        {
+          "ticker": "KLAC",
+          "type": "earnings",
+          "date": "2027-01-28",
+          "endDate": "2027-01-28",
+          "title": "KLA Corp earnings",
+          "knownAsOf": "2026-11-01",
           "confidence": "estimated",
           "timing": null,
           "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
+          "verifiedAsOf": "2026-11-01"
         }
       ],
       "INTC": [
@@ -1481,14 +1565,26 @@
         {
           "ticker": "INTC",
           "type": "earnings",
-          "date": "2026-10-22",
-          "endDate": "2026-10-22",
+          "date": "2026-10-29",
+          "endDate": "2026-10-29",
           "title": "Intel earnings",
           "knownAsOf": "2026-08-01",
+          "confidence": "verified",
+          "timing": "amc",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/0000050863/000005086326000188/q326earningsrelease.htm",
+          "verifiedAsOf": "2026-11-01"
+        },
+        {
+          "ticker": "INTC",
+          "type": "earnings",
+          "date": "2027-01-28",
+          "endDate": "2027-01-28",
+          "title": "Intel earnings",
+          "knownAsOf": "2026-11-01",
           "confidence": "estimated",
           "timing": null,
           "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
+          "verifiedAsOf": "2026-11-01"
         }
       ],
       "GEV": [
@@ -1538,14 +1634,26 @@
         {
           "ticker": "GEV",
           "type": "earnings",
-          "date": "2026-10-21",
-          "endDate": "2026-10-21",
+          "date": "2026-10-28",
+          "endDate": "2026-10-28",
           "title": "GE Vernova earnings",
           "knownAsOf": "2026-08-01",
+          "confidence": "verified",
+          "timing": null,
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/0001996810/000199681026000162/gevpressrelease3q26.htm",
+          "verifiedAsOf": "2026-11-01"
+        },
+        {
+          "ticker": "GEV",
+          "type": "earnings",
+          "date": "2027-01-28",
+          "endDate": "2027-01-28",
+          "title": "GE Vernova earnings",
+          "knownAsOf": "2026-11-01",
           "confidence": "estimated",
           "timing": null,
           "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
+          "verifiedAsOf": "2026-11-01"
         }
       ],
       "ANET": [
@@ -1687,10 +1795,10 @@
           "endDate": "2026-11-03",
           "title": "Arista Networks earnings",
           "knownAsOf": "2026-07-07",
-          "confidence": "estimated",
-          "timing": null,
-          "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
+          "confidence": "confirmed",
+          "timing": "amc",
+          "sourceUrl": "https://www.arista.com/company/news/press-release/24817-pr-20261006",
+          "verifiedAsOf": "2026-11-01"
         },
         {
           "ticker": "ANET",
@@ -1702,7 +1810,7 @@
           "confidence": "estimated",
           "timing": null,
           "sourceUrl": null,
-          "verifiedAsOf": "2026-09-11"
+          "verifiedAsOf": "2026-11-01"
         }
       ],
       "AEHR": [
@@ -1747,6 +1855,18 @@
           "confidence": "sec_filed",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1040470/000165495425012704/",
           "primaryDocument": "aehr_8k.htm"
+        },
+        {
+          "ticker": "AEHR",
+          "type": "earnings",
+          "date": "2026-11-02",
+          "endDate": "2026-11-02",
+          "title": "Aehr Test Systems earnings",
+          "knownAsOf": "2026-11-01",
+          "confidence": "confirmed",
+          "timing": "amc",
+          "sourceUrl": "https://www.aehr.com/2026/10/aehr-test-systems-to-announce-first-quarter-fiscal-2027-financial-results-on-november-2-2026/",
+          "verifiedAsOf": "2026-11-01"
         }
       ],
       "WOLF": [
@@ -2078,6 +2198,18 @@
           "confidence": "sec_filed",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/895419/000089541926000042/",
           "primaryDocument": "wolfspeed-20260728.htm"
+        },
+        {
+          "ticker": "WOLF",
+          "type": "earnings",
+          "date": "2026-11-04",
+          "endDate": "2026-11-04",
+          "title": "Wolfspeed earnings",
+          "knownAsOf": "2026-10-15",
+          "confidence": "confirmed",
+          "timing": null,
+          "sourceUrl": "https://www.wolfspeed.com/company/news-events/news/wolfspeed-inc-announces-date-of-fiscal-first-quarter-earnings-call-for-november-4-2026/",
+          "verifiedAsOf": "2026-11-01"
         }
       ]
     },
