@@ -1029,7 +1029,7 @@
     "adhesionLabel": "Chop",
     "soxx_1d": 3.91,
     "soxx_3d": 4.48,
-    "soxx_5d": null
+    "soxx_5d": -7.76
   },
   {
     "date": "2026-10-27",
@@ -1052,7 +1052,7 @@
     "adhesionSide": "none",
     "adhesionLabel": "Chop",
     "soxx_1d": -1.55,
-    "soxx_3d": null,
+    "soxx_3d": -13.08,
     "soxx_5d": null
   },
   {
@@ -1069,6 +1069,18 @@
   },
   {
     "date": "2026-10-30",
+    "signal": "R1+R2",
+    "state": "S0",
+    "conditionScore": 0,
+    "adhesionScore": 0,
+    "adhesionSide": "none",
+    "adhesionLabel": "Chop",
+    "soxx_1d": -3.79,
+    "soxx_3d": null,
+    "soxx_5d": null
+  },
+  {
+    "date": "2026-11-02",
     "signal": "R1+R2",
     "state": "S0",
     "conditionScore": 0,
