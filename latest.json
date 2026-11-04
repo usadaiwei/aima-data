@@ -1,7 +1,7 @@
 {
-  "_publishedAt": "2026-11-04T22:00:01.499Z",
+  "_publishedAt": "2026-11-04T22:54:06.883Z",
   "fundamentals": {
-    "_updated": "2026-11-04T13:06:20.679Z",
+    "_updated": "2026-11-04T22:53:08.387Z",
     "tickers": {
       "NVDA": {
         "ticker": "NVDA",
@@ -253,18 +253,20 @@
       },
       "WOLF": {
         "ticker": "WOLF",
-        "quarterly": "Q4 FY2026",
-        "dcRevenueQoQ": 20,
-        "grossMargin": -25,
-        "epsBeat": null,
-        "netDebtDirection": "down",
+        "quarterly": "Q1 FY2027",
+        "dcRevenueQoQ": null,
+        "grossMargin": -22,
+        "epsBeat": -262.5,
+        "netDebtDirection": null,
         "capexGuidance": null,
         "capexCashDirection": "unknown",
-        "capexTreatment": "reclassified",
-        "epsBasis": "unknown",
+        "capexTreatment": "unknown",
+        "epsBasis": "surprise",
         "gmBasis": "gaap",
-        "asOf": "2026-08-19",
-        "asOfEvidence": "filing"
+        "nextEarningsDate": null,
+        "asOf": "2026-11-04",
+        "asOfEvidence": "filing",
+        "capturedAt": "2026-11-04"
       },
       "AMD": {
         "ticker": "AMD",
@@ -284,8 +286,8 @@
   },
   "fundamentalsAsOf": "2026-11-04",
   "gex": {
-    "netGEX": -43633375.03039964,
-    "flipPoint": 7757,
+    "netGEX": -808638840.4558368,
+    "flipPoint": 7680,
     "asOf": "2026-11-04"
   },
   "iv": {
