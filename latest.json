@@ -1,7 +1,7 @@
 {
-  "_publishedAt": "2026-11-04T22:54:06.883Z",
+  "_publishedAt": "2026-11-05T15:06:46.808Z",
   "fundamentals": {
-    "_updated": "2026-11-04T22:53:08.387Z",
+    "_updated": "2026-11-05T15:06:07.908Z",
     "tickers": {
       "NVDA": {
         "ticker": "NVDA",
@@ -281,14 +281,30 @@
         "epsBasis": "surprise",
         "gmBasis": "gaap",
         "asOf": "2026-08-04"
+      },
+      "ARM": {
+        "ticker": "ARM",
+        "quarterly": "Q2 FY2027",
+        "dcRevenueQoQ": null,
+        "grossMargin": 97.1,
+        "epsBeat": 10.64,
+        "netDebtDirection": null,
+        "capexGuidance": null,
+        "capexCashDirection": "unknown",
+        "capexTreatment": "unknown",
+        "epsBasis": "surprise",
+        "gmBasis": "gaap",
+        "nextEarningsDate": null,
+        "asOf": "2026-11-04",
+        "asOfEvidence": "schedule-only"
       }
     }
   },
-  "fundamentalsAsOf": "2026-11-04",
+  "fundamentalsAsOf": "2026-11-05",
   "gex": {
-    "netGEX": -808638840.4558368,
-    "flipPoint": 7680,
-    "asOf": "2026-11-04"
+    "netGEX": -77206720.58673954,
+    "flipPoint": 7742,
+    "asOf": "2026-11-05"
   },
   "iv": {
     "asOf": "2026-11-04",
