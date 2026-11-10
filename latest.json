@@ -1,7 +1,7 @@
 {
-  "_publishedAt": "2026-11-09T22:00:01.930Z",
+  "_publishedAt": "2026-11-10T14:49:49.805Z",
   "fundamentals": {
-    "_updated": "2026-11-05T02:39:06.580Z",
+    "_updated": "2026-11-10T14:48:16.191Z",
     "tickers": {
       "NVDA": {
         "ticker": "NVDA",
@@ -271,17 +271,20 @@
       },
       "AMD": {
         "ticker": "AMD",
-        "quarterly": "Q2 FY2026",
-        "dcRevenueQoQ": 16,
+        "quarterly": "Q3 FY2026",
+        "dcRevenueQoQ": 27,
         "grossMargin": 54,
-        "epsBeat": 2,
-        "netDebtDirection": "down",
-        "capexGuidance": "unknown",
-        "capexCashDirection": "raise",
+        "epsBeat": 7.73,
+        "netDebtDirection": "up",
+        "capexGuidance": null,
+        "capexCashDirection": "lower",
         "capexTreatment": "unknown",
         "epsBasis": "surprise",
         "gmBasis": "gaap",
-        "asOf": "2026-08-04"
+        "nextEarningsDate": null,
+        "asOf": "2026-11-03",
+        "asOfEvidence": "filing",
+        "capturedAt": "2026-11-10"
       },
       "ARM": {
         "ticker": "ARM",
@@ -301,11 +304,11 @@
       }
     }
   },
-  "fundamentalsAsOf": "2026-11-05",
+  "fundamentalsAsOf": "2026-11-10",
   "gex": {
-    "netGEX": -120203536.7160852,
-    "flipPoint": 7615,
-    "asOf": "2026-11-06"
+    "netGEX": -44672813.583285585,
+    "flipPoint": 7612,
+    "asOf": "2026-11-10"
   },
   "iv": {
     "asOf": "2026-11-09",
